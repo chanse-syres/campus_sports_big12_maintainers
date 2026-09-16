@@ -115,6 +115,14 @@ function sourceLabel(sourceUrl) {
   return hostname;
 }
 
+function hasIncompleteWomenRecruitingCoverage(dataset, schoolSlug, sportSlug, collection) {
+  if (sportSlug !== 'womens-basketball' || !['recruitingBoard', 'recruitingOffers'].includes(collection)) return false;
+  const source = dataset.sourceUrl?.match(/^https:\/\/247sports\.com\/college\/([a-z-]+)\/season\/(20\d{2}|2100)-womens-basketball\/(commits|offers)\/$/);
+  const providerSlug = schoolSlug === 'ucf' ? 'central-florida' : schoolSlug;
+  return Boolean(source && source[1] === providerSlug && (dataset.season === null || source[2] === dataset.season)
+    && source[3] === (collection === 'recruitingBoard' ? 'commits' : 'offers'));
+}
+
 function compareNews(left, right) {
   return Date.parse(right.publishedAt) - Date.parse(left.publishedAt) ||
     `${left.schoolId}:${left.sport}:${left.id}`.localeCompare(`${right.schoolId}:${right.sport}:${right.id}`, 'en');
@@ -187,7 +195,10 @@ export function toFrontendTeam(snapshot, {
           lastSuccessAt: dataset.lastSuccessAt,
           reason: dataset.reason,
           coverageLabel: dataset.reason === 'provider-has-no-commitment-records'
-            ? 'No commitment records listed by provider; class size unknown' : null,
+            ? 'No commitment records listed by provider; class size unknown'
+            : dataset.reason === 'provider-has-no-offer-records' ? 'No offer records listed by provider; coverage incomplete'
+            : hasIncompleteWomenRecruitingCoverage(dataset, snapshot.school.slug, sportSlug, collection)
+              ? 'Provider-reported records; coverage incomplete' : null,
           stale: snapshotStale || dataset.status === 'stale' ||
             (dataset.lastSuccessAt !== null && isExpired(dataset.lastSuccessAt, now)),
           recordCount: dataset.records.length,

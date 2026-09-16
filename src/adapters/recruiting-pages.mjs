@@ -16,9 +16,10 @@ const POSITIONS = Object.freeze({
   'Small Forward': 'SF', 'Power Forward': 'PF', 'Center': 'C',
 });
 const BASKETBALL_POSITIONS = new Set(['Point Guard', 'Shooting Guard', 'Combo Guard', 'Small Forward', 'Power Forward', 'Center']);
+const SPORT_LABELS = Object.freeze({ football: 'Football', basketball: 'Basketball', 'womens-basketball': "Women's Basketball" });
 
 export function recruitingSourceUrl(school, sport, year, kind = 'commits') {
-  if (!SCHOOL_SLUGS.includes(school?.slug) || !['football', 'basketball'].includes(sport)
+  if (!SCHOOL_SLUGS.includes(school?.slug) || !Object.hasOwn(SPORT_LABELS, sport)
       || !Number.isSafeInteger(year) || year < 2000 || year > 2100
       || !['commits', 'offers'].includes(kind)) throw new Error('Unsupported recruiting scope');
   const providerSlug = school.slug === 'ucf' ? 'central-florida' : school.slug;
@@ -102,7 +103,7 @@ function parseRow($, element, context, status, expectedPosition = null) {
   if (status !== 'offered' && destination && destination !== school.name) throw new Error('Recruiting commitment destination mismatch');
   for (const anchor of row.find('a[href]').toArray()) {
     const href = $(anchor).attr('href');
-    const rowClass = href?.match(/\/season\/(\d{4})-(football|basketball)\//i);
+    const rowClass = href?.match(/\/season\/(\d{4})-(football|basketball|womens-basketball)\//i);
     if (rowClass && (Number(rowClass[1]) !== year || rowClass[2].toLowerCase() !== sport)) throw new Error('Recruiting row class or sport mismatch');
   }
   const meta = row.find('.recruit .meta').first().clone();
@@ -134,8 +135,8 @@ function pageContext(text, sourceUrl, school, sport, year, observedAt, kind) {
   const $ = document(text);
   if ($('link[rel="canonical"]').length !== 1 || !exactSource($('link[rel="canonical"]').attr('href'), expected)) throw new Error('Recruiting canonical scope mismatch');
   const heading = cleanText($('h1').first().text(), 300);
-  const match = heading.match(/^(.*?) (\d{4}) (Football|Basketball) (Commits|Offers) \((\d+)\)(?: All-Time Commits)?$/);
-  if (!match || match[1] !== school.name || Number(match[2]) !== year || match[3].toLowerCase() !== sport || match[4].toLowerCase() !== kind) throw new Error('Recruiting heading scope mismatch');
+  const match = heading.match(/^(.*?) (\d{4}) (Football|Basketball|Women's Basketball) (Commits|Offers) \((\d+)\)(?: All-Time Commits)?$/);
+  if (!match || match[1] !== school.name || Number(match[2]) !== year || match[3] !== SPORT_LABELS[sport] || match[4].toLowerCase() !== kind) throw new Error('Recruiting heading scope mismatch');
   const count = Number(match[5]);
   if (count > MAX_RECORDS) throw new Error('Recruiting record count exceeds budget');
   const list = $('ul.ri-page__list');
@@ -154,7 +155,7 @@ export function parseRecruiting(text, sourceUrl, school, sport, year, observedAt
     const row = $(element);
     if (row.hasClass('list-header')) { section = cleanText(row.find('.name').text(), 120); continue; }
     if (row.hasClass('ri-page__list-item--no-results')) {
-      hasExplicitEmpty = cleanText(row.text()) === `No Results for ${year} ${sport === 'football' ? 'Football' : 'Basketball'}`;
+      hasExplicitEmpty = cleanText(row.text()) === `No Results for ${year} ${SPORT_LABELS[sport]}`;
       continue;
     }
     if (/transfers?|de-?commits?/i.test(section)) continue;
@@ -193,7 +194,10 @@ export async function collectRecruiting({ school, sport, year, observedAt, get, 
   const initial = await get(sourceUrl);
   if (kind === 'commits') {
     const records = parseRecruiting(initial, sourceUrl, school, sport, year, observedAt);
-    return { records, season: String(year), emptyConfirmed: true, sourceUrl, pagesFetched: 1, expectedCount: records.length };
+    // WBB provider coverage is incomplete: an explicit empty listing does not
+    // establish an empty real-world class and must not erase prior records.
+    return { records, season: String(year), emptyConfirmed: sport !== 'womens-basketball' || records.length > 0, sourceUrl, pagesFetched: 1, expectedCount: records.length,
+      reason: sport === 'womens-basketball' ? (records.length ? 'provider-reported-records-coverage-incomplete' : 'provider-has-no-commitment-records') : null };
   }
   const context = pageContext(initial, sourceUrl, school, sport, year, observedAt, kind);
   const { $, list, count } = context;
@@ -203,13 +207,13 @@ export async function collectRecruiting({ school, sport, year, observedAt, get, 
     const row = $(element);
     if (row.hasClass('list-header')) {
       const match = cleanText(row.find('.name').text(), 120).match(/^(.*?) \((\d+)\)$/);
-      if (!match || !Object.hasOwn(POSITIONS, match[1]) || BASKETBALL_POSITIONS.has(match[1]) !== (sport === 'basketball')
+      if (!match || !Object.hasOwn(POSITIONS, match[1]) || BASKETBALL_POSITIONS.has(match[1]) !== (sport !== 'football')
           || Number(match[2]) > MAX_RECORDS || sections.some(section => section.name === match[1])) throw new Error('Unknown or duplicate recruiting offer section');
       current = { name: match[1], count: Number(match[2]), rows: [], next: null };
       sections.push(current);
       if (sections.length > MAX_PAGES) throw new Error('Recruiting section count exceeds budget');
     } else if (row.hasClass('ri-page__list-item--no-results')) {
-      hasExplicitEmpty = cleanText(row.text()) === `No Results for ${year} ${sport === 'football' ? 'Football' : 'Basketball'}`;
+      hasExplicitEmpty = cleanText(row.text()) === `No Results for ${year} ${SPORT_LABELS[sport]}`;
     } else if (row.hasClass('showmore_blk')) {
       const next = row.find('a[data-js="showmore"]');
       if (!current || current.next || next.length !== 1) throw new Error('Ambiguous recruiting continuation');
@@ -255,8 +259,9 @@ export async function collectRecruiting({ school, sport, year, observedAt, get, 
   }
   if (sourceRecordCount !== count || records.size !== count - duplicateCount) throw new Error('Recruiting offer count mismatch');
   return {
-    records: [...records.values()], season: String(year), emptyConfirmed: true, sourceUrl, pagesFetched,
+    records: [...records.values()], season: String(year), emptyConfirmed: sport !== 'womens-basketball' || records.size > 0, sourceUrl, pagesFetched,
     expectedCount: count, sourceRecordCount, duplicateCount,
-    reason: duplicateCount ? `provider-duplicate-records-deduplicated:${duplicateCount}` : null,
+    reason: duplicateCount ? `provider-duplicate-records-deduplicated:${duplicateCount}` : sport === 'womens-basketball'
+      ? (records.size ? 'provider-reported-records-coverage-incomplete' : 'provider-has-no-offer-records') : null,
   };
 }

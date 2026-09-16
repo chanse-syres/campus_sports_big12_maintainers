@@ -31,9 +31,15 @@ function source(id, url, publisher, sport = null, schoolScoped = false, options 
     imageHosts: [...hostVariants(host), `platform.${host.replace(/^www\./, '')}`], feedTitle: publisher, ...options });
 }
 const NATIONAL = Object.freeze([
-  source('espn-football', 'https://www.espn.com/espn/rss/ncf/news', 'ESPN', 'football', false, { feedTitle: 'www.espn.com - NCF', imageHosts: ['a.espncdn.com'] }),
-  source('espn-basketball', 'https://www.espn.com/espn/rss/ncb/news', 'ESPN', 'basketball', false, { feedTitle: 'www.espn.com - NCB', imageHosts: ['a.espncdn.com'] }),
-  source('espn-womens-basketball', 'https://www.espn.com/espn/rss/ncw/news', 'ESPN', 'womens-basketball', false, { feedTitle: 'www.espn.com - NCW', imageHosts: ['a.espncdn.com'] }),
+  ...[
+    ['football', 'football/college-football', 'NCAAF News', 23],
+    ['basketball', 'basketball/mens-college-basketball', "Men's College Basketball News", 41],
+    ['womens-basketball', 'basketball/womens-college-basketball', "Women's College Basketball News", 54],
+  ].map(([sport, path, feedTitle, leagueId]) => source(`espn-${sport}`,
+    `https://site.api.espn.com/apis/site/v2/sports/${path}/news?limit=100`, 'ESPN', sport, false, {
+      format: 'espn-json', feedTitle, leagueId, leagueIndexUrl: `https://www.espn.com/${path.split('/')[1]}/`,
+      articleHosts: ['www.espn.com', 'espn.com'], imageHosts: ['a.espncdn.com', 'espnmedia-cdn.akamaized.net'],
+    })),
   source('ncaa-football', 'https://www.ncaa.com/news/football/fbs/rss.xml', 'NCAA.com', 'football', false, { feedTitle: 'NCAA.com > football fbs articles and video' }),
   source('ncaa-basketball', 'https://www.ncaa.com/news/basketball-men/d1/rss.xml', 'NCAA.com', 'basketball', false, { feedTitle: 'NCAA.com > basketball-men d1 articles and video' }),
   source('ncaa-womens-basketball', 'https://www.ncaa.com/news/basketball-women/d1/rss.xml', 'NCAA.com', 'womens-basketball', false, { feedTitle: 'NCAA.com > basketball-women d1 articles and video' }),
@@ -98,13 +104,69 @@ function publicationDate(raw) {
   return Number.isFinite(ms) ? { publishedAt: new Date(ms).toISOString(), publishedAtPrecision: 'instant' } : { publishedAt: null, publishedAtPrecision: 'unknown' };
 }
 
-/** Parse only a reviewed direct publisher RSS/Atom feed. Bodies remain transient. */
+function object(value) { return value !== null && typeof value === 'object' && !Array.isArray(value); }
+function scalar(value, maximum, optional = false) {
+  if (optional && value == null) return '';
+  if (typeof value !== 'string' || value.length > maximum) throw new Error('Invalid ESPN news scalar');
+  return value;
+}
+
+// This is ESPN's public JSON news feed on the same reviewed API host as its
+// schedule/roster feeds. It does not fall back to another endpoint on denial.
+function parseEspnNews(text, definition, school, sport, at) {
+  const data = JSON.parse(text);
+  if (!object(data) || data.header !== definition.feedTitle || !object(data.link) ||
+      data.link.href !== definition.leagueIndexUrl) throw new Error('ESPN news identity mismatch');
+  if (!Array.isArray(data.articles) || data.articles.length > 200) throw new Error('Invalid ESPN news record budget');
+  const records = new Map();
+  for (const article of data.articles) {
+    if (!object(article) || !object(article.links) || !object(article.links.web) ||
+        !Array.isArray(article.categories) || article.categories.length > 200 ||
+        (article.images != null && (!Array.isArray(article.images) || article.images.length > 20))) {
+      throw new Error('Invalid ESPN news record');
+    }
+    const title = plain(scalar(article.headline, 200_000), 300);
+    const description = plain(scalar(article.description, 200_000, true), 2000);
+    const url = safeUrl(scalar(article.links.web.href, 2048));
+    const date = publicationDate(scalar(article.published, 80, true));
+    let hasLeague = false;
+    for (const category of article.categories) {
+      if (!object(category)) throw new Error('Invalid ESPN news category');
+      scalar(category.type, 40);
+      if (category.type === 'league') {
+        if (!Number.isSafeInteger(category.leagueId) || !object(category.league) ||
+            category.league.id !== category.leagueId) throw new Error('Invalid ESPN news league');
+        if (category.leagueId === definition.leagueId) hasLeague = true;
+      }
+    }
+    const images = (article.images ?? []).map(image => {
+      if (!object(image)) throw new Error('Invalid ESPN news image');
+      const imageUrl = safeUrl(scalar(image.url, 2048));
+      const alt = scalar(image.alt, 200_000, true), caption = scalar(image.caption, 200_000, true);
+      const imageAlt = plain(alt || caption, 300) || null;
+      return imageUrl && definition.imageHosts.includes(new URL(imageUrl).hostname) ? { imageUrl, imageAlt } : null;
+    }).filter(Boolean);
+    if (!hasLeague || !title || !url || !definition.articleHosts.includes(new URL(url).hostname)) continue;
+    if (date.publishedAt && Date.parse(date.publishedAt) > Date.parse(at) + 86_400_000) continue;
+    // Descriptions help route stories but are never included in public records.
+    // Category labels cannot establish a school merely because it was tagged.
+    if (!classifyNewsRelevance({ title, description, url, sourceSport: definition.sport }, school, sport).accepted) continue;
+    records.set(url, { id: stableId(school.slug, sport, url), title, url, ...date,
+      ...(images[0] ?? { imageUrl: null, imageAlt: null }), publisher: definition.publisher,
+      discoverySourceUrl: definition.url });
+  }
+  return { records: [...records.values()].sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || '')),
+    emptyConfirmed: true, reason: 'publisher-feed-filtered-school-and-sport' };
+}
+
+/** Parse only a reviewed direct publisher RSS/Atom or ESPN JSON feed. */
 export function parseWebNews(text, requestedSource, school, sport, at) {
   if (!SPORTS.includes(sport) || !school?.sports?.includes(sport)) throw new Error('Unsupported news sport');
   const definition = webNewsSources(school).find(value => value.id === requestedSource?.id && value.url === requestedSource?.url);
   if (!definition || (definition.sport && definition.sport !== sport)) throw new Error('News source scope mismatch');
   if (typeof at !== 'string' || !Number.isFinite(Date.parse(at))) throw new Error('Invalid news observation time');
   if (typeof text !== 'string' || !text.trim() || text.length > 2_000_000) throw new Error('Invalid feed document size');
+  if (definition.format === 'espn-json') return parseEspnNews(text, definition, school, sport, at);
   if (/<!DOCTYPE|<!ENTITY/i.test(text)) throw new Error('XML declarations are not allowed');
   const $ = load(text, { xmlMode: true });
   const roots = $.root().children();

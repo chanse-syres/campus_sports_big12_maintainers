@@ -115,3 +115,113 @@ test('every accepted story inside the reviewed feed budget reaches the archive m
   const html = rss(Array.from({ length: 150 }, (_, index) => entry({ url: `https://www.si.com/college/arizona/football/story-${index}` })).join(''));
   assert.equal(parse(html).records.length, 150);
 });
+
+const espn = webNewsSources(school).find(value => value.id === 'espn-football');
+const espnArticle = (overrides = {}) => ({
+  headline: 'Arizona football prepares for conference opener',
+  description: 'The Arizona Wildcats football team prepares for its next game.',
+  published: '2026-09-15T22:19:02Z',
+  categories: [{ type: 'league', leagueId: 23, league: { id: 23 } }],
+  links: { web: { href: 'https://www.espn.com/college-football/story/_/id/123/arizona-preview' } },
+  images: [{ url: 'https://a.espncdn.com/photo/arizona.jpg', caption: 'Arizona football practice' }],
+  ...overrides,
+});
+const espnFeed = (articles, definition = espn, overrides = {}) => JSON.stringify({
+  header: definition.feedTitle, link: { href: definition.leagueIndexUrl }, articles, ...overrides,
+});
+
+test('ESPN public JSON feed preserves attributed metadata and never publishes descriptions or bodies', () => {
+  const record = parse(espnFeed([espnArticle({ body: '<p>Do not republish this body.</p>' })]), 'football', espn).records[0];
+  assert.equal(record.title, 'Arizona football prepares for conference opener');
+  assert.equal(record.publisher, 'ESPN');
+  assert.equal(record.discoverySourceUrl, espn.url);
+  assert.equal(record.publishedAt, '2026-09-15T22:19:02.000Z');
+  assert.equal(record.imageUrl, 'https://a.espncdn.com/photo/arizona.jpg');
+  assert.equal(record.imageAlt, 'Arizona football practice');
+  assert.deepEqual(Object.keys(record).sort(), ['discoverySourceUrl', 'id', 'imageAlt', 'imageUrl', 'publishedAt', 'publishedAtPrecision', 'publisher', 'title', 'url']);
+  assert.deepEqual(parse(espnFeed([]), 'football', espn), {
+    records: [], emptyConfirmed: true, reason: 'publisher-feed-filtered-school-and-sport',
+  });
+  const duplicates = parse(espnFeed([espnArticle(), espnArticle()]), 'football', espn);
+  assert.equal(duplicates.records.length, 1);
+});
+
+test('ESPN JSON identity and league evidence are fixed for each configured sport', () => {
+  for (const sport of ['football', 'basketball', 'womens-basketball']) {
+    const definition = webNewsSources(school).find(value => value.id === `espn-${sport}`);
+    const title = sport === 'football' ? 'Arizona football prepares for opener' :
+      sport === 'basketball' ? "Arizona men's basketball prepares for opener" : "Arizona women's basketball prepares for opener";
+    const record = espnArticle({ headline: title, description: title,
+      categories: [{ type: 'league', leagueId: definition.leagueId, league: { id: definition.leagueId } }],
+      links: { web: { href: `${definition.leagueIndexUrl}story/_/id/123/arizona-preview` } } });
+    assert.equal(parse(espnFeed([record], definition), sport, definition).records.length, 1);
+    assert.throws(() => parse(espnFeed([record], definition, { header: 'Wrong News' }), sport, definition), /identity/);
+    assert.throws(() => parse(espnFeed([record], definition, { link: { href: `${definition.leagueIndexUrl}?unreviewed=1` } }), sport, definition), /identity/);
+    assert.equal(parse(espnFeed([{ ...record, categories: [{ type: 'league', leagueId: 46, league: { id: 46 } }] }], definition), sport, definition).records.length, 0);
+  }
+  assert.throws(() => parse(espnFeed([]), 'basketball', espn), /scope/);
+  assert.throws(() => parse(espnFeed([]), 'football', { ...espn, url: `${espn.url}&teams=12` }), /scope/);
+});
+
+test('ESPN descriptions support classification without trusting unrelated team tags or sport context', () => {
+  const womens = webNewsSources(school).find(value => value.id === 'espn-womens-basketball');
+  const womenRecord = espnArticle({ headline: 'Arizona announces new schedule', description: "The Arizona women's basketball team has a new schedule.",
+    categories: [{ type: 'league', leagueId: 54, league: { id: 54 } }] });
+  assert.equal(parse(espnFeed([womenRecord], womens), 'womens-basketball', womens).records.length, 1);
+  const rejected = [
+    espnArticle({ headline: 'Arizona State football preview', description: 'The Sun Devils open their season.' }),
+    espnArticle({ headline: 'Arizona Cardinals football preview', description: 'Arizona Cardinals announce their NFL lineup.' }),
+    espnArticle({ headline: 'Arizona basketball schedule', description: 'The Wildcats basketball team releases its schedule.' }),
+    espnArticle({ headline: 'Arizona football betting odds', description: 'Arizona football odds.' }),
+    espnArticle({ headline: 'Conference schedules released', description: 'The complete league schedule.',
+      links: { web: { href: 'https://www.espn.com/college-football/story/_/id/123/conference-schedules' } }, categories: [
+      { type: 'league', leagueId: 23, league: { id: 23 } }, { type: 'team', description: 'Arizona Wildcats', teamId: 12 },
+    ] }),
+  ];
+  assert.equal(parse(espnFeed(rejected), 'football', espn).records.length, 0);
+  assert.equal(parse(espnFeed([espnArticle({ categories: [{ type: 'league', leagueId: 54, league: { id: 54 } }] })], womens), 'womens-basketball', womens).records.length, 0);
+});
+
+test('ESPN JSON strips markup and rejects hostile article and image destinations', () => {
+  const record = espnArticle({ headline: '<b>Arizona football</b><script>steal()</script> updates',
+    description: '<script>malicious()</script> Arizona Wildcats football.',
+    images: [{ url: 'https://espnmedia-cdn.akamaized.net/espn/arizona.jpg', alt: '<b>Practice</b><script>steal()</script>' }],
+    __proto__: { leaked: 'must not copy inherited fields' },
+  });
+  const result = parse(espnFeed([record]), 'football', espn).records[0];
+  assert.equal(result.title, 'Arizona football updates');
+  assert.equal(result.imageAlt, 'Practice');
+  assert.equal(Object.hasOwn(result, 'leaked'), false);
+  for (const href of ['https://www.espn.com.attacker.example/college-football/arizona', 'https://attacker.example/www.espn.com/arizona', 'https://www.espn.com/arizona?token=secret', 'javascript:alert(1)']) {
+    assert.equal(parse(espnFeed([espnArticle({ links: { web: { href } } })]), 'football', espn).records.length, 0);
+  }
+  for (const url of ['https://a.espncdn.com.attacker.example/photo.jpg', 'https://a.espncdn.com/photo.jpg?signature=private', 'https://127.0.0.1/photo.jpg']) {
+    const result = parse(espnFeed([espnArticle({ images: [{ url }] })]), 'football', { ...espn, imageHosts: ['127.0.0.1', 'a.espncdn.com.attacker.example'] }).records[0];
+    assert.equal(result.imageUrl, null);
+  }
+});
+
+test('ESPN JSON malformed shapes and record, nested array and scalar budgets fail closed', () => {
+  for (const text of ['not JSON', 'null', '[]', '{}', espnFeed({}), espnFeed(Array.from({ length: 201 }, () => espnArticle()))]) {
+    assert.throws(() => parse(text, 'football', espn));
+  }
+  for (const record of [
+    null, [], espnArticle({ headline: {} }), espnArticle({ headline: 'x'.repeat(200_001) }),
+    espnArticle({ description: 'x'.repeat(200_001) }), espnArticle({ published: [] }),
+    espnArticle({ links: { web: { href: 'x'.repeat(2049) } } }),
+    espnArticle({ categories: {} }), espnArticle({ categories: [null] }),
+    espnArticle({ categories: Array.from({ length: 201 }, () => ({ type: 'topic' })) }),
+    espnArticle({ categories: [{ type: 'league', leagueId: 23, league: { id: 54 } }] }),
+    espnArticle({ images: Array.from({ length: 21 }, () => ({ url: 'https://a.espncdn.com/a.jpg' })) }),
+    espnArticle({ images: [{ url: 'https://a.espncdn.com/a.jpg', caption: {} }] }),
+  ]) assert.throws(() => parse(espnFeed([record]), 'football', espn));
+});
+
+test('catalog has exactly 33 RSS/Atom sources and three reviewed ESPN JSON feeds', async () => {
+  const sources = new Map();
+  for (const slug of SCHOOL_SLUGS) for (const definition of webNewsSources(await getSchool(slug))) sources.set(definition.url, definition);
+  assert.equal(sources.size, 36);
+  assert.equal([...sources.values()].filter(definition => definition.format === 'espn-json').length, 3);
+  assert.equal([...sources.values()].filter(definition => !definition.format).length, 33);
+  assert.ok([...sources.values()].filter(definition => definition.format === 'espn-json').every(definition => new URL(definition.url).hostname === 'site.api.espn.com'));
+});

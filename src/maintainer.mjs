@@ -55,7 +55,7 @@ export async function maintainSchool(school, { now = new Date().toISOString(), p
     const announcements = news.official.records.filter(r => /\b(signs?|signing|signees?|recruiting class|adds? .+ to (?:the )?roster|welcomes? .+ class)\b/i.test(r.title)).slice(0, 400);
     entry.recruitingAnnouncements = { ...news.official, status: ['ok', 'empty'].includes(news.official.status) ? (announcements.length ? 'ok' : 'empty') : news.official.status, records: announcements, reason: ['ok', 'empty'].includes(news.official.status) ? 'headline-classification-announcements-only' : news.official.reason };
     const year = recruitingCycle(new Date(at));
-    if (['football', 'basketball'].includes(sport)) {
+    if (['football', 'basketball', 'womens-basketball'].includes(sport)) {
       for (const [name, kind] of [['recruitingBoard', 'commits'], ['recruitingOffers', 'offers']]) {
         const sourceUrl = recruitingSourceUrl(school, sport, year, kind);
         entry[name] = await refreshDataset({ at, sourceUrl, prior: prior?.[name],

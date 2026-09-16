@@ -5,14 +5,14 @@ import { getSchool } from '../src/config.mjs';
 import { maintainSchool } from '../src/maintainer.mjs';
 import { SourceError } from '../src/network.mjs';
 import { recruitingSourceUrl } from '../src/adapters/recruiting.mjs';
-import { additionalRecruitingSourceUrl } from '../src/adapters/additional-recruiting.mjs';
 
 const school = await getSchool('arizona');
 const previousAt = '2026-09-15T08:00:00.000Z';
 const now = '2026-09-16T08:00:00.000Z';
 const commitmentUrl = recruitingSourceUrl(school, 'football', 2027);
 const offersUrl = recruitingSourceUrl(school, 'football', 2027, 'offers');
-const womenUrl = additionalRecruitingSourceUrl(school, 'womens-basketball', 2027);
+const womenUrl = recruitingSourceUrl(school, 'womens-basketball', 2027);
+const womenOffersUrl = recruitingSourceUrl(school, 'womens-basketball', 2027, 'offers');
 const commitmentDocument = await readFile(new URL('./fixtures/recruiting-commits.html', import.meta.url), 'utf8');
 const offerDocument = commitmentDocument
   .replaceAll('/commits/', '/offers/')
@@ -30,13 +30,23 @@ function sourceGet(documents = {}, calls = []) {
 }
 
 function womenDocument(hasRecords) {
-  const row = '<li class="item"><div class="player"><span class="name"><a href="https://www.espn.com/high-school/girls-basketball/recruiting/player/_/id/12345">Example Recruit</a>, G</span></div><div class="commit-status">Verbal</div></li>';
-  return `<title>2027 High School Girls' Basketball Recruits - Arizona - ESPN</title>
-    <link rel="canonical" href="${womenUrl.replace('https:', 'http:')}">
-    <div class="stats-col-2"><h4>2027 Player Commits</h4><table><thead><tr><td>Commits</td><td>ESPN 100 Commits</td></tr></thead><tbody><tr><td>${hasRecords ? '1' : '—'}</td><td>—</td></tr></tbody></table></div>
-    <ul id="tabs"><li class="active"><a class="commits" href="${womenUrl}">Commits</a></li></ul>
-    <div id="filter-commits">${hasRecords ? `<ul>${row}</ul>` : '<div>Committed recruits are not available.</div>'}</div>`;
+  const html = commitmentDocument.replaceAll('2027-football', '2027-womens-basketball').replaceAll('Football', "Women's Basketball").replace('>QB<', '>PG<');
+  return hasRecords ? html : html.replace('Commits (1)', 'Commits (0)').replace(/<ul[\s\S]*<\/ul>/,
+    '<ul class="ri-page__list"><li class="ri-page__list-item ri-page__list-item--no-results">No Results for 2027 Women\'s Basketball</li></ul>');
 }
+
+test('women commitments and offers refresh independently through the public 247Sports source', async () => {
+  const calls = [];
+  const womenOffer = offerDocument.replaceAll('2027-football', '2027-womens-basketball').replaceAll('Football', "Women's Basketball").replace('Quarterback', 'Point Guard').replace('>QB<', '>PG<');
+  const result = await maintainSchool(school, { now, get: sourceGet({ [womenUrl]: womenDocument(true), [womenOffersUrl]: womenOffer }, calls) });
+  const program = result.sports['womens-basketball'];
+  assert.equal(program.recruitingBoard.status, 'ok');
+  assert.equal(program.recruitingOffers.status, 'ok');
+  assert.equal(program.recruitingOffers.records[0].status, 'offered');
+  assert.equal(program.recruitingBoard.records[0].sourceUrl, womenUrl);
+  assert.equal(program.recruitingOffers.reason, 'provider-reported-records-coverage-incomplete');
+  assert.equal(calls.some(url => new URL(url).hostname === 'www.espn.com'), false);
+});
 
 test('maintainer retains women commitments and their verified age when the provider stops reporting records', async () => {
   const previous = await maintainSchool(school, { now: previousAt, get: sourceGet({ [womenUrl]: womenDocument(true) }) });
