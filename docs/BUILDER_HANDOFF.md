@@ -114,8 +114,8 @@ incomplete or unrelated to a high school recruiting class. Label this section
 "Official recruiting announcements" and retain the source; do not infer player
 commitments, ratings, rankings, class years, transfer status, or decommitments.
 
-**Recruiting boards** use 247Sports for football and men's basketball, ESPN
-HoopGurlz for women's basketball, and Perfect Game for baseball. These are
+**Recruiting boards** use 247Sports for football and men's and women's basketball,
+and Perfect Game for baseball. These are
 source-reported commitment records, not every offered or interested prospect.
 Use `season` and each record's `classYear` rather than assuming the current year.
 The cycle changes to the following calendar year in March and retains that class
@@ -135,18 +135,21 @@ composite score. No missing rating, rank, photo, or measurement is fabricated.
 
 The mapper preserves lowercase `status` and adds `statusLabel`, `lastUpdated`,
 `scope`, `href`, and `sources` for frontend use. Provider attribution is retained
-as 247Sports, ESPN HoopGurlz, or Perfect Game. Existing recruit components must
+as 247Sports or Perfect Game. Existing recruit components must
 accept nullable values rather than requiring a made-up star count or position.
 
-**Recruiting offers** are a separate football/men's basketball collection. An
+**Recruiting offers** are a separate football/men's and women's basketball collection. An
 `offered` record means a historically reported offer from this school, even if
 the player committed elsewhere. Display the mapper's "Historical offer" label;
 do not infer that the player remains uncommitted, interested, or available.
-Women's basketball and baseball offers are `unavailable` with
+Baseball offers are `unavailable` with
 `provider-does-not-cover-offers`. Official recruiting announcements still run
 for all sponsored sports.
 
-An ESPN page explicitly listing no commitment records produces `status: "empty"`
+Women's basketball uses 247Sports public lists; the ESPN HoopGurlz website
+returned HTTP 202 from GitHub runners. Women's provider coverage is incomplete,
+including nonempty lists (`provider-reported-records-coverage-incomplete`).
+An explicit women's listing with no commitment records produces `status: "empty"`
 with `reason: "provider-has-no-commitment-records"` and a successful fetch time.
 This verifies the provider's empty listing, not a zero-player recruiting class.
 Display the mapper's `health.coverageLabel`: "No commitment records listed by
@@ -154,7 +157,10 @@ provider; class size unknown". If a previous snapshot contains commitments, the
 maintainer retains them as stale instead of erasing them on that unconfirmed
 empty listing. On source blocking, also retain the prior successful collection
 with its stale status and timestamps. Never turn missing provider coverage into
-a verified empty recruiting class.
+a verified empty recruiting class. Empty women's offer lists similarly use
+`provider-has-no-offer-records`, preserve prior same-source records as stale,
+and carry the mapper label "No offer records listed by provider; coverage incomplete".
+Nonempty women's collections carry "Provider-reported records; coverage incomplete".
 
 Existing school-scoped recruiting loaders also need the Big 12 schools
 registered before they can accept those scopes. Connecting the news reader alone

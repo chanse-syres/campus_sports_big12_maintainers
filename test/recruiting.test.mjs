@@ -37,6 +37,26 @@ test('zero commits require explicit provider zero and no-results evidence', () =
   assert.throws(() => parse(zero.replace('No Results for 2027 Football', 'Temporarily unavailable')));
 });
 
+test('women recruiting validates the exact gender scope and reports incomplete provider coverage', async () => {
+  const womenUrl = recruitingSourceUrl(school, 'womens-basketball', 2027);
+  const women = document.replaceAll('2027-football', '2027-womens-basketball').replaceAll('Football', "Women's Basketball").replace('>QB<', '>PG<');
+  const options = { school, sport: 'womens-basketball', year: 2027, observedAt: '2026-09-16T00:00:00Z' };
+  const result = await collectRecruiting({ ...options, get: async () => women });
+  assert.equal(result.records[0].sport, 'womens-basketball');
+  assert.equal(result.records[0].sourceUrl, womenUrl);
+  assert.equal(result.reason, 'provider-reported-records-coverage-incomplete');
+  assert.throws(() => parseRecruiting(women.replace("Women's Basketball Commits", 'Basketball Commits'), womenUrl, school, 'womens-basketball', 2027, options.observedAt), /heading scope/);
+  assert.throws(() => parseRecruiting(women.replace('2027-womens-basketball/recruitrankings', '2027-basketball/recruitrankings'), womenUrl, school, 'womens-basketball', 2027, options.observedAt), /row class or sport/);
+  const empty = women.replace('Commits (1)', 'Commits (0)').replace(/<ul[\s\S]*<\/ul>/,
+    '<ul class="ri-page__list"><li class="ri-page__list-item ri-page__list-item--no-results">No Results for 2027 Women\'s Basketball</li></ul>');
+  const noCommits = await collectRecruiting({ ...options, get: async () => empty });
+  assert.equal(noCommits.emptyConfirmed, false);
+  assert.equal(noCommits.reason, 'provider-has-no-commitment-records');
+  const noOffers = await collectRecruiting({ ...options, kind: 'offers', get: async () => empty.replaceAll('/commits/', '/offers/').replace('Commits (0)', 'Offers (0)') });
+  assert.equal(noOffers.emptyConfirmed, false);
+  assert.equal(noOffers.reason, 'provider-has-no-offer-records');
+});
+
 test('row destination/class and duplicate provider identities cannot silently cross boundaries', () => {
   assert.throws(() => parse(document.replace('<p>Commit', '<img alt="Baylor"><p>Commit')), /destination/);
   assert.throws(() => parse(document.replace('2027-football/recruitrankings', '2026-football/recruitrankings')), /row class/);

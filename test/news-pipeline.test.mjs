@@ -8,8 +8,12 @@ import { SourceError } from '../src/network.mjs';
 const school = await getSchool('arizona');
 const at = '2026-09-16T12:00:00.000Z', priorAt = '2026-09-15T12:00:00.000Z';
 const source = webNewsSources(school).find(source => source.id === 'espn-football');
-const item = (id, title = 'Arizona Wildcats football wins opener') => `<item><title>${title}</title><link>https://www.espn.com/college-football/story/_/id/${id}/arizona-football</link><pubDate>Tue, 15 Sep 2026 10:00:00 GMT</pubDate></item>`;
-const feed = items => `<rss version="2.0"><channel><title><![CDATA[${source.feedTitle}]]></title><link>https://www.espn.com/college-football/</link>${items}</channel></rss>`;
+const item = (id, title = 'Arizona Wildcats football wins opener') => ({
+  headline: title, published: '2026-09-15T10:00:00Z',
+  links: { web: { href: `https://www.espn.com/college-football/story/_/id/${id}/arizona-football` } },
+  categories: [{ type: 'league', leagueId: source.leagueId, league: { id: source.leagueId } }],
+});
+const feed = article => JSON.stringify({ header: source.feedTitle, link: { href: source.leagueIndexUrl }, articles: [article] });
 
 test('independent publisher failures keep useful articles and original source success times', async () => {
   const first = await refreshNews({ school, sport: 'football', at: priorAt, sources: [source], get: async url => {

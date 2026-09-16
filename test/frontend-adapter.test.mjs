@@ -227,22 +227,22 @@ test('all collection mappings retain scope and provenance without inventing recr
 test('women and baseball boards map provider identity while missing provider records stay unavailable', () => {
   const value = snapshot();
   addDataset(value, 'womens-basketball', 'recruitingBoard', [recruit({
-    sport: 'womens-basketball', sourceUrl: 'https://www.espn.com/high-school/girls-basketball/recruiting/school/_/id/12/class/2027',
+    sport: 'womens-basketball', sourceUrl: 'https://247sports.com/college/arizona/season/2027-womens-basketball/commits/',
     profileUrl: null,
-  })], { sourceUrl: 'https://www.espn.com/high-school/girls-basketball/recruiting/school/_/id/12/class/2027' });
+  })], { sourceUrl: 'https://247sports.com/college/arizona/season/2027-womens-basketball/commits/' });
   addDataset(value, 'baseball', 'recruitingBoard', [recruit({
     sport: 'baseball', sourceUrl: 'https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1739',
     profileUrl: null,
   })], { sourceUrl: 'https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1739' });
-  value.sports['womens-basketball'].recruitingOffers.reason = 'provider-does-not-cover-offers';
+  value.sports['womens-basketball'].recruitingOffers.reason = 'http-503';
   const team = toFrontendTeam(value, { now });
   const women = team.sports.womensBasketball;
   assert.equal(women.recruitingBoard.records[0].sport, 'womensBasketball');
   assert.equal(women.recruitingBoard.records[0].sportSlug, 'womens-basketball');
-  assert.equal(women.recruitingBoard.records[0].sources[0].label, 'ESPN HoopGurlz');
+  assert.equal(women.recruitingBoard.records[0].sources[0].label, '247Sports');
   assert.equal(team.sports.baseball.recruitingBoard.records[0].sources[0].label, 'Perfect Game');
   assert.equal(women.recruitingOffers.health.status, 'unavailable');
-  assert.equal(women.recruitingOffers.health.reason, 'provider-does-not-cover-offers');
+  assert.equal(women.recruitingOffers.health.reason, 'http-503');
   assert.deepEqual(women.recruitingOffers.records, []);
 
   value.sports['womens-basketball'].recruitingBoard = {
@@ -266,10 +266,10 @@ test('a single stale collection remains visible without marking successful sibli
   for (const collection of datasetNames) assert.equal(team.sports.football[collection].health.stale, true);
 });
 
-test('ESPN explicit empty listing retains provider coverage reason and a clear class-size label', () => {
+test('women explicit empty listings retain provider coverage reasons and clear labels', () => {
   const value = snapshot();
   addDataset(value, 'womens-basketball', 'recruitingBoard', [], {
-    sourceUrl: 'https://www.espn.com/high-school/girls-basketball/recruiting/school/_/id/12/class/2027',
+    sourceUrl: 'https://247sports.com/college/arizona/season/2027-womens-basketball/commits/',
     reason: 'provider-has-no-commitment-records',
   });
   const board = toFrontendTeam(value, { now }).sports.womensBasketball.recruitingBoard;
@@ -279,6 +279,43 @@ test('ESPN explicit empty listing retains provider coverage reason and a clear c
   assert.equal(board.health.stale, false);
   assert.equal(board.health.coverageLabel, 'No commitment records listed by provider; class size unknown');
   assert.deepEqual(board.records, []);
+  addDataset(value, 'womens-basketball', 'recruitingOffers', [], {
+    sourceUrl: 'https://247sports.com/college/arizona/season/2027-womens-basketball/offers/',
+    reason: 'provider-has-no-offer-records',
+  });
+  assert.equal(toFrontendTeam(value, { now }).sports.womensBasketball.recruitingOffers.health.coverageLabel, 'No offer records listed by provider; coverage incomplete');
+  value.sports['womens-basketball'].recruitingBoard.reason = 'provider-reported-records-coverage-incomplete';
+  assert.equal(toFrontendTeam(value, { now }).sports.womensBasketball.recruitingBoard.health.coverageLabel, 'Provider-reported records; coverage incomplete');
+});
+
+test('women provider coverage remains incomplete when deduplication or source failure changes the reason', () => {
+  const value = snapshot();
+  const boardSource = 'https://247sports.com/college/arizona/season/2027-womens-basketball/commits/';
+  const offerSource = 'https://247sports.com/college/arizona/season/2027-womens-basketball/offers/';
+  addDataset(value, 'womens-basketball', 'recruitingBoard', [recruit({ sport: 'womens-basketball', sourceUrl: boardSource })], {
+    sourceUrl: boardSource, status: 'stale', reason: 'http-503',
+  });
+  addDataset(value, 'womens-basketball', 'recruitingOffers', [recruit({ sport: 'womens-basketball', sourceUrl: offerSource, status: 'offered' })], {
+    sourceUrl: offerSource, reason: 'provider-duplicate-records-deduplicated:1',
+  });
+  const women = toFrontendTeam(value, { now }).sports.womensBasketball;
+  for (const collection of ['recruitingBoard', 'recruitingOffers']) {
+    assert.equal(women[collection].health.coverageLabel, 'Provider-reported records; coverage incomplete');
+    assert.equal(women[collection].records.length, 1);
+  }
+  assert.equal(women.recruitingBoard.health.reason, 'http-503');
+  assert.equal(women.recruitingBoard.health.stale, true);
+  assert.equal(women.recruitingOffers.health.reason, 'provider-duplicate-records-deduplicated:1');
+  assert.equal(women.recruitingOffers.health.stale, false);
+
+  // This provider-specific limitation must not follow a generic error reason
+  // onto men's recruiting or another provider's collection.
+  addDataset(value, 'football', 'recruitingBoard', [recruit()], { status: 'stale', reason: 'http-503' });
+  assert.equal(toFrontendTeam(value, { now }).sports.football.recruitingBoard.health.coverageLabel, null);
+  const alternate = 'https://example.com/commitments';
+  value.sports['womens-basketball'].recruitingBoard.sourceUrl = alternate;
+  value.sports['womens-basketball'].recruitingBoard.records[0].sourceUrl = alternate;
+  assert.equal(toFrontendTeam(value, { now }).sports.womensBasketball.recruitingBoard.health.coverageLabel, null);
 });
 
 test('mapper rejects school or recruit scope mismatches before returning UI data', () => {
