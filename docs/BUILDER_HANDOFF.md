@@ -122,6 +122,8 @@ not retained as stale. The configured official athletics sources and frontend
 official roster links should remain available while a verified current-roster
 collector is added. Baseball news, schedules, and recruiting commitments
 continue independently; Colorado and Iowa State baseball remain `unsupported`.
+The health report displays and counts this documented roster gap without
+failing publication; unexpected unavailable or stale sources still fail it.
 
 **Recruiting announcements** use the news shape. They are selected by a signing
 headline heuristic, not confirmed structured athlete records. A match can be
