@@ -22,7 +22,7 @@ const publishEnv = {
 function fixture() {
   const texts = new Map(schoolSlugs.map((slug) => [slug, JSON.stringify({ school: slug, generatedAt: '2026-09-16T00:00:00.000Z' }) + '\n']));
   const manifest = {
-    schemaVersion: 1, conference: 'big12', generatedAt: '2026-09-16T00:00:00.000Z',
+    schemaVersion: 2, conference: 'big12', generatedAt: '2026-09-16T00:00:00.000Z',
     teams: schoolSlugs.map((school) => ({ school, path: `teams/${school}.json`, sha256: sha(texts.get(school)) })),
   };
   return { texts, manifest };
@@ -32,9 +32,9 @@ async function fixtureDirectory(t) {
   const root = await mkdtemp(path.join(os.tmpdir(), 'big12-publication-test-'));
   t.after(() => rm(root, { recursive: true, force: true }));
   const { texts, manifest } = fixture();
-  await mkdir(path.join(root, 'v1', 'teams'), { recursive: true });
-  await writeFile(path.join(root, 'v1', 'manifest.json'), JSON.stringify(manifest));
-  for (const [school, text] of texts) await writeFile(path.join(root, 'v1', 'teams', `${school}.json`), text);
+  await mkdir(path.join(root, 'v2', 'teams'), { recursive: true });
+  await writeFile(path.join(root, 'v2', 'manifest.json'), JSON.stringify(manifest));
+  for (const [school, text] of texts) await writeFile(path.join(root, 'v2', 'teams', `${school}.json`), text);
   return { root, texts, manifest };
 }
 
@@ -46,7 +46,7 @@ test('publication accepts only a complete checksummed collection and validates e
   const bundle = await loadPublicationBundle(root, { schoolSlugs, validator: (snapshot, slug) => { validator(snapshot, slug); validated.push(slug); } });
   assert.deepEqual(validated, schoolSlugs);
   assert.equal(bundle.files.length, 17);
-  assert.equal(bundle.files[0].path, 'v1/manifest.json');
+  assert.equal(bundle.files[0].path, 'v2/manifest.json');
 });
 
 test('manifest rejects traversal, duplicates, missing schools, and unknown fields', () => {
@@ -64,7 +64,7 @@ test('manifest rejects traversal, duplicates, missing schools, and unknown field
 
 test('publication rejects altered snapshots even when the JSON is valid', async (t) => {
   const { root } = await fixtureDirectory(t);
-  await writeFile(path.join(root, 'v1', 'teams', 'school-a.json'), '{"school":"school-b"}');
+  await writeFile(path.join(root, 'v2', 'teams', 'school-a.json'), '{"school":"school-b"}');
   await assert.rejects(loadPublicationBundle(root, { schoolSlugs, validator }), /checksum/);
 });
 
@@ -74,20 +74,20 @@ test('publication rejects a checksummed snapshot from a different collection run
   snapshot.generatedAt = '2026-09-15T00:00:00.000Z';
   const changed = JSON.stringify(snapshot);
   manifest.teams[0].sha256 = sha(changed);
-  await writeFile(path.join(root, 'v1', 'teams', 'school-a.json'), changed);
-  await writeFile(path.join(root, 'v1', 'manifest.json'), JSON.stringify(manifest));
+  await writeFile(path.join(root, 'v2', 'teams', 'school-a.json'), changed);
+  await writeFile(path.join(root, 'v2', 'manifest.json'), JSON.stringify(manifest));
   await assert.rejects(loadPublicationBundle(root, { schoolSlugs, validator }), /generation timestamp/);
 });
 
 test('publication rejects unexpected artifact files', async (t) => {
   const { root } = await fixtureDirectory(t);
-  await writeFile(path.join(root, 'v1', '.env'), 'should never be published');
+  await writeFile(path.join(root, 'v2', '.env'), 'should never be published');
   await assert.rejects(loadPublicationBundle(root, { schoolSlugs, validator }), /unexpected publication files/);
 });
 
 test('publication rejects hardlinked snapshot files', async (t) => {
   const { root } = await fixtureDirectory(t);
-  const target = path.join(root, 'v1', 'teams', 'school-a.json');
+  const target = path.join(root, 'v2', 'teams', 'school-a.json');
   const secondLink = path.join(os.tmpdir(), `big12-link-${path.basename(root)}.json`);
   t.after(() => rm(secondLink, { force: true }));
   await link(target, secondLink);
@@ -110,7 +110,7 @@ test('initial publication creates an independent data branch with only validated
   const request = async (method, endpoint, body, allowMissing) => {
     calls.push({ method, endpoint, body, allowMissing });
     if (endpoint === 'git/ref/heads/main') return { object: { sha: mainSha } };
-    if (endpoint === 'git/ref/heads/data') { assert.equal(allowMissing, true); return null; }
+    if (endpoint === 'git/ref/heads/data') return allowMissing ? null : { object: { sha: commitSha } };
     if (endpoint === 'git/trees') return { sha: treeSha };
     if (endpoint === 'git/commits') return { sha: commitSha };
     if (endpoint === 'git/refs') return { ref: 'refs/heads/data' };
@@ -120,9 +120,10 @@ test('initial publication creates an independent data branch with only validated
   const tree = calls.find((call) => call.endpoint === 'git/trees').body;
   assert.equal(tree.tree.length, 17);
   assert.equal(Object.hasOwn(tree, 'base_tree'), false);
-  assert.ok(tree.tree.every((file) => file.mode === '100644' && file.type === 'blob' && file.path.startsWith('v1/')));
+  assert.ok(tree.tree.every((file) => file.mode === '100644' && file.type === 'blob' && file.path.startsWith('v2/')));
   assert.deepEqual(calls.find((call) => call.endpoint === 'git/commits').body.parents, []);
-  assert.deepEqual(calls.at(-1).body, { ref: 'refs/heads/data', sha: commitSha });
+  assert.deepEqual(calls.find(call => call.endpoint === 'git/refs').body, { ref: 'refs/heads/data', sha: commitSha });
+  assert.equal(calls.at(-1).method, 'GET');
 });
 
 test('publisher refuses stale main before any write request', async () => {

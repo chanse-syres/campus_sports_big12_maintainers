@@ -1,10 +1,12 @@
 {
   "name": "campus-sports-big12-maintainers",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "description": "Public, school-scoped Big 12 sports data maintainers",
-  "engines": { "node": ">=24.0.0 <25" },
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
   "scripts": {
     "maintain": "node src/cli.mjs",
     "test": "node --test",
@@ -12,5 +14,9 @@
     "validate": "node scripts/validate-output.mjs",
     "audit": "npm audit --omit=dev"
   },
-  "dependencies": { "ajv": "8.20.0", "cheerio": "1.2.0", "ipaddr.js": "2.5.0" }
+  "dependencies": {
+    "ajv": "8.20.0",
+    "cheerio": "1.2.0",
+    "ipaddr.js": "2.5.0"
+  }
 }

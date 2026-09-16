@@ -1,6 +1,6 @@
 import Ajv from 'ajv';
 import { snapshotSchema, manifestSchema } from './schema.mjs';
-import { safeUrl } from './normalize.mjs';
+import { safeUrl, assertPublicValue } from './normalize.mjs';
 import { SCHOOL_SLUGS, SPORTS } from './config.mjs';
 const ajv = new Ajv({ allErrors: false, strict: true });
 const validate = ajv.compile(snapshotSchema);
@@ -23,8 +23,25 @@ export function validateSnapshot(snapshot, expectedSlug) {
       if (dataset.status === 'empty' && dataset.records.length) throw new Error('Empty dataset has records');
       if (Date.parse(dataset.lastAttemptAt) > Date.parse(snapshot.generatedAt) || (dataset.lastSuccessAt && Date.parse(dataset.lastSuccessAt) > Date.parse(dataset.lastAttemptAt))) throw new Error('Invalid freshness timestamps');
       if (new Set(dataset.records.map(r => r.id)).size !== dataset.records.length) throw new Error('Duplicate record IDs');
+      if (kind === 'news') {
+        const sources = new Map(dataset.sources.map(source => [source.sourceUrl, source]));
+        if (sources.size !== dataset.sources.length) throw new Error('Duplicate news sources');
+        for (const source of sources.values()) {
+          if (Date.parse(source.lastAttemptAt) > Date.parse(dataset.lastAttemptAt) || (source.lastSuccessAt && Date.parse(source.lastSuccessAt) > Date.parse(source.lastAttemptAt))) throw new Error('Invalid source freshness');
+          if (source.status === 'unavailable' && (source.lastSuccessAt || source.recordCount)) throw new Error('Unavailable news source claims data');
+          if (source.status !== 'unavailable' && !source.lastSuccessAt) throw new Error('News source success has no timestamp');
+          if (['ok', 'empty'].includes(dataset.status) && ['unavailable', 'stale'].includes(source.status)) throw new Error('Degraded news source hidden by fresh collection');
+        }
+        for (const record of dataset.records) if (!sources.has(record.discoverySourceUrl)) throw new Error('Article discovery provenance missing');
+      }
       for (const record of dataset.records) {
-        if (kind === 'recruitingBoard' && (record.schoolId !== snapshot.school.slug || record.sport !== sport)) throw new Error('Recruiting record scope mismatch');
+        if (['recruitingBoard', 'recruitingOffers'].includes(kind)) {
+          if (record.schoolId !== snapshot.school.slug || record.sport !== sport) throw new Error('Recruiting record scope mismatch');
+          if (kind === 'recruitingOffers' && record.status !== 'offered') throw new Error('Offer record must represent the scoped school offer');
+          if (record.rating !== null && record.ratingSystem === null) throw new Error('Rating needs provider attribution');
+          if (dataset.season !== String(record.classYear)) throw new Error('Recruiting class mismatch');
+          if (Date.parse(record.updatedAt) > Date.parse(dataset.lastSuccessAt)) throw new Error('Recruiting observation exceeds source success');
+        }
         if ('publishedAtPrecision' in record && ((record.publishedAt === null) !== (record.publishedAtPrecision === 'unknown'))) throw new Error('Publication precision mismatch');
       }
     }
@@ -42,6 +59,7 @@ function checkValues(value, key = '') {
   if (Array.isArray(value)) { for (const item of value) checkValues(item); return; }
   if (value && typeof value === 'object') { for (const [k, v] of Object.entries(value)) checkValues(v, k); return; }
   if (typeof value !== 'string') return;
+  assertPublicValue(value);
   if (/url$/i.test(key) && !safeUrl(value)) throw new Error('Unsafe output URL');
   if (/At$/.test(key) || key === 'date') {
     if (!Number.isFinite(Date.parse(value)) || new Date(value).toISOString() !== value) throw new Error('Invalid timestamp');
