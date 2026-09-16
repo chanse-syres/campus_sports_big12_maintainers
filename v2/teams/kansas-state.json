@@ -6,18 +6,29 @@
     "name": "Kansas State",
     "athleticsUrl": "https://www.kstatesports.com"
   },
-  "generatedAt": "2026-09-16T16:54:04.182Z",
+  "generatedAt": "2026-09-16T21:17:36.268Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "0095e7705d3c83dcbe8fe76a",
+            "title": "Wildcats in the NFL – Week 1",
+            "url": "https://www.kstatesports.com/news/2026/9/16/football-wildcats-in-the-nfl-week-1",
+            "publishedAt": "2026-09-16T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://www.kstatesports.com/images/2026/9/16/Felix.jpg",
+            "imageAlt": null,
+            "publisher": "Kansas State Athletics",
+            "discoverySourceUrl": "https://www.kstatesports.com/sports/football/archives"
+          },
           {
             "id": "5bc4b3dbc5de52ebb559a598",
             "title": "Whitaker Living Out His Dream a World Away from His Childhood",
@@ -858,56 +869,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
             "reason": null,
-            "recordCount": 31
+            "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 33
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 10
@@ -916,8 +927,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/schedule",
         "season": "2026",
         "reason": null,
@@ -1070,8 +1081,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/roster",
         "season": "2026",
         "reason": null,
@@ -1980,8 +1991,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -1989,8 +2000,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -2016,7 +2027,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-ohnmacht-46157307/",
@@ -2039,7 +2050,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brajon-melancon-46165745/",
@@ -2062,7 +2073,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawayne-jones-46147331/",
@@ -2085,7 +2096,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-hynek-46156875/",
@@ -2108,7 +2119,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-mccomb-46155703/",
@@ -2131,7 +2142,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-kruse-46162966/",
@@ -2154,7 +2165,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sedrick-marsh-46158719/",
@@ -2177,7 +2188,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/finn-walker-46159175/",
@@ -2200,7 +2211,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joseph-graves-46151690/",
@@ -2223,7 +2234,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooklyn-maxey-46164107/",
@@ -2246,7 +2257,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/laron-baker-jr-46145802/",
@@ -2269,7 +2280,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashton-stark-46164266/",
@@ -2292,7 +2303,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/correll-buckhalter-jr-46155810/",
@@ -2315,7 +2326,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/london-goggans-46157831/",
@@ -2338,7 +2349,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-rushing-46159969/",
@@ -2361,7 +2372,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-davis-46167116/",
@@ -2384,7 +2395,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-harris-46158709/",
@@ -2407,7 +2418,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-price-46162633/",
@@ -2430,7 +2441,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeron-allen-ii-46159086/",
@@ -2453,7 +2464,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-dossett-46150553/",
@@ -2476,7 +2487,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anitoni-tahi-46151438/",
@@ -2499,7 +2510,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-clayborne-46161414/",
@@ -2522,7 +2533,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-murray-iii-46166998/",
@@ -2545,7 +2556,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kelvin-eiwo-46150508/",
@@ -2568,7 +2579,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/giacamo-sanfilippo-46165251/",
@@ -2591,7 +2602,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/canaan-smith-46165295/",
@@ -2614,14 +2625,14 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
         "season": "2027",
         "reason": null,
@@ -2647,7 +2658,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-mencl-46156781/",
@@ -2670,7 +2681,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -2693,7 +2704,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-nussmeier-46146658/",
@@ -2716,7 +2727,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylen-warren-46152790/",
@@ -2739,7 +2750,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-roskopf-46155022/",
@@ -2762,7 +2773,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-white-46143662/",
@@ -2785,7 +2796,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-kruse-46162966/",
@@ -2808,7 +2819,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dane-weber-46155270/",
@@ -2831,7 +2842,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kael-snyder-46150670/",
@@ -2854,7 +2865,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-hunter-46150725/",
@@ -2877,7 +2888,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-santibanez-46165172/",
@@ -2900,7 +2911,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gary-walker-46163000/",
@@ -2923,7 +2934,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarius-mcmiller-46144140/",
@@ -2946,7 +2957,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daylon-gordon-46157348/",
@@ -2969,7 +2980,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-keys-46145046/",
@@ -2992,7 +3003,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-miles-46157912/",
@@ -3015,7 +3026,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amarri-irvin-46142805/",
@@ -3038,7 +3049,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/javian-jones-priest-46159699/",
@@ -3061,7 +3072,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aymaud-sykes-46165391/",
@@ -3084,7 +3095,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-roberts-46151437/",
@@ -3107,7 +3118,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayshon-gibson-46150802/",
@@ -3130,7 +3141,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tylek-lewis-46145110/",
@@ -3153,7 +3164,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/triston-willis-46153677/",
@@ -3176,7 +3187,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/arwin-jackson-46146895/",
@@ -3199,7 +3210,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/correll-buckhalter-jr-46155810/",
@@ -3222,7 +3233,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tj-lewis-46155479/",
@@ -3245,7 +3256,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taye-reich-46150424/",
@@ -3268,7 +3279,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-scott-46145117/",
@@ -3291,7 +3302,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-stonewall-46153370/",
@@ -3314,7 +3325,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikel-stephen-46151588/",
@@ -3337,7 +3348,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kylonn-haynie-46148733/",
@@ -3360,7 +3371,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-ball-46155652/",
@@ -3383,7 +3394,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarin-simmons-46150455/",
@@ -3406,7 +3417,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eric-mcfarland-iii-46148083/",
@@ -3429,7 +3440,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/briceson-thrower-jr-46155048/",
@@ -3452,7 +3463,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-moore-46143523/",
@@ -3475,7 +3486,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quentin-burrell-46139675/",
@@ -3498,7 +3509,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
@@ -3521,7 +3532,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jabari-watkins-46154730/",
@@ -3544,7 +3555,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dontay-tyson-46151181/",
@@ -3567,7 +3578,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-haralson-46144141/",
@@ -3590,7 +3601,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-kelly-murray-46151857/",
@@ -3613,7 +3624,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-christie-46151855/",
@@ -3636,7 +3647,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taurean-rawlins-46164019/",
@@ -3659,7 +3670,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-douglas-46145101/",
@@ -3682,7 +3693,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-baldwin-46145701/",
@@ -3705,7 +3716,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-fields-46156704/",
@@ -3728,7 +3739,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-haynes-46150053/",
@@ -3751,7 +3762,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyron-brown-46165287/",
@@ -3774,7 +3785,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brock-burrus-46154520/",
@@ -3797,7 +3808,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antayvious-ellis-46142374/",
@@ -3820,7 +3831,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/laron-baker-jr-46145802/",
@@ -3843,7 +3854,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashton-stark-46164266/",
@@ -3866,7 +3877,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-knowles-46153338/",
@@ -3889,7 +3900,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-smith-46155030/",
@@ -3912,7 +3923,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/donovan-mcnabb-jr-46150805/",
@@ -3935,7 +3946,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/austin-coles-46154221/",
@@ -3958,7 +3969,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-coleman-46156590/",
@@ -3981,7 +3992,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maliek-brown-46158921/",
@@ -4004,7 +4015,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-rushing-46159969/",
@@ -4027,7 +4038,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
@@ -4050,7 +4061,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roscoe-hayes-46147294/",
@@ -4073,7 +4084,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zy-tassin-46150338/",
@@ -4096,7 +4107,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-donahoo-46164180/",
@@ -4119,7 +4130,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trysten-shaw-46155778/",
@@ -4142,7 +4153,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-walley-46164108/",
@@ -4165,7 +4176,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derrick-martin-46153280/",
@@ -4188,7 +4199,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-brown-46151849/",
@@ -4211,7 +4222,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacob-lockett-46147871/",
@@ -4234,7 +4245,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalil-ferguson-46166629/",
@@ -4257,7 +4268,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-brown-46149605/",
@@ -4280,7 +4291,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooks-bakko-46153720/",
@@ -4303,7 +4314,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-terwilliger-46150536/",
@@ -4326,7 +4337,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drake-mikkelsen-46158520/",
@@ -4349,7 +4360,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/korz-loken-46150467/",
@@ -4372,7 +4383,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/titus-hawk-46155052/",
@@ -4395,7 +4406,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-hynek-46156875/",
@@ -4418,7 +4429,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/grant-haviland-46150826/",
@@ -4441,7 +4452,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/max-patterson-46159328/",
@@ -4464,7 +4475,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carter-blackwell-46161071/",
@@ -4487,7 +4498,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/talan-scott-46156636/",
@@ -4510,7 +4521,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-kessel-46158717/",
@@ -4533,7 +4544,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-camping-46160665/",
@@ -4556,7 +4567,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/judah-lancaster-46145705/",
@@ -4579,7 +4590,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeramie-cooper-46146522/",
@@ -4602,7 +4613,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brady-johnson-46158974/",
@@ -4625,7 +4636,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-mandrell-46165266/",
@@ -4648,7 +4659,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylen-ross-46155489/",
@@ -4671,7 +4682,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaeden-penny-46151261/",
@@ -4694,7 +4705,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-brown-46152521/",
@@ -4717,7 +4728,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-hildebrand-46150822/",
@@ -4740,7 +4751,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-hackett-46156728/",
@@ -4763,7 +4774,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jasper-ngokwere-46149467/",
@@ -4786,7 +4797,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/niko-kampas-46159217/",
@@ -4809,7 +4820,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-roper-46153223/",
@@ -4832,7 +4843,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/timi-aliu-46161065/",
@@ -4855,7 +4866,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-halliman-46155221/",
@@ -4878,7 +4889,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
@@ -4901,7 +4912,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjamin-lowther-46149593/",
@@ -4924,7 +4935,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tye-kennedy-46162261/",
@@ -4947,7 +4958,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matt-erickson-46150898/",
@@ -4970,7 +4981,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reed-gerken-46148203/",
@@ -4993,7 +5004,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hudson-ingalsbe-46165472/",
@@ -5016,7 +5027,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-wallace-46158394/",
@@ -5039,7 +5050,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/corey-laga-46162587/",
@@ -5062,7 +5073,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/koen-hinzman-46164004/",
@@ -5085,7 +5096,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rj-clem-46159574/",
@@ -5108,7 +5119,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/teagan-parizek-46167345/",
@@ -5131,7 +5142,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyson-ross-46161904/",
@@ -5154,7 +5165,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-siler-46163939/",
@@ -5177,7 +5188,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-harris-46158709/",
@@ -5200,7 +5211,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joseph-hamer-46158419/",
@@ -5223,7 +5234,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylen-hill-46162004/",
@@ -5246,7 +5257,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-greene-46164276/",
@@ -5269,7 +5280,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-ericson-staton-46159091/",
@@ -5292,7 +5303,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sonny-mullen-46166839/",
@@ -5315,7 +5326,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-clayborne-46161414/",
@@ -5338,7 +5349,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brendan-meaney-46162080/",
@@ -5361,7 +5372,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zyion-wesley-46156279/",
@@ -5384,7 +5395,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonathan-toney-46159660/",
@@ -5407,7 +5418,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/henry-frazier-46165568/",
@@ -5430,7 +5441,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nick-vecrumba-46155677/",
@@ -5453,7 +5464,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-timms-46153299/",
@@ -5476,7 +5487,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-hebert-46164605/",
@@ -5499,7 +5510,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-miller-46144299/",
@@ -5522,7 +5533,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyler-kuhn-46155294/",
@@ -5545,7 +5556,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gus-corsair-46150698/",
@@ -5568,7 +5579,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-slagle-46151966/",
@@ -5591,7 +5602,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-hemphill-woods-46154227/",
@@ -5614,7 +5625,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dajohn-yarborough-46155167/",
@@ -5637,7 +5648,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-thompson-46149614/",
@@ -5660,7 +5671,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lincoln-mageo-46147045/",
@@ -5683,7 +5694,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/barrett-kitrell-46161834/",
@@ -5706,7 +5717,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylan-mota-46164183/",
@@ -5729,7 +5740,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/shavezz-dixon-46154743/",
@@ -5752,7 +5763,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-hurt-46152642/",
@@ -5775,7 +5786,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aidan-ray-46167108/",
@@ -5798,7 +5809,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stephan-hicks-jr-46166032/",
@@ -5821,7 +5832,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reis-russell-46145499/",
@@ -5844,7 +5855,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristan-dare-46146325/",
@@ -5867,7 +5878,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-vigness-46159815/",
@@ -5890,7 +5901,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nico-ramos-46163809/",
@@ -5913,7 +5924,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-injaychock-46154262/",
@@ -5936,7 +5947,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-mack-46149670/",
@@ -5959,7 +5970,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-cook-46154645/",
@@ -5982,7 +5993,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-endicott-46160366/",
@@ -6005,7 +6016,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wilder-brasher-46146935/",
@@ -6028,7 +6039,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kelvin-eiwo-46150508/",
@@ -6051,7 +6062,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-carraway-46145097/",
@@ -6074,7 +6085,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/abdus-kone-46159210/",
@@ -6097,7 +6108,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/canaan-smith-46165295/",
@@ -6120,7 +6131,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-williams-46145123/",
@@ -6143,7 +6154,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-shaw-jr-46165358/",
@@ -6166,7 +6177,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/harry-maileoi-46169172/",
@@ -6189,7 +6200,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sitaiai-maileoi-46170377/",
@@ -6212,7 +6223,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khayree-lee-jr-46131403/",
@@ -6235,7 +6246,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-hall-46157610/",
@@ -6258,7 +6269,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/uhila-wolfgramm-46152619/",
@@ -6281,7 +6292,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-goldsby-46162471/",
@@ -6304,7 +6315,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marvin-nguetsop-46159737/",
@@ -6327,7 +6338,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ifeanyi-emedobi-46162249/",
@@ -6350,7 +6361,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juelz-batiste-46161309/",
@@ -6373,7 +6384,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tommy-riordan-46154685/",
@@ -6396,7 +6407,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tk-cunningham-46130530/",
@@ -6419,7 +6430,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keysan-taylor-46159687/",
@@ -6442,7 +6453,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-kasky-46147938/",
@@ -6465,7 +6476,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/clarence-johnson-jr-46163112/",
@@ -6488,7 +6499,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylen-mercer-46145741/",
@@ -6511,7 +6522,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxon-holly-46149514/",
@@ -6534,7 +6545,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adriel-rojas-46158454/",
@@ -6557,7 +6568,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samuel-nelson-46163732/",
@@ -6580,7 +6591,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sedrick-marsh-46158719/",
@@ -6603,7 +6614,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-mailo-46147113/",
@@ -6626,7 +6637,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darin-graham-46162053/",
@@ -6649,7 +6660,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-pfannenstiel-46159291/",
@@ -6672,7 +6683,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-tautolo-46145956/",
@@ -6695,7 +6706,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-phoenix-46161501/",
@@ -6718,7 +6729,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dominic-letlow-46149240/",
@@ -6741,7 +6752,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/olayiwola-taiwo-46162419/",
@@ -6764,7 +6775,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-demoss-46153531/",
@@ -6787,7 +6798,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/owen-roberts-46161919/",
@@ -6810,7 +6821,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-price-46162633/",
@@ -6833,7 +6844,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeron-allen-ii-46159086/",
@@ -6856,7 +6867,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-jordan-46159788/",
@@ -6879,7 +6890,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/xzavier-pfister-46164665/",
@@ -6902,7 +6913,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-carbin-46152322/",
@@ -6925,7 +6936,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-folorunsho-46158874/",
@@ -6948,7 +6959,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zane-rowe-46139730/",
@@ -6971,7 +6982,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alifeleti-tuihalamaka-46149194/",
@@ -6994,7 +7005,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sam-lejeune-46150692/",
@@ -7017,7 +7028,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-starcevic-46149472/",
@@ -7040,7 +7051,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-parks-46146752/",
@@ -7063,7 +7074,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/john-archer-46146916/",
@@ -7086,7 +7097,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezekiel-ayangbile-46146266/",
@@ -7109,7 +7120,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/santana-harvey-46155183/",
@@ -7132,7 +7143,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-hill-46154801/",
@@ -7155,7 +7166,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kadrian-redmond-46150263/",
@@ -7178,7 +7189,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-diane-46155226/",
@@ -7201,7 +7212,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nehemiah-ombati-46159743/",
@@ -7224,7 +7235,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawayne-jones-46147331/",
@@ -7247,7 +7258,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antwan-mckoy-46157504/",
@@ -7270,7 +7281,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaderian-jones-46149545/",
@@ -7293,7 +7304,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dami-sowunmi-46158117/",
@@ -7316,7 +7327,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-johnson-46162588/",
@@ -7339,7 +7350,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/devoun-kendrick-46158317/",
@@ -7362,7 +7373,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maleek-lee-46159084/",
@@ -7385,7 +7396,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keilan-neal-46153392/",
@@ -7408,7 +7419,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/finn-walker-46159175/",
@@ -7431,7 +7442,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcellus-young-casario-46159925/",
@@ -7454,7 +7465,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joseph-graves-46151690/",
@@ -7477,7 +7488,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jesiah-fields-46155882/",
@@ -7500,7 +7511,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
@@ -7523,7 +7534,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khing-thibodeaux-46148678/",
@@ -7546,7 +7557,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stevan-thornton-iii-46164070/",
@@ -7569,7 +7580,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/markius-woods-46165935/",
@@ -7592,7 +7603,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrien-neal-46148173/",
@@ -7615,7 +7626,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/errol-demontagnac-46155802/",
@@ -7638,7 +7649,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -7661,7 +7672,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-thornton-46163675/",
@@ -7684,7 +7695,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/corey-randolph-46159113/",
@@ -7707,7 +7718,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gage-geyer-46162137/",
@@ -7730,7 +7741,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-nance-46161500/",
@@ -7753,7 +7764,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anitoni-tahi-46151438/",
@@ -7776,7 +7787,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-exume-46149458/",
@@ -7799,7 +7810,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zarius-matavao-46167688/",
@@ -7822,7 +7833,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brenham-cherne-46165509/",
@@ -7845,7 +7856,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/johnnie-fitzgerald-iii-46152066/",
@@ -7868,7 +7879,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/seth-kidd-46169132/",
@@ -7891,7 +7902,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taccofah-lewis-46132860/",
@@ -7914,7 +7925,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-thornton-46161639/",
@@ -7937,7 +7948,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jekai-lee-46169125/",
@@ -7960,7 +7971,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jhadyn-nelson-46164194/",
@@ -7983,7 +7994,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roman-igwebuike-46154637/",
@@ -8006,7 +8017,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-rhymes-46154822/",
@@ -8029,7 +8040,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tate-wallace-46144698/",
@@ -8052,7 +8063,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/case-alexander-46152524/",
@@ -8075,7 +8086,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-parson-46158397/",
@@ -8098,7 +8109,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-stecker-46153320/",
@@ -8121,7 +8132,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-mccomb-46155703/",
@@ -8144,7 +8155,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keiran-govan-46165447/",
@@ -8167,7 +8178,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aston-whiteside-46157574/",
@@ -8190,7 +8201,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ellis-mcgaskin-46144257/",
@@ -8213,7 +8224,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-williams-46159930/",
@@ -8236,7 +8247,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -8259,7 +8270,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -8282,7 +8293,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-betton-46155301/",
@@ -8305,7 +8316,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cade-haug-46145106/",
@@ -8328,7 +8339,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/theo-wilson-46152659/",
@@ -8351,7 +8362,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-godfree-46147136/",
@@ -8374,7 +8385,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marshaun-ivy-46149424/",
@@ -8397,7 +8408,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-harris-46152990/",
@@ -8420,7 +8431,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kason-clayborne-46161151/",
@@ -8443,7 +8454,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-renes-46149588/",
@@ -8466,7 +8477,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rome-ewell-46157683/",
@@ -8489,7 +8500,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -8512,7 +8523,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sean-rice-46162165/",
@@ -8535,7 +8546,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/broncs-baker-46155019/",
@@ -8558,7 +8569,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/giacamo-sanfilippo-46165251/",
@@ -8581,7 +8592,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nathan-jones-46159165/",
@@ -8604,7 +8615,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keishjuan-telfair-46153238/",
@@ -8627,7 +8638,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daniel-yebit-46164727/",
@@ -8650,7 +8661,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-roberson-46158879/",
@@ -8673,7 +8684,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-outhouse-jr-46145113/",
@@ -8696,7 +8707,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-sherrard-46155809/",
@@ -8719,7 +8730,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-vilmael-46159055/",
@@ -8742,7 +8753,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/evan-via-46159600/",
@@ -8765,7 +8776,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamil-loud-46153753/",
@@ -8788,7 +8799,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montre-jackson-46147419/",
@@ -8811,7 +8822,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taelyn-mayo-46142231/",
@@ -8834,7 +8845,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-jenkins-46160118/",
@@ -8857,7 +8868,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brajon-melancon-46165745/",
@@ -8880,7 +8891,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aidyn-wiggins-46165273/",
@@ -8903,7 +8914,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-johnson-46151739/",
@@ -8926,7 +8937,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mj-burnett-46158522/",
@@ -8949,7 +8960,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-woods-46154505/",
@@ -8972,7 +8983,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamauri-whitfield-46154635/",
@@ -8995,7 +9006,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikyal-davis-46149592/",
@@ -9018,7 +9029,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-blaylock-46146999/",
@@ -9041,7 +9052,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -9064,7 +9075,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bibbs-46160858/",
@@ -9087,7 +9098,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-allen-jr-46159628/",
@@ -9110,7 +9121,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dolph-mcdonald-46148876/",
@@ -9133,7 +9144,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carl-jones-jr-46162126/",
@@ -9156,7 +9167,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dhillon-mcgee-46140684/",
@@ -9179,7 +9190,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-gillespie-46155580/",
@@ -9202,7 +9213,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/silas-nuckles-46162214/",
@@ -9225,7 +9236,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-davis-46167116/",
@@ -9248,7 +9259,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/coaleon-johnson-46169317/",
@@ -9271,7 +9282,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nazir-pitchford-46157930/",
@@ -9294,7 +9305,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/otha-thomas-iv-46151891/",
@@ -9317,7 +9328,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-coleman-jr-46146582/",
@@ -9340,7 +9351,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-debose-46166541/",
@@ -9363,7 +9374,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alex-patton-46137071/",
@@ -9386,7 +9397,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cordaro-parham-46166948/",
@@ -9409,7 +9420,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kayden-battle-46165005/",
@@ -9432,7 +9443,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/johnny-mcneil-46158457/",
@@ -9455,7 +9466,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jett-watson-46149847/",
@@ -9478,7 +9489,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/larry-morgan-iii-46148056/",
@@ -9501,7 +9512,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jewellz-tapp-46167367/",
@@ -9524,7 +9535,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/shahariam-thurston-46157580/",
@@ -9547,7 +9558,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nasim-eason-46154554/",
@@ -9570,7 +9581,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rilee-drew-46150244/",
@@ -9593,7 +9604,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-willis-46166432/",
@@ -9616,7 +9627,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-murray-iii-46166998/",
@@ -9639,7 +9650,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/raymon-mckneely-46163838/",
@@ -9662,7 +9673,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-goodwin-46163518/",
@@ -9685,7 +9696,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-ford-46163824/",
@@ -9708,7 +9719,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristan-anderson-46141287/",
@@ -9731,7 +9742,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonivan-edwards-46169318/",
@@ -9754,7 +9765,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-witten-46150577/",
@@ -9777,7 +9788,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semaj-stanford-46146499/",
@@ -9800,7 +9811,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tory-pittman-iii-46139694/",
@@ -9823,7 +9834,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kj-caldwell-46155996/",
@@ -9846,7 +9857,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavares-harrington-46155142/",
@@ -9869,7 +9880,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-proctor-46156908/",
@@ -9892,7 +9903,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-ohnmacht-46157307/",
@@ -9915,7 +9926,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrell-mattison-46158983/",
@@ -9938,7 +9949,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylen-scott-46154318/",
@@ -9961,7 +9972,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-anding-46152579/",
@@ -9984,7 +9995,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-welch-46160368/",
@@ -10007,7 +10018,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailib-dillard-46159825/",
@@ -10030,7 +10041,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-green-46153115/",
@@ -10053,7 +10064,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alex-scott-46157719/",
@@ -10076,7 +10087,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-roberts-46143570/",
@@ -10099,7 +10110,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-walk-green-46154955/",
@@ -10122,7 +10133,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marvin-joseph-46158643/",
@@ -10145,7 +10156,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jabarri-lofton-46159927/",
@@ -10168,7 +10179,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-roberson-46157609/",
@@ -10191,7 +10202,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braiden-graves-46157607/",
@@ -10214,7 +10225,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/london-goggans-46157831/",
@@ -10237,7 +10248,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/savoy-guidry-46157640/",
@@ -10260,7 +10271,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-elzey-46154562/",
@@ -10283,7 +10294,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jameer-cantrell-46151806/",
@@ -10306,7 +10317,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavon-bolden-46161017/",
@@ -10329,7 +10340,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-dossett-46150553/",
@@ -10352,7 +10363,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hayden-dixon-46158536/",
@@ -10375,7 +10386,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-caston-46160190/",
@@ -10398,7 +10409,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-stevens-46166897/",
@@ -10421,7 +10432,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kesler-jenkins-46143429/",
@@ -10444,7 +10455,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyler-bush-46163585/",
@@ -10467,7 +10478,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trevionn-morton-46148215/",
@@ -10490,7 +10501,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lazeric-johnson-46170240/",
@@ -10513,7 +10524,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabriel-osborne-jr-46159790/",
@@ -10536,7 +10547,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amir-sears-46151570/",
@@ -10559,7 +10570,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myson-johnson-cook-46143247/",
@@ -10582,7 +10593,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bode-sparrow-46143770/",
@@ -10605,7 +10616,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/israel-hammons-46164012/",
@@ -10628,7 +10639,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-harris-jr-46161018/",
@@ -10651,7 +10662,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-blum-46149188/",
@@ -10674,7 +10685,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karece-hoyt-46144142/",
@@ -10697,7 +10708,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jai-jones-46150626/",
@@ -10720,7 +10731,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/krew-jones-46143771/",
@@ -10743,7 +10754,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lawrence-britt-46154473/",
@@ -10766,7 +10777,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jj-brown-46161034/",
@@ -10789,7 +10800,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-tyson-46141748/",
@@ -10812,7 +10823,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davion-crumitie-46157280/",
@@ -10835,7 +10846,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cristian-mbamarah-46158483/",
@@ -10858,7 +10869,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-booth-46152717/",
@@ -10881,7 +10892,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ronnie-gomiller-46145803/",
@@ -10904,7 +10915,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaston-lewis-46163162/",
@@ -10927,7 +10938,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-dillard-46154732/",
@@ -10950,7 +10961,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaneilius-purdy-46146570/",
@@ -10973,7 +10984,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooklyn-maxey-46164107/",
@@ -10996,7 +11007,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxx-dejean-46148046/",
@@ -11019,7 +11030,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stanley-smart-46151805/",
@@ -11042,7 +11053,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-jackson-46146944/",
@@ -11065,7 +11076,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooklyn-bailey-46159384/",
@@ -11088,7 +11099,7 @@
             "schoolId": "kansas-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       }
@@ -11097,8 +11108,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -11481,56 +11492,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 30
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -11539,8 +11550,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2306/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11548,8 +11559,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2306/roster",
         "season": "2026-27",
         "reason": null,
@@ -11684,8 +11695,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11716,8 +11727,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -11743,14 +11754,14 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -11776,7 +11787,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -11799,7 +11810,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/christopher-hunt-jr-46151679/",
@@ -11822,7 +11833,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaak-hayes-46144398/",
@@ -11845,7 +11856,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malik-olajuwon-46166582/",
@@ -11868,7 +11879,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quincy-douby-jr-46148977/",
@@ -11891,7 +11902,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jimmy-mckinney-iii-46150328/",
@@ -11914,7 +11925,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/william-powers-46165747/",
@@ -11937,7 +11948,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-jones-46148849/",
@@ -11960,7 +11971,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/london-dada-46160475/",
@@ -11983,7 +11994,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/knard-callendar-46163244/",
@@ -12006,7 +12017,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-aborowa-46163688/",
@@ -12029,7 +12040,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-cooper-46145961/",
@@ -12052,7 +12063,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-green-46146668/",
@@ -12075,7 +12086,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-barnes-46142932/",
@@ -12098,7 +12109,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davis-cochran-46160637/",
@@ -12121,7 +12132,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -12144,7 +12155,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/teke-deng-46168105/",
@@ -12167,7 +12178,7 @@
             "schoolId": "kansas-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       }
@@ -12176,8 +12187,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -12527,48 +12538,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -12577,8 +12588,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2306/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12755,8 +12766,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2306/roster",
         "season": "2026-27",
         "reason": null,
@@ -12882,8 +12893,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12936,8 +12947,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -12963,14 +12974,14 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/commits/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -12996,7 +13007,7 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -13019,7 +13030,7 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maddie-vickery-46154412/",
@@ -13042,7 +13053,7 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -13065,7 +13076,7 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -13088,7 +13099,7 @@
             "schoolId": "kansas-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       }
@@ -13097,8 +13108,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -13448,40 +13459,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 30
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-            "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+            "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+            "lastSuccessAt": "2026-09-16T21:17:36.268Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13490,8 +13501,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/264/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14184,8 +14195,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/264/roster",
         "season": "2025-26",
         "reason": null,
@@ -14707,8 +14718,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14728,8 +14739,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
-        "lastSuccessAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
+        "lastSuccessAt": "2026-09-16T21:17:36.268Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14755,7 +14766,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=759247",
@@ -14778,7 +14789,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1214657",
@@ -14801,7 +14812,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1601747",
@@ -14824,7 +14835,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1707195",
@@ -14847,13 +14858,13 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-09-16T16:54:04.182Z"
+            "updatedAt": "2026-09-16T21:17:36.268Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-16T16:54:04.182Z",
+        "lastAttemptAt": "2026-09-16T21:17:36.268Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
