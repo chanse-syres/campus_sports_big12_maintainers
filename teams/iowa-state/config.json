@@ -1,0 +1,26 @@
+{
+  "slug": "iowa-state",
+  "name": "Iowa State",
+  "athleticsUrl": "https://cyclones.com",
+  "espnId": "66",
+  "baseballEspnId": null,
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://cyclones.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://cyclones.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://cyclones.com/sports/womens-basketball/archives",
+      "format": "html"
+    }
+  }
+}

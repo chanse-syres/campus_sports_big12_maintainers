@@ -1,0 +1,63 @@
+# Big 12 maintainers
+
+One multi-sport maintainer per school for Campus Sports HQ. This public repository contains collectors and a versioned data contract. The frontend connects to validated public snapshots; no private application checkout, database credential, API key, or deployment token is needed.
+
+## Run
+
+Requires Node.js 24.
+
+```sh
+npm ci --ignore-scripts
+npm test
+npm run check
+node teams/arizona/maintainer.mjs
+# Or collect all 16 schools:
+npm run maintain -- --all
+npm run validate
+# Validate a complete publication without writing to GitHub:
+node scripts/publish.mjs --dry-run
+```
+
+Every `teams/<school>/maintainer.mjs` runs football, men's basketball, women's basketball, and baseball together. Colorado and Iowa State baseball are explicitly `unsupported`. A school-only run emits a partial manifest for local work; publication requires exactly all 16 schools from one generation.
+
+## Data and coverage
+
+| Collection | Source | Coverage |
+| --- | --- | --- |
+| News | Each school's official athletics archive | Up to 30 recent matching stories per sport; headline, original link, publication date precision, and source photo URL |
+| Schedule/results | ESPN public team data | Source-provided season, dates, opponents, scores and game status |
+| Roster | ESPN public team data | Public athlete name, position, jersey, class, profile and headshot; no birthdays, contact information or private records |
+| Recruiting announcements | Official news | Recent headlines matching signing/recruiting language, clearly separate from player records |
+| Recruiting board | 247Sports public commitment lists | Football and men's basketball verified commitments for the active recruiting cycle; no inferred offers or rankings |
+
+Women's basketball and baseball player boards report `unavailable` until a verified source adapter is configured. The interface is defined for the builder. Signing announcements are available in their separate collection. This pilot does not claim a complete recruiting offer ledger, transfer portal database, historical archive, or real-time scoreboard.
+
+These provider endpoints and serialized page formats are upstream dependencies, not guaranteed APIs. A changed, blocked, incomplete or empty response cannot silently erase the last successful collection. `generatedAt` records the collection run; `lastSuccessAt` and the original article date separately identify verified data freshness. A successful fetch can still yield a prior season's roster or schedule; consumers must display `season`.
+
+## Connect the frontend
+
+Start with [the builder handoff](docs/BUILDER_HANDOFF.md), [JSON Schema](schemas/snapshot.schema.json), and the [tested server-side adapter](examples/frontend-adapter.mjs).
+
+- Manifest: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v1/manifest.json`
+- School: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v1/teams/arizona.json`
+- Source code stays on `main`; only the 17 validated JSON files are published to `data`.
+
+For a consistent multi-school import, resolve `data` to a commit and read the manifest and files at that commit, then check every SHA-256. Mutable raw URLs may be cached and are not a transactional multi-file API. A single school snapshot is self-contained.
+
+## Automation
+
+The `Maintain Big 12 public data` workflow refreshes every six hours at minute 17. Manual runs default to collecting an artifact only; choose `publish=true` to update public snapshots. Three schools run at once, with sequential bounded requests inside each school. A separate publisher job validates the complete bundle again before one atomic Git ref update.
+
+To preserve last successful data locally, run `node scripts/publish.mjs --download-previous` in a checkout without a `previous` directory, then `npm run maintain -- --all --previous previous`. Network or schema failures are recorded per collection. Workflow source-health checks make unexpected stale/unavailable core datasets visible as failures while retaining the useful snapshot.
+
+GitHub may delay scheduled runs and disables schedules in inactive public repositories after 60 days. Monitor freshness independently in the consumer. This is scheduled batch maintenance, not an uptime guarantee. Standard public GitHub-hosted runner usage is covered by GitHub's public-repository Actions terms; separate hosting, storage and provider limits still apply.
+
+## Security and maintenance
+
+Read [SECURITY.md](SECURITY.md). Dependencies are lockfile-pinned, dependency install scripts are disabled, Actions are pinned to verified commits, and pull requests receive read-only jobs. Dependabot and CodeQL cover dependencies, JavaScript and Actions. Repository settings enforce branch protection and secret controls separately from the code.
+
+Images remain publisher URLs with missing images represented as `null`. No photo licensing rights are granted by this repository. Render source attribution, use a site-owned fallback image when absent, and confirm the intended image use with the publisher. Article bodies are neither stored nor republished.
+
+## Schools
+
+Arizona, Arizona State, Baylor, BYU, Cincinnati, Colorado, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, Utah, West Virginia. [Official Big 12 membership](https://big12sports.com/news/2019/7/31/big-12-conference.aspx).

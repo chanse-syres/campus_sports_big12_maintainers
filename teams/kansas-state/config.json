@@ -1,0 +1,31 @@
+{
+  "slug": "kansas-state",
+  "name": "Kansas State",
+  "athleticsUrl": "https://www.kstatesports.com",
+  "espnId": "2306",
+  "baseballEspnId": "264",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://www.kstatesports.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://www.kstatesports.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://www.kstatesports.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://www.kstatesports.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

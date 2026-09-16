@@ -1,0 +1,31 @@
+{
+  "slug": "kansas",
+  "name": "Kansas",
+  "athleticsUrl": "https://kuathletics.com",
+  "espnId": "2305",
+  "baseballEspnId": "168",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://kuathletics.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://kuathletics.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://kuathletics.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://kuathletics.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

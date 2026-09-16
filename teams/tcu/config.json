@@ -1,0 +1,31 @@
+{
+  "slug": "tcu",
+  "name": "TCU",
+  "athleticsUrl": "https://gofrogs.com",
+  "espnId": "2628",
+  "baseballEspnId": "198",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://gofrogs.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://gofrogs.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://gofrogs.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://gofrogs.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

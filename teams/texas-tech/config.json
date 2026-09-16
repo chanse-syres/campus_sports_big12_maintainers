@@ -1,0 +1,31 @@
+{
+  "slug": "texas-tech",
+  "name": "Texas Tech",
+  "athleticsUrl": "https://texastech.com",
+  "espnId": "2641",
+  "baseballEspnId": "201",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://texastech.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://texastech.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://texastech.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://texastech.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

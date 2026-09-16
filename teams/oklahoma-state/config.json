@@ -1,0 +1,31 @@
+{
+  "slug": "oklahoma-state",
+  "name": "Oklahoma State",
+  "athleticsUrl": "https://okstate.com",
+  "espnId": "197",
+  "baseballEspnId": "110",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://okstate.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://okstate.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://okstate.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://okstate.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

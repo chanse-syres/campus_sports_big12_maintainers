@@ -1,0 +1,31 @@
+{
+  "slug": "baylor",
+  "name": "Baylor",
+  "athleticsUrl": "https://baylorbears.com",
+  "espnId": "239",
+  "baseballEspnId": "121",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://baylorbears.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://baylorbears.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://baylorbears.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://baylorbears.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+name: Maintain Big 12 public data
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish validated snapshots to the public data branch
+        required: true
+        default: false
+        type: boolean
+
+permissions: {}
+
+concurrency:
+  group: big12-maintainer-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.repository == 'chanse-syres/campus_sports_big12_maintainers' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm run check
+      - name: Load last published snapshots
+        run: node scripts/publish.mjs --download-previous
+      - name: Refresh every school and sport
+        run: node src/cli.mjs --all --previous previous
+      - name: Validate the complete publication bundle
+        run: node scripts/publish.mjs --dry-run
+      - name: Report source health for this collection
+        continue-on-error: true
+        run: node scripts/report-health.mjs
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: big12-snapshots
+          path: output/v1/
+          if-no-files-found: error
+          retention-days: 7
+          include-hidden-files: false
+
+  publish:
+    needs: collect
+    if: github.repository == 'chanse-syres/campus_sports_big12_maintainers' && github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || inputs.publish == true)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: big12-snapshots
+          path: output/v1/
+      - name: Validate and atomically update the data branch
+        run: node scripts/publish.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Report degraded sources after preserving the validated snapshot
+        run: node scripts/report-health.mjs

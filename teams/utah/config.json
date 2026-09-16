@@ -1,0 +1,31 @@
+{
+  "slug": "utah",
+  "name": "Utah",
+  "athleticsUrl": "https://utahutes.com",
+  "espnId": "254",
+  "baseballEspnId": "128",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://utahutes.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://utahutes.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://utahutes.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://utahutes.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

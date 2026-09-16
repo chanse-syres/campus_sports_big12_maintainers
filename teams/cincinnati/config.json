@@ -1,0 +1,31 @@
+{
+  "slug": "cincinnati",
+  "name": "Cincinnati",
+  "athleticsUrl": "https://gobearcats.com",
+  "espnId": "2132",
+  "baseballEspnId": "161",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://gobearcats.com/sports/football/news",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://gobearcats.com/sports/mens-basketball/news",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://gobearcats.com/sports/womens-basketball/news",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://gobearcats.com/sports/baseball/news",
+      "format": "html"
+    }
+  }
+}

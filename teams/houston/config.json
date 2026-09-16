@@ -1,0 +1,31 @@
+{
+  "slug": "houston",
+  "name": "Houston",
+  "athleticsUrl": "https://uhcougars.com",
+  "espnId": "248",
+  "baseballEspnId": "124",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://uhcougars.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://uhcougars.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://uhcougars.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://uhcougars.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "west-virginia",
+  "name": "West Virginia",
+  "athleticsUrl": "https://wvusports.com",
+  "espnId": "277",
+  "baseballEspnId": "136",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://wvusports.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://wvusports.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://wvusports.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://wvusports.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

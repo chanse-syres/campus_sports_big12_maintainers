@@ -1,0 +1,31 @@
+{
+  "slug": "ucf",
+  "name": "UCF",
+  "athleticsUrl": "https://ucfknights.com",
+  "espnId": "2116",
+  "baseballEspnId": "160",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://ucfknights.com/sports/football/news",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://ucfknights.com/sports/mens-basketball/news",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://ucfknights.com/sports/womens-basketball/news",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://ucfknights.com/sports/baseball/news",
+      "format": "html"
+    }
+  }
+}

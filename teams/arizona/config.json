@@ -1,0 +1,31 @@
+{
+  "slug": "arizona",
+  "name": "Arizona",
+  "athleticsUrl": "https://arizonawildcats.com",
+  "espnId": "12",
+  "baseballEspnId": "60",
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball",
+    "baseball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://arizonawildcats.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://arizonawildcats.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://arizonawildcats.com/sports/womens-basketball/archives",
+      "format": "html"
+    },
+    "baseball": {
+      "url": "https://arizonawildcats.com/sports/baseball/archives",
+      "format": "html"
+    }
+  }
+}

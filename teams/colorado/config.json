@@ -1,0 +1,26 @@
+{
+  "slug": "colorado",
+  "name": "Colorado",
+  "athleticsUrl": "https://cubuffs.com",
+  "espnId": "38",
+  "baseballEspnId": null,
+  "sports": [
+    "football",
+    "basketball",
+    "womens-basketball"
+  ],
+  "news": {
+    "football": {
+      "url": "https://cubuffs.com/sports/football/archives",
+      "format": "html"
+    },
+    "basketball": {
+      "url": "https://cubuffs.com/sports/mens-basketball/archives",
+      "format": "html"
+    },
+    "womens-basketball": {
+      "url": "https://cubuffs.com/sports/womens-basketball/archives",
+      "format": "html"
+    }
+  }
+}
