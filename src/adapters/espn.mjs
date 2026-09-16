@@ -1,11 +1,14 @@
 import { cleanText, safeUrl, isoDate, uniqueById } from '../normalize.mjs';
+import { SourceError } from '../network.mjs';
 
 export const ESPN_PATHS = Object.freeze({ football: 'football/college-football', basketball: 'basketball/mens-college-basketball', 'womens-basketball': 'basketball/womens-college-basketball', baseball: 'baseball/college-baseball' });
+const MAX_ROSTER_RECORDS = 300;
 export const teamId = (school, sport) => sport === 'baseball' ? school.baseballEspnId : school.espnId;
 export function espnUrl(school, sport, collection) {
   const id = teamId(school, sport);
   if (!/^\d+$/.test(id) || !['roster', 'schedule'].includes(collection) || !ESPN_PATHS[sport]) throw new Error('Invalid ESPN scope');
-  return `https://site.api.espn.com/apis/site/v2/sports/${ESPN_PATHS[sport]}/teams/${id}/${collection}`;
+  const limit = sport === 'football' && collection === 'roster' ? `?limit=${MAX_ROSTER_RECORDS}` : '';
+  return `https://site.api.espn.com/apis/site/v2/sports/${ESPN_PATHS[sport]}/teams/${id}/${collection}${limit}`;
 }
 function parse(text, expectedId) {
   const value = JSON.parse(text);
@@ -31,11 +34,26 @@ export function parseRoster(text, expectedId) {
   const data = parse(text, expectedId);
   if (!Array.isArray(data.athletes)) throw new Error('Invalid roster');
   const athletes = data.athletes.flatMap(group => Array.isArray(group.items) ? group.items : [group]);
-  if (athletes.length > 300) throw new Error('Roster too large');
+  if (athletes.length > MAX_ROSTER_RECORDS) throw new Error('Roster too large');
   const records = athletes.map(player => {
     const id = cleanText(player.id, 80), name = cleanText(player.displayName || player.fullName, 160);
     if (!id || !name) throw new Error('Invalid athlete');
     return { id, name, position: cleanText(player.position?.abbreviation, 30) || null, jersey: cleanText(player.jersey, 10) || null, year: cleanText(player.experience?.displayValue, 40) || null, imageUrl: safeUrl(player.headshot?.href), url: externalLink(player.links) };
   });
-  return { season: cleanText(data.season?.displayName || data.season?.year, 40) || null, records: uniqueById(records) };
+  const uniqueRecords = uniqueById(records);
+  assertCompleteRoster(data, uniqueRecords.length);
+  for (const group of data.athletes) {
+    if (Array.isArray(group.items)) assertCompleteRoster(group, new Set(group.items.map(player => cleanText(player.id, 80))).size);
+  }
+  return { season: cleanText(data.season?.displayName || data.season?.year, 40) || null, records: uniqueRecords };
+}
+
+function assertCompleteRoster(source, actualCount) {
+  for (const field of ['count', 'total', 'totalCount']) {
+    if (source[field] == null) continue;
+    const total = typeof source[field] === 'number' ? source[field]
+      : typeof source[field] === 'string' && /^\d+$/.test(source[field]) ? Number(source[field]) : NaN;
+    if (!Number.isSafeInteger(total) || total < 0) throw new Error('Invalid roster total');
+    if (total > actualCount) throw new SourceError('incomplete-roster');
+  }
 }
