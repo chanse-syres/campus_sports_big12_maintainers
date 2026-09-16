@@ -15,6 +15,16 @@ export function assertAllowedUrl(value, allowedHosts) {
   return new URL(normalized);
 }
 
+// Retry transient transport/server failures once. Access denials and rate limits
+// are returned immediately and never trigger alternative endpoints or proxies.
+export async function fetchSourceText(value, options, { request = fetchText, pause = ms => new Promise(resolve => setTimeout(resolve, ms)) } = {}) {
+  try { return await request(value, options); } catch (error) {
+    if (!(error instanceof SourceError) || !['timeout', 'network-error', 'http-502', 'http-503', 'http-504'].includes(error.code)) throw error;
+    await pause(1000);
+    return request(value, options);
+  }
+}
+
 // DNS is resolved once, checked, and pinned into the TLS connection lookup. No proxies or cookies.
 export async function fetchText(value, { allowedHosts, maxBytes = 4_000_000, timeoutMs = 20_000, redirects = 2 } = {}) {
   const controller = new AbortController();

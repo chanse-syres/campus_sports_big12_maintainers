@@ -5,20 +5,18 @@ school has one maintainer entry point covering football, men's basketball,
 women's basketball, and baseball. Schools without baseball publish an explicit
 unsupported status. The frontend and its private backend remain separate.
 
-The connection contract is ready for **news, roster, and schedule snapshots and
-their coverage states**. Check the published manifest and each dataset's status
-before enabling a view: a working maintainer does not imply every upstream
-source returned usable data. Football and men's basketball recruiting boards
-cover verified 247Sports commitments for the next signing cycle. Recruiting
-announcements are separate headline matches; they must not be used as structured
-player recruiting boards.
+Schema version 2 covers news, rosters, schedules, recruiting commitments,
+recruiting offers, and official recruiting announcements. Check the published
+manifest and each dataset's status before enabling a view: implemented adapters
+do not establish successful cloud publication or current upstream coverage.
+Announcements remain separate headline matches, not structured athlete records.
 
 ## Public data locations
 
 The publisher writes to the `data` branch, independently of source code:
 
-- Manifest: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v1/manifest.json`
-- Team: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v1/teams/{schoolSlug}.json`
+- Manifest: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v2/manifest.json`
+- Team: `https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v2/teams/{schoolSlug}.json`
 
 The URLs become available after the first successful publication. No GitHub
 token, API key, database credential, or maintainer write permission belongs in
@@ -32,14 +30,14 @@ School slugs are `arizona`, `arizona-state`, `baylor`, `byu`, `cincinnati`,
 
 ## Snapshot contract
 
-A team snapshot has `schemaVersion: 1`, `conference: "big12"`,
+A team snapshot has `schemaVersion: 2`, `conference: "big12"`,
 `school: { slug, name, athleticsUrl }`, an ISO `generatedAt`, and `sports`.
 The sport keys are `football`, `basketball`, `womens-basketball`, and `baseball`.
 Validate the complete response with `validateSnapshot(snapshot, expectedSlug)`
 from `src/validate.mjs` before using it. Reject an unexpected schema or school.
 
-Each sport contains `sponsored` and five datasets: `news`, `schedule`, `roster`,
-`recruitingAnnouncements`, and `recruitingBoard`.
+Each sport contains `sponsored` and six datasets: `news`, `schedule`, `roster`,
+`recruitingAnnouncements`, `recruitingBoard`, and `recruitingOffers`.
 Each dataset includes:
 
 | Field | Meaning |
@@ -67,8 +65,10 @@ deployment is stateless. A cache with no valid snapshot should show unavailable.
 
 ## Record types and mapping
 
-**News** records contain `id`, `title`, `url`, `publisher`, `publishedAt`,
+**News** combines official athletics and reviewed national/team-focused publisher feeds. It classifies stories by school and sport, canonicalizes tracking URLs, deduplicates repeated URLs/headlines, and retains captured metadata as publisher feed windows rotate (latest 1,000 stories per sport). It does not claim exhaustive coverage of every page on the web. Records contain `id`, `title`, `url`, `discoverySourceUrl`, `publisher`, `publishedAt`,
 `publishedAtPrecision`, `imageUrl`, and `imageAlt`. Dates and images can be `null`.
+The news dataset also has `sources`, an array of source-level status, URL, attempt/success timestamps, reason, and archived record count. The frontend mapper preserves it in `news.health.sources`. One failed configured publisher marks combined news stale without hiding healthy publishers' new articles. A source success verifies a feed retrieval, not a re-fetch of every archived article.
+
 Precision is `day`, `instant`, or `unknown`. A day-only date is represented as
 midnight UTC for sorting; this does not establish a precise publication time.
 Article bodies and
@@ -90,7 +90,8 @@ The existing Campus Sports HQ news view can consume these fields:
 | Record `imageUrl`, `imageAlt` | same field when present |
 | No summary | `summary: ""` |
 
-Identity is `(schoolId, sport, id)`. Filter school and sport before pagination.
+Identity within a collection is `(schoolId, sport, id)`; keep the collection name
+in keys when combining different collections. Filter school and sport before pagination.
 Sort by publication date, never by collection time. Records with `publishedAt:
 null` cannot safely enter a dated `SiteNewsArticle` feed: the example omits them
 and returns `omittedUndatedCount` in health metadata. A separate undated view can
@@ -113,32 +114,47 @@ incomplete or unrelated to a high school recruiting class. Label this section
 "Official recruiting announcements" and retain the source; do not infer player
 commitments, ratings, rankings, class years, transfer status, or decommitments.
 
-**Recruiting boards** contain verified 247Sports commitments for football and
-men's basketball for the next signing cycle. Coverage is commitments only;
-`reason: "verified-commitments-only-offers-not-covered"` identifies this boundary.
-The dataset does not represent every offered/interested prospect and provides
-no invented ratings, stars, rankings, or offer history. Use `season` and each
-record's `classYear` rather than assuming the current calendar year.
+**Recruiting boards** use 247Sports for football and men's basketball, ESPN
+HoopGurlz for women's basketball, and Perfect Game for baseball. These are
+source-reported commitment records, not every offered or interested prospect.
+Use `season` and each record's `classYear` rather than assuming the current year.
 The cycle changes to the following calendar year in March and retains that class
 through the next February. This convention is explicit in `recruitingCycle` and
 can be changed when the site's recruiting-year selector needs multiple classes.
 
-Each board record contains `id`, `name`, `classYear`, nullable `position`,
-`status`, `schoolId`, `sport`, `sourceUrl`, and ISO `updatedAt`. The schema permits
-`offered`, `committed`, `signed`, `enrolled`, or `unknown` status for future
-providers; this pilot's commitments adapter must not be presented as providing
-all those categories. Retain the exact source status and provenance. Map the
-sport key as above; if integrating an older recruit UI, map lowercase status to
-its display label and add `sources: [{ label: "247Sports", url: sourceUrl }]`.
-Modify that UI to support absent ratings/stars instead of inserting zeroes or
-invented measurements. `updatedAt` is verification time, not commitment date.
+Board and offer records contain `id`, `name`, `classYear`, nullable `position`,
+`status`, `schoolId`, `sport`, `sourceUrl`, and ISO `updatedAt`. Profile fields
+`profileUrl`, `imageUrl`, `schoolName`, and `hometown` are nullable. Rating fields
+`rating`, `ratingSystem`, and `stars` and ranking fields `nationalRank`,
+`positionRank`, `stateRank`, `rankingState`, and `rankingGroup` are also nullable.
+Keep the provider's rating system and ranking group/state beside the value;
+do not compare unlabeled scales or treat a missing rank as zero. The 247Sports
+rating is on its reported 0–100 scale when present; do not substitute a decimal
+composite score. No missing rating, rank, photo, or measurement is fabricated.
+`updatedAt` is verification time, not commitment date. `schoolName` is the provider-displayed prior institution, which may be a high school, prep school, or junior college. Identical duplicated offer rows are collapsed only after verifying every source row and section count; the reason `provider-duplicate-records-deduplicated:N` records how many duplicate rows were removed. Conflicting duplicates fail the collection.
 
-Women's basketball and baseball boards are `unavailable` with reason
-`player-board-provider-not-configured` until an independent approved provider is implemented.
-Official recruiting-announcement coverage still runs for all sponsored sports.
-If any board is `unavailable`, do not interpret its empty records as "zero
-recruits". On source blocking, retain the prior successful board with its stale
-status and timestamps.
+The mapper preserves lowercase `status` and adds `statusLabel`, `lastUpdated`,
+`scope`, `href`, and `sources` for frontend use. Provider attribution is retained
+as 247Sports, ESPN HoopGurlz, or Perfect Game. Existing recruit components must
+accept nullable values rather than requiring a made-up star count or position.
+
+**Recruiting offers** are a separate football/men's basketball collection. An
+`offered` record means a historically reported offer from this school, even if
+the player committed elsewhere. Display the mapper's "Historical offer" label;
+do not infer that the player remains uncommitted, interested, or available.
+Women's basketball and baseball offers are `unavailable` with
+`provider-does-not-cover-offers`. Official recruiting announcements still run
+for all sponsored sports.
+
+An ESPN page explicitly listing no commitment records produces `status: "empty"`
+with `reason: "provider-has-no-commitment-records"` and a successful fetch time.
+This verifies the provider's empty listing, not a zero-player recruiting class.
+Display the mapper's `health.coverageLabel`: "No commitment records listed by
+provider; class size unknown". If a previous snapshot contains commitments, the
+maintainer retains them as stale instead of erasing them on that unconfirmed
+empty listing. On source blocking, also retain the prior successful collection
+with its stale status and timestamps. Never turn missing provider coverage into
+a verified empty recruiting class.
 
 Existing school-scoped recruiting loaders also need the Big 12 schools
 registered before they can accept those scopes. Connecting the news reader alone
@@ -147,30 +163,39 @@ adapt the versioned records before handing them to existing UI components.
 
 ## Connection steps
 
-1. Bring the versioned validation module and `examples/frontend-adapter.mjs` into
-   the frontend's server integration, or package/import them from a reviewed
-   commit. Keep the public base URL fixed and preserve the validation boundary.
+1. Import the adapter from a reviewed commit, or copy `examples/frontend-adapter.mjs`
+   together with `src/validate.mjs`, `src/schema.mjs`, `src/config.mjs`, and
+   `src/normalize.mjs`, preserving their relative imports and installing their
+   declared dependencies. Keep this code on the server, the public base URL
+   fixed, and the validation boundary intact. Use v2 snapshots and cache keys;
+   an old v1 snapshot is not a valid v2 fallback.
 2. Load each required school snapshot server-side. Persist a last valid snapshot
    for transport failures; retain `transportStatus`, `stale`, and dataset health.
-3. Call `toSiteNews(snapshot, { transportStale: result.stale })`. Add its `articles`
-   to the existing server-side catalog and expose its `health` beside the feed.
-   A catalog built once at process startup must be replaced or invalidated on
-   refresh; fetching alone will not update an indefinitely cached catalog.
-4. Render supported schedule/roster datasets through their own adapters. Show
-   unavailable/unsupported/stale states explicitly. Enable recruiting boards
-   only for validated source coverage after school-scope registration.
+3. Call `toFrontendTeam(snapshot, { expectedSlug, transportStale: result.stale })`.
+   Read `team.sports[sport][collection].records` and `.health` together. This maps
+   all six collections, adds school/sport scope to every record, and maps the
+   women's sport key to `womensBasketball`. Health retains status, source, season,
+   reason, attempt/success times, age-derived stale state, and record counts.
+4. Add news via the optional `toSiteNews` compatibility helper, and register Big 12
+   scopes in recruiting loaders. Replace or invalidate any catalog cached at
+   process startup. Render coverage and season beside every collection; the
+   frontend must not hide health when it displays retained records.
 5. Test a dated story, a missing photo, an undated story, a stale source, an
    unavailable source, an unsupported baseball program, and a fetch failure.
 
 ```js
-import { loadTeamSnapshot, toSiteNews } from './frontend-adapter.mjs';
+import { loadTeamSnapshot, toFrontendTeam } from './frontend-adapter.mjs';
 
 // Run server-side; priorSnapshot comes from your validated durable cache.
 const result = await loadTeamSnapshot('arizona', { previousSnapshot: priorSnapshot });
-const { articles, health } = toSiteNews(result.snapshot, {
+const team = toFrontendTeam(result.snapshot, {
+  expectedSlug: 'arizona',
   transportStale: result.stale,
 });
-// Send only the scoped articles and the needed health fields to the page.
+const { records: commits, health } = team.sports.football.recruitingBoard;
+const offers = team.sports.football.recruitingOffers;
+const women = team.sports.womensBasketball;
+// Send only the required scoped records and their health fields to the page.
 ```
 
 ## Rendering and operational security

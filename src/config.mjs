@@ -17,5 +17,5 @@ export async function getSchool(slug) {
 }
 export async function listSchools() { return Promise.all(SCHOOL_SLUGS.map(getSchool)); }
 export function sourceHosts(school) {
-  return [...new Set(['site.api.espn.com', '247sports.com', new URL(school.athleticsUrl).hostname, ...Object.values(school.news).map(s => new URL(s.url).hostname)])];
+  return [...new Set(['site.api.espn.com', '247sports.com', 'www.espn.com', 'www.perfectgame.org', new URL(school.athleticsUrl).hostname, ...Object.values(school.news).map(s => new URL(s.url).hostname)])];
 }

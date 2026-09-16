@@ -1,7 +1,7 @@
 // Server-side example. Keep snapshot loading out of browser-rendered components.
 import { validateSnapshot } from '../src/validate.mjs';
 
-export const DATA_BASE_URL = 'https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v1';
+export const DATA_BASE_URL = 'https://raw.githubusercontent.com/chanse-syres/campus_sports_big12_maintainers/data/v2';
 export const MAX_AGE_MS = 48 * 60 * 60 * 1000;
 const MAX_BYTES = 8 * 1024 * 1024;
 const SCHOOL_SLUGS = new Set([
@@ -14,6 +14,12 @@ const SPORT_MAP = Object.freeze({
   basketball: ['basketball', "Men's Basketball"],
   'womens-basketball': ['womensBasketball', "Women's Basketball"],
   baseball: ['baseball', 'Baseball'],
+});
+const COLLECTIONS = Object.freeze([
+  'news', 'schedule', 'roster', 'recruitingAnnouncements', 'recruitingBoard', 'recruitingOffers',
+]);
+const STATUS_LABELS = Object.freeze({
+  offered: 'Historical offer', committed: 'Committed', signed: 'Signed', enrolled: 'Enrolled', unknown: 'Unknown',
 });
 
 function assertSchool(slug) {
@@ -101,49 +107,117 @@ export async function loadTeamSnapshot(slug, {
   }
 }
 
-/** Return existing Campus Sports HQ article fields plus explicit source health. */
-export function toSiteNews(snapshot, { now = Date.now(), transportStale = false } = {}) {
-  validateSnapshot(snapshot);
+function sourceLabel(sourceUrl) {
+  const hostname = new URL(sourceUrl).hostname;
+  if (hostname === '247sports.com' || hostname.endsWith('.247sports.com')) return '247Sports';
+  if (hostname === 'espn.com' || hostname.endsWith('.espn.com') || hostname.endsWith('.espncdn.com')) return 'ESPN HoopGurlz';
+  if (hostname === 'perfectgame.org' || hostname.endsWith('.perfectgame.org')) return 'Perfect Game';
+  return hostname;
+}
+
+function compareNews(left, right) {
+  return Date.parse(right.publishedAt) - Date.parse(left.publishedAt) ||
+    `${left.schoolId}:${left.sport}:${left.id}`.localeCompare(`${right.schoolId}:${right.sport}:${right.id}`, 'en');
+}
+
+function toArticle(record, scope) {
+  return {
+    ...scope,
+    id: record.id,
+    title: record.title,
+    summary: '',
+    publisher: record.publisher,
+    discoverySourceUrl: record.discoverySourceUrl,
+    publishedAt: record.publishedAt,
+    publishedAtPrecision: record.publishedAtPrecision,
+    url: record.url,
+    href: record.url,
+    ...(record.imageUrl ? { imageUrl: record.imageUrl } : {}),
+    ...(record.imageAlt ? { imageAlt: record.imageAlt } : {}),
+  };
+}
+
+/**
+ * Map every validated collection for server-rendered school/sport pages.
+ * Dataset health remains beside its records; no status or missing value is
+ * fabricated. Pass expectedSlug when mapping a snapshot outside the reader.
+ */
+export function toFrontendTeam(snapshot, {
+  expectedSlug,
+  now = Date.now(),
+  transportStale = false,
+} = {}) {
+  validateSnapshot(snapshot, expectedSlug);
   assertSchool(snapshot.school.slug);
-  const articles = [];
-  const health = {};
+  const snapshotStale = transportStale || isExpired(snapshot.generatedAt, now);
+  const sports = {};
   for (const [sportSlug, [sport, sportLabel]] of Object.entries(SPORT_MAP)) {
     const program = snapshot.sports[sportSlug];
-    const dataset = program.news;
-    health[sport] = {
-      sponsored: program.sponsored,
-      status: dataset.status,
-      lastAttemptAt: dataset.lastAttemptAt,
-      lastSuccessAt: dataset.lastSuccessAt,
-      reason: dataset.reason,
-      stale: transportStale || dataset.status === 'stale' ||
-        isExpired(snapshot.generatedAt, now) ||
-        (dataset.lastSuccessAt !== null && isExpired(dataset.lastSuccessAt, now)),
-      omittedUndatedCount: dataset.records.filter(record => record.publishedAt === null).length,
-    };
-    if (!program.sponsored) continue;
-    for (const record of dataset.records) {
-      // A fetch time is not evidence of when the publisher released a story.
-      if (record.publishedAt === null) continue;
-      articles.push({
-        id: record.id,
-        schoolId: snapshot.school.slug,
-        schoolLabel: snapshot.school.name,
-        sport,
-        sportLabel,
-        title: record.title,
-        summary: '',
-        publisher: record.publisher,
-        publishedAt: record.publishedAt,
-        publishedAtPrecision: record.publishedAtPrecision,
-        url: record.url,
-        href: record.url,
-        ...(record.imageUrl ? { imageUrl: record.imageUrl } : {}),
-        ...(record.imageAlt ? { imageAlt: record.imageAlt } : {}),
-      });
+    const scope = { schoolId: snapshot.school.slug, schoolLabel: snapshot.school.name, sport, sportSlug, sportLabel };
+    const mapped = { ...scope, sponsored: program.sponsored };
+    for (const collection of COLLECTIONS) {
+      const dataset = program[collection];
+      const isNews = collection === 'news' || collection === 'recruitingAnnouncements';
+      let records;
+      if (isNews) {
+        // Unknown publication dates cannot be placed in a dated news feed.
+        records = dataset.records.filter(record => record.publishedAt !== null)
+          .map(record => toArticle(record, scope)).sort(compareNews);
+      } else if (collection === 'recruitingBoard' || collection === 'recruitingOffers') {
+        records = dataset.records.map(record => ({
+          ...record,
+          ...scope,
+          scope: { schoolId: snapshot.school.slug, sport },
+          statusLabel: STATUS_LABELS[record.status],
+          lastUpdated: record.updatedAt,
+          href: record.profileUrl ?? record.sourceUrl,
+          sources: [{ label: sourceLabel(record.sourceUrl), url: record.sourceUrl }],
+        }));
+      } else {
+        records = dataset.records.map(record => ({ ...record, ...scope }));
+      }
+      mapped[collection] = {
+        health: {
+          sponsored: program.sponsored,
+          status: dataset.status,
+          sourceUrl: dataset.sourceUrl,
+          ...(collection === 'news' ? { sources: dataset.sources.map(source => ({ ...source })) } : {}),
+          season: dataset.season,
+          lastAttemptAt: dataset.lastAttemptAt,
+          lastSuccessAt: dataset.lastSuccessAt,
+          reason: dataset.reason,
+          coverageLabel: dataset.reason === 'provider-has-no-commitment-records'
+            ? 'No commitment records listed by provider; class size unknown' : null,
+          stale: snapshotStale || dataset.status === 'stale' ||
+            (dataset.lastSuccessAt !== null && isExpired(dataset.lastSuccessAt, now)),
+          recordCount: dataset.records.length,
+          displayedRecordCount: records.length,
+          ...(isNews ? { omittedUndatedCount: dataset.records.length - records.length } : {}),
+        },
+        records,
+      };
     }
+    sports[sport] = mapped;
   }
-  articles.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt) ||
-    `${a.schoolId}:${a.sport}:${a.id}`.localeCompare(`${b.schoolId}:${b.sport}:${b.id}`, 'en'));
+  return {
+    schemaVersion: snapshot.schemaVersion,
+    conference: snapshot.conference,
+    school: { ...snapshot.school },
+    generatedAt: snapshot.generatedAt,
+    stale: snapshotStale,
+    sports,
+  };
+}
+
+/** Compatibility helper for the existing Campus Sports HQ news catalog. */
+export function toSiteNews(snapshot, options = {}) {
+  const team = toFrontendTeam(snapshot, options);
+  const articles = [];
+  const health = {};
+  for (const [sport, program] of Object.entries(team.sports)) {
+    health[sport] = program.news.health;
+    articles.push(...program.news.records);
+  }
+  articles.sort(compareNews);
   return { articles, health };
 }

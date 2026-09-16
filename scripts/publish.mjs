@@ -25,7 +25,7 @@ export function validateManifest(manifest, schoolSlugs) {
   assert.equal(new Set(schoolSlugs).size, 16, 'exactly 16 unique configured Big 12 schools are required');
   for (const slug of schoolSlugs) assert.match(slug, /^[a-z]+(?:-[a-z]+)*$/);
   exactKeys(manifest, ['schemaVersion', 'conference', 'generatedAt', 'teams'], 'manifest');
-  assert.equal(manifest.schemaVersion, 1, 'unsupported manifest version');
+  assert.equal(manifest.schemaVersion, 2, 'unsupported manifest version');
   assert.equal(manifest.conference, 'big12', 'unexpected conference');
   assert.ok(typeof manifest.generatedAt === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(manifest.generatedAt) && Number.isFinite(Date.parse(manifest.generatedAt)), 'invalid manifest generation timestamp');
   assert.ok(Array.isArray(manifest.teams), 'manifest teams must be an array');
@@ -62,7 +62,7 @@ async function validateFiles(manifestBytes, teamBytes, schoolSlugs, validator) {
   assert.ok(manifestBytes.length <= MAX_MANIFEST_BYTES, 'manifest exceeds size limits');
   const manifest = validateManifest(JSON.parse(decode(manifestBytes)), schoolSlugs);
   let total = manifestBytes.length;
-  const files = [{ path: 'v1/manifest.json', content: decode(manifestBytes) }];
+  const files = [{ path: 'v2/manifest.json', content: decode(manifestBytes) }];
   for (const entry of manifest.teams) {
     const bytes = teamBytes.get(entry.school);
     assert.ok(bytes && bytes.length > 0 && bytes.length <= MAX_FILE_BYTES, 'missing or oversized school snapshot');
@@ -73,7 +73,7 @@ async function validateFiles(manifestBytes, teamBytes, schoolSlugs, validator) {
     const snapshot = JSON.parse(content);
     await validator(snapshot, entry.school);
     assert.equal(snapshot.generatedAt, manifest.generatedAt, 'school snapshot generation timestamp does not match the manifest');
-    files.push({ path: `v1/${entry.path}`, content });
+    files.push({ path: `v2/${entry.path}`, content });
   }
   return { manifest, files };
 }
@@ -82,8 +82,8 @@ export async function loadPublicationBundle(directory = 'output', options = {}) 
   const schoolSlugs = options.schoolSlugs ?? (await listSchools()).map((school) => school.slug);
   const validator = options.validator ?? validateSnapshot;
   const root = await checkedDirectory(directory);
-  assert.deepEqual((await readdir(root)).sort(), ['v1'], 'only the v1 publication directory is allowed');
-  const version = await checkedDirectory(path.join(root, 'v1'));
+  assert.deepEqual((await readdir(root)).sort(), ['v2'], 'only the v2 publication directory is allowed');
+  const version = await checkedDirectory(path.join(root, 'v2'));
   assert.equal(path.dirname(version), root, 'version directory escapes publication root');
   assert.deepEqual((await readdir(version)).sort(), ['manifest.json', 'teams'], 'unexpected publication files');
   const teams = await checkedDirectory(path.join(version, 'teams'));
@@ -172,6 +172,8 @@ export async function publishBundle(bundle, { env = process.env, request } = {})
   } else {
     await api('POST', 'git/refs', { ref: `refs/heads/${DATA_BRANCH}`, sha });
   }
+  const published = await api('GET', `git/ref/heads/${DATA_BRANCH}`);
+  assert.equal(commitSha(published.object?.sha), sha, 'published data ref did not match the validated commit');
   return { changed: true, sha };
 }
 
@@ -181,15 +183,24 @@ export async function downloadPrevious(directory = 'previous', options = {}) {
   const previous = await api('GET', `git/ref/heads/${DATA_BRANCH}`, undefined, true);
   if (!previous) return { downloaded: false };
   const sha = commitSha(previous.object?.sha);
-  const fetchFile = options.fetchFile ?? (async (filename, limit) => {
-    const response = await fetch(`https://raw.githubusercontent.com/${REPOSITORY}/${sha}/v1/${filename}`, { redirect: 'error', signal: AbortSignal.timeout(30_000) });
+  const fetchFile = options.fetchFile ?? (async (filename, limit, version = 'v2') => {
+    const response = await fetch(`https://raw.githubusercontent.com/${REPOSITORY}/${sha}/${version}/${filename}`, { redirect: 'error', signal: AbortSignal.timeout(30_000), credentials: 'omit' });
     if (!response.ok) {
       await response.body?.cancel();
+      if (response.status === 404 && filename === 'manifest.json') return null;
       throw new Error(`Previous snapshot download failed (HTTP ${response.status})`);
     }
     return limitedResponse(response, limit);
   });
   const manifestBytes = await fetchFile('manifest.json', MAX_MANIFEST_BYTES);
+  if (manifestBytes === null) {
+    const legacyBytes = await fetchFile('manifest.json', MAX_MANIFEST_BYTES, 'v1');
+    assert.ok(legacyBytes, 'data branch has no recognized snapshot version');
+    const legacy = JSON.parse(decode(legacyBytes));
+    assert.equal(legacy.schemaVersion, 1, 'unrecognized legacy version');
+    validateManifest({ ...legacy, schemaVersion: 2 }, schoolSlugs);
+    return { downloaded: false, reason: 'schema-version-upgrade' };
+  }
   const manifest = validateManifest(JSON.parse(decode(manifestBytes)), schoolSlugs);
   const teamBytes = new Map();
   for (let offset = 0; offset < manifest.teams.length; offset += 4) {
@@ -201,7 +212,7 @@ export async function downloadPrevious(directory = 'previous', options = {}) {
   await mkdir(directory, { recursive: true });
   const root = await checkedDirectory(directory);
   assert.equal((await readdir(root)).length, 0, 'previous-snapshot directory must be empty');
-  await mkdir(path.join(root, 'v1', 'teams'), { recursive: true });
+  await mkdir(path.join(root, 'v2', 'teams'), { recursive: true });
   for (const file of bundle.files) await writeFile(path.join(root, file.path), file.content, { flag: 'wx', mode: 0o600 });
   return { downloaded: true, sha };
 }
@@ -211,7 +222,7 @@ async function main() {
   assert.ok(args.length <= 1 && (!args.length || ['--dry-run', '--download-previous'].includes(args[0])), 'usage: node scripts/publish.mjs [--dry-run|--download-previous]');
   if (args[0] === '--download-previous') {
     const result = await downloadPrevious();
-    console.log(result.downloaded ? `Loaded prior snapshots from data commit ${result.sha}.` : 'No data branch exists yet; this is the initial collection.');
+    console.log(result.downloaded ? `Loaded prior snapshots from data commit ${result.sha}.` : `Initial v2 collection (${result.reason ?? 'no-data-branch'}).`);
     return;
   }
   const bundle = await loadPublicationBundle();

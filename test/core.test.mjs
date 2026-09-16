@@ -1,11 +1,11 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { getSchool, SCHOOL_SLUGS } from '../src/config.mjs';
-import { isPublicAddress, assertAllowedUrl, SourceError } from '../src/network.mjs';
+import { isPublicAddress, assertAllowedUrl, SourceError, fetchSourceText } from '../src/network.mjs';
 import { parseRoster, parseSchedule } from '../src/adapters/espn.mjs';
 import { refreshDataset, maintainSchool, emptyDataset, recruitingCycle } from '../src/maintainer.mjs';
 import { validateSnapshot } from '../src/validate.mjs';
-import { safeUrl } from '../src/normalize.mjs';
+import { safeUrl, assertPublicValue } from '../src/normalize.mjs';
 const now = '2026-09-16T08:00:00.000Z';
 test('SSRF policy rejects private, metadata, loopback, reserved and mapped addresses', () => {
   for (const ip of ['127.0.0.1', '10.1.2.3', '172.16.0.1', '192.168.1.1', '169.254.169.254', '0.0.0.0', '100.64.0.1', '198.18.0.1', '224.0.0.1', '::1', 'fc00::1', 'fe80::1', '::ffff:127.0.0.1', '2001:db8::1']) assert.equal(isPublicAddress(ip), false, ip);
@@ -45,13 +45,34 @@ test('all16 schools have a single entry/config and sponsorship excludes exactly 
 test('unavailable sources produce explicit health, and unsupported sports make no requests', async () => {
   const calls = [];
   const result = await maintainSchool(await getSchool('colorado'), { now, get: async url => { calls.push(url); throw new SourceError('http-503'); } });
-  assert.equal(calls.length, 11);
+  assert.ok(calls.length >= 14);
+  assert.equal(calls.some(url => url.includes('college-baseball') || url.includes('perfectgame.org')), false);
   assert.equal(result.sports.baseball.news.status, 'unsupported');
   assert.equal(result.sports.football.news.status, 'unavailable');
-  assert.equal(result.sports.football.news.reason, 'http-503');
+  assert.equal(result.sports.football.news.reason, 'one-or-more-news-sources-degraded');
+  assert.ok(result.sports.football.news.sources.every(source => source.reason === 'http-503'));
   assert.throws(() => validateSnapshot(result, 'baylor'), /mismatch/);
   const extra = structuredClone(result); extra.privateKey = 'should-never-publish'; assert.throws(() => validateSnapshot(extra));
   const falseFresh = structuredClone(result); falseFresh.sports.football.news.lastSuccessAt = now; assert.throws(() => validateSnapshot(falseFresh));
+});
+
+test('credential-like data, local paths and signed links cannot enter public output', () => {
+  for (const value of ['ghp_' + 'x'.repeat(36), '-----BEGIN PRIVATE KEY-----', 'C:\\Users\\example\\private.json', '/home/example/.env']) assert.throws(() => assertPublicValue(value));
+  for (const key of ['token', 'api_key', 'X-Amz-Signature', 'signature']) assert.equal(safeUrl(`https://example.com/image?${key}=private`), null);
+  assert.equal(safeUrl('https://example.com/player?id=123'), 'https://example.com/player?id=123');
+});
+
+test('retry only one transient source failure and never retry access denials or rate limits', async () => {
+  let calls = 0;
+  const result = await fetchSourceText('https://example.com', {}, { pause: async () => {}, request: async () => {
+    if (++calls === 1) throw new SourceError('timeout'); return 'ok';
+  } });
+  assert.equal(result, 'ok'); assert.equal(calls, 2);
+  for (const code of ['http-403', 'http-429', 'response-too-large', 'non-public-address', 'http-503']) {
+    calls = 0;
+    await assert.rejects(fetchSourceText('https://example.com', {}, { pause: async () => {}, request: async () => { calls++; throw new SourceError(code); } }), new RegExp(code));
+    assert.equal(calls, code === 'http-503' ? 2 : 1);
+  }
 });
 test('recruiting cycle retains the signing class through February', () => {
   assert.equal(recruitingCycle(new Date('2026-09-16T00:00:00Z')), 2027);

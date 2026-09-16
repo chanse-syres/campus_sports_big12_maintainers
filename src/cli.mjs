@@ -9,10 +9,10 @@ import { validateSnapshot, validateManifest } from './validate.mjs';
 const root = fileURLToPath(new URL('../', import.meta.url));
 async function readPrevious(directory, slug) {
   if (!directory) return null;
-  const target = path.join(directory, 'v1', 'teams', `${slug}.json`);
+  const target = path.join(directory, 'v2', 'teams', `${slug}.json`);
   try {
     const stat = await lstat(target);
-    if (!stat.isFile() || stat.isSymbolicLink() || stat.size > 2_000_000) throw new Error('Invalid previous snapshot file');
+    if (!stat.isFile() || stat.isSymbolicLink() || stat.size > 4 * 1024 * 1024) throw new Error('Invalid previous snapshot file');
     return validateSnapshot(JSON.parse(await readFile(target, 'utf8')), slug);
   } catch (error) { if (error.code === 'ENOENT') return null; throw error; }
 }
@@ -38,15 +38,15 @@ export async function runCli(args = process.argv.slice(2), fixedSchool) {
   const lockPath = path.join(out, '.maintainer.lock');
   const lock = await open(lockPath, 'wx');
   try {
-    const generatedAt = new Date().toISOString(), entries = [];
+    const generatedAt = new Date().toISOString(), entries = [], sourceCache = new Map();
     let cursor = 0;
     const workers = await Promise.allSettled(Array.from({ length: Math.min(3, selected.length) }, async () => {
       while (cursor < selected.length) {
         const slug = selected[cursor++];
         const previous = await readPrevious(previousDir, slug);
-        const snapshot = await maintainSchool(await getSchool(slug), { now: generatedAt, previous });
+        const snapshot = await maintainSchool(await getSchool(slug), { now: generatedAt, previous, sourceCache });
         const text = `${JSON.stringify(snapshot, null, 2)}\n`;
-        await atomicWrite(path.join(out, 'v1', 'teams', `${slug}.json`), text);
+        await atomicWrite(path.join(out, 'v2', 'teams', `${slug}.json`), text);
         entries.push({ school: slug, path: `teams/${slug}.json`, sha256: createHash('sha256').update(text).digest('hex') });
         const counts = {};
         for (const sport of Object.values(snapshot.sports)) for (const [name, dataset] of Object.entries(sport)) if (name !== 'sponsored') counts[dataset.status] = (counts[dataset.status] || 0) + 1;
@@ -55,9 +55,9 @@ export async function runCli(args = process.argv.slice(2), fixedSchool) {
     }));
     const failed = workers.find(worker => worker.status === 'rejected');
     if (failed) throw failed.reason;
-    const manifest = validateManifest({ schemaVersion: 1, conference: 'big12', generatedAt, teams: entries.sort((a, b) => a.school.localeCompare(b.school)) });
-    await atomicWrite(path.join(out, 'v1', 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`);
-    console.log(JSON.stringify({ schools: selected.length, output: 'output/v1/manifest.json' }));
+    const manifest = validateManifest({ schemaVersion: 2, conference: 'big12', generatedAt, teams: entries.sort((a, b) => a.school.localeCompare(b.school)) });
+    await atomicWrite(path.join(out, 'v2', 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`);
+    console.log(JSON.stringify({ schools: selected.length, output: 'output/v2/manifest.json' }));
   } finally { await lock.close(); await unlink(lockPath); }
 }
 export async function runSchoolCli(slug) {
