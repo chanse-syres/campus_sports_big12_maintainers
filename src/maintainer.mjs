@@ -49,6 +49,12 @@ export async function maintainSchool(school, { now = new Date().toISOString(), p
     });
     entry.news.records = [...images, ...entry.news.records.slice(400)];
     for (const [collection, parse] of [['schedule', parseSchedule], ['roster', parseRoster]]) {
+      if (sport === 'baseball' && collection === 'roster') {
+        // ESPN's baseball athlete pools include historical players. They are not
+        // verified current rosters, so previous rows must not survive as stale.
+        entry.roster = emptyDataset(at, 'unavailable', 'espn-baseball-roster-not-verified-current', espnUrl(school, sport, collection));
+        continue;
+      }
       entry[collection] = await refreshDataset({ at, sourceUrl: espnUrl(school, sport, collection), prior: prior?.[collection], get: fetchSource, parse: text => parse(text, teamId(school, sport)) });
     }
     // These are article metadata, never inferred player identities, ratings, or offer histories.

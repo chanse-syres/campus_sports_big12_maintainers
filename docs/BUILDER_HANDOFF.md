@@ -108,6 +108,21 @@ membership does not establish scholarship or NIL status. Generic team pages
 need components or adapters for these datasets rather than treating official
 resource links as populated records.
 
+Football roster requests explicitly use `limit=300`, matching the parser's
+record bound, because ESPN's default response stops at 100 athletes. A response
+whose reported total exceeds the number of unique athletes is rejected rather
+than published as a complete roster. Previously published rows from the default
+request are not reused as stale fallback for the corrected request.
+
+Baseball rosters are temporarily `unavailable` for all 14 sponsored programs,
+with reason `espn-baseball-roster-not-verified-current`. The ESPN baseball
+endpoint contains historical athlete pools that have not been verified as
+current team rosters. Previously published baseball roster rows are cleared,
+not retained as stale. The configured official athletics sources and frontend
+official roster links should remain available while a verified current-roster
+collector is added. Baseball news, schedules, and recruiting commitments
+continue independently; Colorado and Iowa State baseball remain `unsupported`.
+
 **Recruiting announcements** use the news shape. They are selected by a signing
 headline heuristic, not confirmed structured athlete records. A match can be
 incomplete or unrelated to a high school recruiting class. Label this section
