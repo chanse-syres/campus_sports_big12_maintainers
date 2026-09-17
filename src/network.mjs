@@ -1,5 +1,8 @@
 import https from 'node:https';
 import { lookup } from 'node:dns/promises';
+import { Transform, Writable } from 'node:stream';
+import { pipeline } from 'node:stream/promises';
+import { createBrotliDecompress, createGunzip, createInflate } from 'node:zlib';
 import ipaddr from 'ipaddr.js';
 import { safeUrl } from './normalize.mjs';
 
@@ -55,15 +58,58 @@ export async function fetchText(value, { allowedHosts, maxBytes = 4_000_000, tim
           return;
         }
         if (res.statusCode !== 200) { res.destroy(); reject(new SourceError(`http-${res.statusCode}`)); return; }
-        if (res.headers['content-encoding'] && res.headers['content-encoding'] !== 'identity') { res.destroy(); reject(new SourceError('unexpected-encoding')); return; }
         if (!/\b(json|html|xml|plain)\b/i.test(res.headers['content-type'] || '')) { res.destroy(); reject(new SourceError('invalid-content-type')); return; }
-        if (Number(res.headers['content-length']) > maxBytes) { res.destroy(); reject(new SourceError('response-too-large')); return; }
-        const chunks = []; let bytes = 0;
-        res.on('data', chunk => { bytes += chunk.length; if (bytes > maxBytes) { res.destroy(); reject(new SourceError('response-too-large')); } else chunks.push(chunk); });
-        res.on('error', reject);
-        res.on('end', () => { if (!bytes) reject(new SourceError('empty-response')); else resolve(Buffer.concat(chunks).toString('utf8')); });
+        readResponseText(res, maxBytes, controller.signal).then(resolve, reject);
       });
       req.on('error', reject);
     });
   }
+}
+
+async function readResponseText(response, maxBytes, signal) {
+  const encoding = String(response.headers['content-encoding'] || 'identity').trim().toLowerCase();
+  const decoders = { gzip: createGunzip, deflate: createInflate, br: createBrotliDecompress };
+  if (encoding !== 'identity' && !Object.hasOwn(decoders, encoding)) {
+    response.destroy();
+    throw new SourceError('unexpected-encoding');
+  }
+  if (Number(response.headers['content-length']) > maxBytes) {
+    response.destroy();
+    throw new SourceError('response-too-large');
+  }
+
+  // A CDN may ignore Accept-Encoding: identity. Bound both wire bytes and the
+  // decoded document, with backpressure and the original whole-request deadline.
+  let wireBytes = 0; let decodedBytes = 0; let failureOrigin;
+  const chunks = [];
+  const wireLimit = new Transform({
+    transform(chunk, _encoding, callback) {
+      wireBytes += chunk.length;
+      callback(wireBytes > maxBytes ? new SourceError('response-too-large') : null, chunk);
+    },
+  });
+  const collector = new Writable({
+    write(chunk, _encoding, callback) {
+      decodedBytes += chunk.length;
+      if (decodedBytes > maxBytes) return callback(new SourceError('response-too-large'));
+      chunks.push(chunk);
+      callback();
+    },
+  });
+  const decoder = encoding === 'identity' ? null : decoders[encoding]();
+  // pipeline propagates an error to every stream when destroying the chain;
+  // retain its origin so transport failures keep their existing retry policy.
+  response.on('error', () => { failureOrigin ??= 'response'; });
+  response.once('close', () => { if (!response.readableEnded) failureOrigin ??= 'response'; });
+  decoder?.on('error', () => { failureOrigin ??= 'decoder'; });
+  try {
+    await pipeline(response, wireLimit, ...(decoder ? [decoder] : []), collector, { signal });
+  } catch (error) {
+    if (signal.aborted) throw new SourceError('timeout');
+    if (error instanceof SourceError) throw error;
+    if (failureOrigin === 'decoder') throw new SourceError('invalid-encoded-response');
+    throw new SourceError('network-error');
+  }
+  if (!decodedBytes) throw new SourceError('empty-response');
+  return Buffer.concat(chunks, decodedBytes).toString('utf8');
 }
