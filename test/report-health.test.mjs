@@ -86,3 +86,21 @@ test('health report still fails stale baseball rosters', async t => {
   assert.equal(result.counts.stale, 1);
   assert.equal(result.counts.unverifiedBaseballRosters, 13);
 });
+
+test('health report identifies the exact degraded news source and reason without weakening failure status', async t => {
+  const result = await report(t, snapshot => {
+    if (snapshot.school.slug !== 'arizona-state') return;
+    Object.assign(snapshot.sports.football.news, {
+      status: 'stale', reason: 'one-or-more-news-sources-degraded',
+      sources: [{ status: 'stale', lastAttemptAt: at, lastSuccessAt: at,
+        sourceUrl: 'https://thesundevils.com/sports/football/news', reason: 'unexpected-encoding', recordCount: 0 }],
+    });
+  });
+  assert.equal(result.status, 1, result.stderr);
+  assert.deepEqual(result.counts.degradedSources, [{
+    school: 'arizona-state', sport: 'football', collection: 'news', status: 'stale',
+    reason: 'unexpected-encoding', sourceUrl: 'https://thesundevils.com/sports/football/news',
+  }]);
+  assert.match(result.summary, /unexpected-encoding/);
+  assert.match(result.summary, /https:\/\/thesundevils.com\/sports\/football\/news/);
+});
