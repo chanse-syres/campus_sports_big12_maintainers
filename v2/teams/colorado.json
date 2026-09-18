@@ -6,18 +6,29 @@
     "name": "Colorado",
     "athleticsUrl": "https://cubuffs.com"
   },
-  "generatedAt": "2026-09-17T21:21:47.631Z",
+  "generatedAt": "2026-09-18T04:42:24.614Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "a83fbbd08300f8811ec3786f",
+            "title": "Colorado Buffaloes Recruit Earning National Recognition",
+            "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-recruit-dewey-young-earning-national-recognition",
+            "publishedAt": "2026-09-18T01:00:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2945,h_1656,x_923,y_201/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/buffs_beat/01ktg5y3xkfta1zvq3y3.jpg",
+            "imageAlt": "Colorado coach Deion Sanders has made high school offensive line recruiting a bigger part of the 2027 class. | Ron Chenoy-Imagn Images",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/colorado/feed"
+          },
           {
             "id": "729bdc07ee696b58ba28afd9",
             "title": "Three Bold Predictions for Colorado vs. Northwestern",
@@ -105,6 +116,17 @@
             "imageAlt": "Deion Sanders takes the Colorado Buffaloes to Evanston for Northwestern football’s final game at Martin Stadium. | Tim Heitman-Imagn Images",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/colorado/feed"
+          },
+          {
+            "id": "429bf47e7af10059b4b5bf74",
+            "title": "The Road Ahead- Northwestern: Presented by Progressive",
+            "url": "https://cubuffs.com/news/2026/9/17/football-the-road-ahead-northwestern-presented-by-progressive",
+            "publishedAt": "2026-09-17T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://cubuffs.com/images/2026/9/17/Progressive_-_The_Road_Ahead_16x9_Northwestern.jpg",
+            "imageAlt": null,
+            "publisher": "Colorado Athletics",
+            "discoverySourceUrl": "https://cubuffs.com/sports/football/archives"
           },
           {
             "id": "3f7d076124806c7e08a42b9a",
@@ -1430,58 +1452,58 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://cubuffs.com/sports/football/archives",
             "reason": null,
-            "recordCount": 31
+            "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 93
+            "recordCount": 94
           }
         ]
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/schedule",
         "season": "2026",
         "reason": null,
@@ -1634,8 +1656,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -2598,8 +2620,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -2607,8 +2629,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -2634,7 +2656,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dewey-young-46154543/",
@@ -2657,7 +2679,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabe-jenkins-46145697/",
@@ -2680,7 +2702,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andre-adams-46151463/",
@@ -2703,7 +2725,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-kelly-murray-46151857/",
@@ -2726,7 +2748,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/baroc-willis-46145330/",
@@ -2749,7 +2771,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaylon-bailey-46160721/",
@@ -2772,7 +2794,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/coderro-mcdaniel-46157224/",
@@ -2795,7 +2817,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-dericho-46154713/",
@@ -2818,7 +2840,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samari-howard-46155363/",
@@ -2841,7 +2863,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kylan-bobo-46155424/",
@@ -2864,7 +2886,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahmiere-daniels-portis-46155146/",
@@ -2887,7 +2909,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kenny-fairley-46164146/",
@@ -2910,7 +2932,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zaquan-linton-46159009/",
@@ -2933,7 +2955,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayin-talib-46157584/",
@@ -2956,7 +2978,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-ferdinand-46164006/",
@@ -2979,7 +3001,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-sapp-46164230/",
@@ -3002,7 +3024,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jovon-pulliam-46160833/",
@@ -3025,7 +3047,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-rasmussen-46147445/",
@@ -3048,7 +3070,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-pooley-46156768/",
@@ -3071,7 +3093,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-washington-46156183/",
@@ -3094,14 +3116,14 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
         "season": "2027",
         "reason": "provider-duplicate-records-deduplicated:1",
@@ -3127,7 +3149,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peter-bourque-46149965/",
@@ -3150,7 +3172,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -3173,7 +3195,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-houston-46135085/",
@@ -3196,7 +3218,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davin-davidson-46151041/",
@@ -3219,7 +3241,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamden-lopati-46148735/",
@@ -3242,7 +3264,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andre-adams-46151463/",
@@ -3265,7 +3287,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamison-roberts-46158183/",
@@ -3288,7 +3310,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dane-weber-46155270/",
@@ -3311,7 +3333,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-hampton-46156384/",
@@ -3334,7 +3356,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/thaddeus-thatcher-46142789/",
@@ -3357,7 +3379,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-pooley-46156768/",
@@ -3380,7 +3402,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wynter-smith-46158839/",
@@ -3403,7 +3425,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-gabriel-georges-46152057/",
@@ -3426,7 +3448,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landen-williams-callis-46138250/",
@@ -3449,7 +3471,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sarod-baker-46158129/",
@@ -3472,7 +3494,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gary-walker-46163000/",
@@ -3495,7 +3517,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarius-mcmiller-46144140/",
@@ -3518,7 +3540,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-keys-46145046/",
@@ -3541,7 +3563,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-miles-46157912/",
@@ -3564,7 +3586,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/christian-alexander-46153433/",
@@ -3587,7 +3609,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyson-robinson-46148323/",
@@ -3610,7 +3632,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nigel-newkirk-46145239/",
@@ -3633,7 +3655,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khamoni-williams-46157756/",
@@ -3656,7 +3678,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/javian-jones-priest-46159699/",
@@ -3679,7 +3701,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-roberts-46151437/",
@@ -3702,7 +3724,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tranard-roberts-46143812/",
@@ -3725,7 +3747,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amir-brown-46149072/",
@@ -3748,7 +3770,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/triston-willis-46153677/",
@@ -3771,7 +3793,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/terrance-grant-jr-46149805/",
@@ -3794,7 +3816,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjamin-harris-46150163/",
@@ -3817,7 +3839,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kylan-bobo-46155424/",
@@ -3840,7 +3862,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/greg-hargrow-46153434/",
@@ -3863,7 +3885,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-mattison-46156086/",
@@ -3886,7 +3908,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/steven-alexis-46164408/",
@@ -3909,7 +3931,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-smith-46144806/",
@@ -3932,7 +3954,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-cowley-46151473/",
@@ -3955,7 +3977,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joel-bradford-46149572/",
@@ -3978,7 +4000,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooks-biggers-46164491/",
@@ -4001,7 +4023,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/artrell-vance-46154542/",
@@ -4024,7 +4046,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/monshun-sales-46147925/",
@@ -4047,7 +4069,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/easton-royal-46154901/",
@@ -4070,7 +4092,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dakota-guerrant-46142083/",
@@ -4093,7 +4115,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarin-simmons-46150455/",
@@ -4116,7 +4138,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/osani-gayles-46144796/",
@@ -4139,7 +4161,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eric-mcfarland-iii-46148083/",
@@ -4162,7 +4184,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kesean-bowman-46147214/",
@@ -4185,7 +4207,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elias-pearl-46159350/",
@@ -4208,7 +4230,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alvin-mosley-46151559/",
@@ -4231,7 +4253,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julius-jones-46148129/",
@@ -4254,7 +4276,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalil-taylor-46144955/",
@@ -4277,7 +4299,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amare-patterson-46150099/",
@@ -4300,7 +4322,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-yancey-46142228/",
@@ -4323,7 +4345,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matthew-gregory-46152124/",
@@ -4346,7 +4368,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
@@ -4369,7 +4391,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-johnson-46151796/",
@@ -4392,7 +4414,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damani-warren-46147365/",
@@ -4415,7 +4437,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/iveon-lewis-46147135/",
@@ -4438,7 +4460,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-kelly-murray-46151857/",
@@ -4461,7 +4483,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brylan-oduor-46158916/",
@@ -4484,7 +4506,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyren-caldwell-46154426/",
@@ -4507,7 +4529,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-douglas-46145101/",
@@ -4530,7 +4552,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-whitley-46152525/",
@@ -4553,7 +4575,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-baldwin-46145701/",
@@ -4576,7 +4598,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-honore-46147861/",
@@ -4599,7 +4621,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sheldon-isaac-46148879/",
@@ -4622,7 +4644,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-alvarez-46153227/",
@@ -4645,7 +4667,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cam-wade-46155588/",
@@ -4668,7 +4690,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rob-larson-46149565/",
@@ -4691,7 +4713,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyron-brown-46165287/",
@@ -4714,7 +4736,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antayvious-ellis-46142374/",
@@ -4737,7 +4759,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tajeh-watson-46155190/",
@@ -4760,7 +4782,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-knowles-46153338/",
@@ -4783,7 +4805,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-coleman-46156590/",
@@ -4806,7 +4828,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/travon-hall-46159392/",
@@ -4829,7 +4851,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-bethea-46154574/",
@@ -4852,7 +4874,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaydon-rawls-46160311/",
@@ -4875,7 +4897,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-ferdinand-46164006/",
@@ -4898,7 +4920,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-standifer-46154346/",
@@ -4921,7 +4943,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/vermont-carmack-46154810/",
@@ -4944,7 +4966,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nick-weaver-46167707/",
@@ -4967,7 +4989,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-mcclure-46161634/",
@@ -4990,7 +5012,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eric-richardson-46160983/",
@@ -5013,7 +5035,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-monestime-46166578/",
@@ -5036,7 +5058,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-karhoff-46155435/",
@@ -5059,7 +5081,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malik-howard-46149990/",
@@ -5082,7 +5104,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/parker-newman-46160910/",
@@ -5105,7 +5127,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rahzario-edwards-46150364/",
@@ -5128,7 +5150,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colt-lumpris-46146982/",
@@ -5151,7 +5173,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-ballinger-46150696/",
@@ -5174,7 +5196,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sam-faniel-46156813/",
@@ -5197,7 +5219,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/grant-haviland-46150826/",
@@ -5220,7 +5242,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jt-geraci-46152256/",
@@ -5243,7 +5265,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zac-fares-46149288/",
@@ -5266,7 +5288,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carter-blackwell-46161071/",
@@ -5289,7 +5311,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/talan-scott-46156636/",
@@ -5312,7 +5334,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-camping-46160665/",
@@ -5335,7 +5357,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeramie-cooper-46146522/",
@@ -5358,7 +5380,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/parker-keenan-46158027/",
@@ -5381,7 +5403,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-wolny-46142395/",
@@ -5404,7 +5426,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matthew-mcintyre-46156742/",
@@ -5427,7 +5449,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mark-matthews-46145576/",
@@ -5450,7 +5472,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ismael-camara-46152366/",
@@ -5473,7 +5495,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caden-moss-46144044/",
@@ -5496,7 +5518,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedee-jackson-46163810/",
@@ -5519,7 +5541,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-fielder-46158447/",
@@ -5542,7 +5564,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-hildebrand-46150822/",
@@ -5565,7 +5587,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-sam-epelle-46148494/",
@@ -5588,7 +5610,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-swanson-46148502/",
@@ -5611,7 +5633,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dominic-black-46160986/",
@@ -5634,7 +5656,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nate-carson-46152523/",
@@ -5657,7 +5679,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-johnson-46158411/",
@@ -5680,7 +5702,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/limarcus-jones-46152011/",
@@ -5703,7 +5725,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dewey-young-46154543/",
@@ -5726,7 +5748,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
@@ -5749,7 +5771,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-dotson-46160473/",
@@ -5772,7 +5794,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucas-rhoa-46146743/",
@@ -5795,7 +5817,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-brown-46165176/",
@@ -5818,7 +5840,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/coderro-mcdaniel-46157224/",
@@ -5841,7 +5863,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/conner-rutherford-46158007/",
@@ -5864,7 +5886,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zaquan-linton-46159009/",
@@ -5887,7 +5909,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/clayton-lee-46155651/",
@@ -5910,7 +5932,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kendon-bauer-46161096/",
@@ -5933,7 +5955,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zyion-wesley-46156279/",
@@ -5956,7 +5978,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/richie-dexter-46161467/",
@@ -5979,7 +6001,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/grant-gonzales-46158721/",
@@ -6002,7 +6024,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antonio-berry-46155289/",
@@ -6025,7 +6047,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaden-buchanan-46154596/",
@@ -6048,7 +6070,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-roper-46153223/",
@@ -6071,7 +6093,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reed-ramsier-46149492/",
@@ -6094,7 +6116,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/odaefe-oruru-46153832/",
@@ -6117,7 +6139,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-hemphill-woods-46154227/",
@@ -6140,7 +6162,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dajohn-yarborough-46155167/",
@@ -6163,7 +6185,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gecova-doyal-46145155/",
@@ -6186,7 +6208,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-unger-46144014/",
@@ -6209,7 +6231,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lincoln-mageo-46147045/",
@@ -6232,7 +6254,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-montsdeoca-46153288/",
@@ -6255,7 +6277,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lex-mailangi-46140630/",
@@ -6278,7 +6300,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-hurt-46152642/",
@@ -6301,7 +6323,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reis-russell-46145499/",
@@ -6324,7 +6346,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matthias-burrell-46154627/",
@@ -6347,7 +6369,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-lindsay-46151007/",
@@ -6370,7 +6392,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-mack-46149670/",
@@ -6393,7 +6415,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayin-talib-46157584/",
@@ -6416,7 +6438,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adrian-williams-46155499/",
@@ -6439,7 +6461,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-dean-46147158/",
@@ -6462,7 +6484,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sincere-wilkerson-46164225/",
@@ -6485,7 +6507,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/abdus-kone-46159210/",
@@ -6508,7 +6530,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gage-luther-46152922/",
@@ -6531,7 +6553,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-oliva-46158701/",
@@ -6554,7 +6576,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mack-tabor-46168979/",
@@ -6577,7 +6599,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaac-mcneil-46158638/",
@@ -6600,7 +6622,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/uhila-wolfgramm-46152619/",
@@ -6623,7 +6645,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jabarrius-garror-46147212/",
@@ -6646,7 +6668,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-vaughn-46152715/",
@@ -6669,7 +6691,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-pace-iii-46153257/",
@@ -6692,7 +6714,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/desmond-malpress-46151054/",
@@ -6715,7 +6737,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juelz-batiste-46161309/",
@@ -6738,7 +6760,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tk-cunningham-46130530/",
@@ -6761,7 +6783,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-kasky-46147938/",
@@ -6784,7 +6806,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rion-jackson-46156301/",
@@ -6807,7 +6829,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sedrick-marsh-46158719/",
@@ -6830,7 +6852,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-mailo-46147113/",
@@ -6853,7 +6875,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drake-carroll-46161686/",
@@ -6876,7 +6898,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-cox-46163850/",
@@ -6899,7 +6921,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/fui-vakapuna-46162507/",
@@ -6922,7 +6944,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-phoenix-46161501/",
@@ -6945,7 +6967,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jiquan-rogers-46166527/",
@@ -6968,7 +6990,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeron-allen-ii-46159086/",
@@ -6991,7 +7013,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-sapp-46164230/",
@@ -7014,7 +7036,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jovon-pulliam-46160833/",
@@ -7037,7 +7059,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dieter-lotulelei-46157221/",
@@ -7060,7 +7082,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-harris-jr-46145105/",
@@ -7083,7 +7105,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cary-spires-46167684/",
@@ -7106,7 +7128,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacques-robichaux-iii-46168447/",
@@ -7129,7 +7151,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcus-fakatou-46149091/",
@@ -7152,7 +7174,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mitchell-turner-46152131/",
@@ -7175,7 +7197,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjarvius-shumaker-46149682/",
@@ -7198,7 +7220,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alifeleti-tuihalamaka-46149194/",
@@ -7221,7 +7243,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jon-ioane-46140157/",
@@ -7244,7 +7266,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/santana-harvey-46155183/",
@@ -7267,7 +7289,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/justin-weeks-46146500/",
@@ -7290,7 +7312,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deven-robertson-46149305/",
@@ -7313,7 +7335,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reinaldo-perez-46149558/",
@@ -7336,7 +7358,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-williams-46149609/",
@@ -7359,7 +7381,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaderian-jones-46149545/",
@@ -7382,7 +7404,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eric-vaulx-jr-46165532/",
@@ -7405,7 +7427,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bayonne-46161122/",
@@ -7428,7 +7450,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaiden-robinson-vickers-46158849/",
@@ -7451,7 +7473,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyler-alexander-46159001/",
@@ -7474,7 +7496,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maleek-lee-46159084/",
@@ -7497,7 +7519,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montana-toilolo-46142434/",
@@ -7520,7 +7542,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kalib-spivey-46144307/",
@@ -7543,7 +7565,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amari-vickerson-46150219/",
@@ -7566,7 +7588,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sean-saint-fleur-46158336/",
@@ -7589,7 +7611,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/finn-walker-46159175/",
@@ -7612,7 +7634,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khing-thibodeaux-46148678/",
@@ -7635,7 +7657,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dajour-webb-46162168/",
@@ -7658,7 +7680,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-stewart-46163823/",
@@ -7681,7 +7703,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kenny-fairley-46164146/",
@@ -7704,7 +7726,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aniti-paiva-46161730/",
@@ -7727,7 +7749,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrien-neal-46148173/",
@@ -7750,7 +7772,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kekoa-peko-46142061/",
@@ -7773,7 +7795,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matamatagi-uiagalelei-46149944/",
@@ -7796,7 +7818,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -7819,7 +7841,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaia-vandermade-46149062/",
@@ -7842,7 +7864,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-nance-46161500/",
@@ -7865,7 +7887,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zayne-reed-46149738/",
@@ -7888,7 +7910,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tymon-meeks-46152964/",
@@ -7911,7 +7933,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-shaw-jr-46165358/",
@@ -7934,7 +7956,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aroson-randle-jr-46151092/",
@@ -7957,7 +7979,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taven-epps-46146822/",
@@ -7980,7 +8002,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-mckibben-46157901/",
@@ -8003,7 +8025,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amarri-irvin-46142805/",
@@ -8026,7 +8048,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/baroc-willis-46145330/",
@@ -8049,7 +8071,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ellis-mcgaskin-46144257/",
@@ -8072,7 +8094,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-williams-46159930/",
@@ -8095,7 +8117,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -8118,7 +8140,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -8141,7 +8163,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaylon-bailey-46160721/",
@@ -8164,7 +8186,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-leilua-46148664/",
@@ -8187,7 +8209,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zykee-scott-46151583/",
@@ -8210,7 +8232,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-godfree-46147136/",
@@ -8233,7 +8255,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahmiere-daniels-portis-46155146/",
@@ -8256,7 +8278,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cain-brackney-46153245/",
@@ -8279,7 +8301,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/shelvy-clark-46163437/",
@@ -8302,7 +8324,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -8325,7 +8347,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cam-pettijohn-46155765/",
@@ -8348,7 +8370,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-smith-46148331/",
@@ -8371,7 +8393,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anthony-james-46164067/",
@@ -8394,7 +8416,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/max-bates-46162105/",
@@ -8417,7 +8439,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rashad-bobo-46166771/",
@@ -8440,7 +8462,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/donte-wright-46147050/",
@@ -8463,7 +8485,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juju-johnson-46146860/",
@@ -8486,7 +8508,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-dobson-46149434/",
@@ -8509,7 +8531,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaryn-washington-46141493/",
@@ -8532,7 +8554,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zayden-gamble-46145579/",
@@ -8555,7 +8577,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/censere-gaylord-46148084/",
@@ -8578,7 +8600,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keishjuan-telfair-46153238/",
@@ -8601,7 +8623,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-roberson-46158879/",
@@ -8624,7 +8646,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavares-harrington-46155142/",
@@ -8647,7 +8669,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-sherrard-46155809/",
@@ -8670,7 +8692,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amare-nugent-46154654/",
@@ -8693,7 +8715,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-jenkins-46160118/",
@@ -8716,7 +8738,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-williams-46137712/",
@@ -8739,7 +8761,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-woods-46154505/",
@@ -8762,7 +8784,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-carey-46145575/",
@@ -8785,7 +8807,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-blaylock-46146999/",
@@ -8808,7 +8830,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khamani-estrada-46160253/",
@@ -8831,7 +8853,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-allen-jr-46159628/",
@@ -8854,7 +8876,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dolph-mcdonald-46148876/",
@@ -8877,7 +8899,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-dericho-46154713/",
@@ -8900,7 +8922,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-hopkins-46165224/",
@@ -8923,7 +8945,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-thornton-46166410/",
@@ -8946,7 +8968,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-wilson-46158637/",
@@ -8969,7 +8991,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semajay-robinson-46164246/",
@@ -8992,7 +9014,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-rasmussen-46147445/",
@@ -9015,7 +9037,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-washington-46156183/",
@@ -9038,7 +9060,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyler-walker-jr-46161099/",
@@ -9061,7 +9083,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayquan-snell-46136314/",
@@ -9084,7 +9106,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tory-pittman-iii-46139694/",
@@ -9107,7 +9129,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mekhi-williams-46151842/",
@@ -9130,7 +9152,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-outhouse-jr-46145113/",
@@ -9153,7 +9175,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andre-hyppolite-46164901/",
@@ -9176,7 +9198,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-proctor-46156908/",
@@ -9199,7 +9221,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kenaz-sullivan-46154299/",
@@ -9222,7 +9244,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylen-scott-46154318/",
@@ -9245,7 +9267,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabe-jenkins-46145697/",
@@ -9268,7 +9290,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adryan-cole-46146427/",
@@ -9291,7 +9313,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailib-dillard-46159825/",
@@ -9314,7 +9336,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/larry-moon-iii-46142595/",
@@ -9337,7 +9359,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isala-aisa-wily-ava-46150503/",
@@ -9360,7 +9382,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dillon-davis-46149897/",
@@ -9383,7 +9405,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jarrell-chandler-46156727/",
@@ -9406,7 +9428,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/robert-geathers-iii-46156155/",
@@ -9429,7 +9451,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/knyair-crumb-46150499/",
@@ -9452,7 +9474,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -9475,7 +9497,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samari-howard-46155363/",
@@ -9498,7 +9520,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/savoy-guidry-46157640/",
@@ -9521,7 +9543,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julius-fuentes-bream-46155432/",
@@ -9544,7 +9566,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nick-lennear-46147407/",
@@ -9567,7 +9589,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/omarii-sanders-46151797/",
@@ -9590,7 +9612,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tae-walden-jr-46155066/",
@@ -9613,7 +9635,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myson-johnson-cook-46143247/",
@@ -9636,7 +9658,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/xavier-sabb-46142626/",
@@ -9659,7 +9681,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bode-sparrow-46143770/",
@@ -9682,7 +9704,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-tillman-jr-46165495/",
@@ -9705,7 +9727,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayton-feister-46143652/",
@@ -9728,7 +9750,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lawrence-britt-46154473/",
@@ -9751,7 +9773,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxton-itaaehau-46160892/",
@@ -9774,7 +9796,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davion-crumitie-46157280/",
@@ -9797,7 +9819,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hakim-frampton-46142344/",
@@ -9820,7 +9842,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaston-lewis-46163162/",
@@ -9843,7 +9865,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/turmarian-moreland-46146987/",
@@ -9866,7 +9888,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaneilius-purdy-46146570/",
@@ -9889,7 +9911,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anthony-cartwright-iii-46144402/",
@@ -9912,7 +9934,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caden-jones-46148112/",
@@ -9935,7 +9957,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-fields-46156704/",
@@ -9958,7 +9980,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marquis-fennell-46156386/",
@@ -9981,7 +10003,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyle-davis-46165797/",
@@ -10004,7 +10026,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darryl-flemister-46144404/",
@@ -10027,7 +10049,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wesley-winn-46141730/",
@@ -10050,7 +10072,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooklyn-bailey-46159384/",
@@ -10073,7 +10095,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-sylvain-46165657/",
@@ -10096,7 +10118,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalani-culpepper-46142205/",
@@ -10119,7 +10141,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/velon-henderson-46149707/",
@@ -10142,7 +10164,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarcus-giscombe-46145430/",
@@ -10165,7 +10187,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabriel-goroyan-46166846/",
@@ -10188,7 +10210,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/michael-brandin-gallaway-46163773/",
@@ -10211,7 +10233,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dwayne-carter-iii-46170156/",
@@ -10234,7 +10256,7 @@
             "schoolId": "colorado",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           }
         ]
       }
@@ -10243,8 +10265,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -10594,48 +10616,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -10644,8 +10666,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/38/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10653,8 +10675,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/38/roster",
         "season": "2025-26",
         "reason": null,
@@ -10798,8 +10820,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10841,8 +10863,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -10850,8 +10872,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -10877,7 +10899,7 @@
             "schoolId": "colorado",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           }
         ]
       }
@@ -10886,8 +10908,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -11237,40 +11259,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-            "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+            "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+            "lastSuccessAt": "2026-09-18T04:42:24.614Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -11279,8 +11301,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/38/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11361,8 +11383,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/38/roster",
         "season": "2026-27",
         "reason": null,
@@ -11488,8 +11510,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11542,8 +11564,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -11551,8 +11573,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
-        "lastSuccessAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
+        "lastSuccessAt": "2026-09-18T04:42:24.614Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -11578,7 +11600,7 @@
             "schoolId": "colorado",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zya-small-46159303/",
@@ -11601,7 +11623,7 @@
             "schoolId": "colorado",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -11624,7 +11646,7 @@
             "schoolId": "colorado",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-17T21:21:47.631Z"
+            "updatedAt": "2026-09-18T04:42:24.614Z"
           }
         ]
       }
@@ -11633,7 +11655,7 @@
       "sponsored": false,
       "news": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -11643,7 +11665,7 @@
       },
       "schedule": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -11652,7 +11674,7 @@
       },
       "roster": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -11661,7 +11683,7 @@
       },
       "recruitingAnnouncements": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -11670,7 +11692,7 @@
       },
       "recruitingBoard": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -11679,7 +11701,7 @@
       },
       "recruitingOffers": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-09-17T21:21:47.631Z",
+        "lastAttemptAt": "2026-09-18T04:42:24.614Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
