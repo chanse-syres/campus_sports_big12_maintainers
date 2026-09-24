@@ -6,18 +6,29 @@
     "name": "Houston",
     "athleticsUrl": "https://uhcougars.com"
   },
-  "generatedAt": "2026-09-23T16:57:04.188Z",
+  "generatedAt": "2026-09-24T04:49:07.067Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "b28f723c8ee55ae3d423c286",
+            "title": "Houston's Offense Has Become One of the Nation's Most Productive Units",
+            "url": "https://www.si.com/college/houston/football/houston-offense-has-become-one-of-the-nation-most-productive-units",
+            "publishedAt": "2026-09-23T19:40:32.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3833,h_2156,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/houston_cougars_on_si/01m37gpt4f9z7gb5c044.jpg",
+            "imageAlt": "Houston Cougars QB Conner Weigman gives the ball to running back Makhi Huges in the second half against Texas Tech. Mandatory Credit: Michael C. Johnson-Imagn Images | IMAGN IMAGES via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/houston/feed"
+          },
           {
             "id": "7ad5f5d6eb7332eb9a68cc95",
             "title": "Willie Fritz Has One Message for Houston Before His Georgia Southern Return",
@@ -50,6 +61,17 @@
             "imageAlt": "Texas Tech vs. Houston Prediction",
             "publisher": "Heartland College Sports",
             "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "dfcedcf1993a18f8acda77bb",
+            "title": "Cougars in the NFL Presented by Bud Light: Week 2",
+            "url": "https://uhcougars.com/news/2026/9/23/football-cougars-in-the-nfl-presented-by-bud-light-week-2",
+            "publishedAt": "2026-09-23T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://uhcougars.com/images/2026/9/23/USATSI_29878820.jpg",
+            "imageAlt": null,
+            "publisher": "Houston Athletics",
+            "discoverySourceUrl": "https://uhcougars.com/sports/football/archives"
           },
           {
             "id": "11868fcfa368b41fd316e3b7",
@@ -1925,56 +1947,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://uhcougars.com/sports/football/archives",
             "reason": null,
-            "recordCount": 36
+            "recordCount": 37
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 15
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 104
+            "recordCount": 105
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
@@ -1983,8 +2005,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/schedule",
         "season": "2026",
         "reason": null,
@@ -2137,8 +2159,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3182,8 +3204,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3191,8 +3213,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -3218,7 +3240,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-roberson-46158879/",
@@ -3241,7 +3263,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braden-baker-46145090/",
@@ -3264,7 +3286,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kendray-porter-jr-46157588/",
@@ -3287,7 +3309,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marvin-joseph-46158643/",
@@ -3310,7 +3332,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcus-watson-46163630/",
@@ -3333,7 +3355,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samuel-thiergood-46167344/",
@@ -3356,7 +3378,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-debose-46166541/",
@@ -3379,7 +3401,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerrell-bridges-46165704/",
@@ -3391,7 +3413,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 101,
-            "stateRank": 153,
+            "stateRank": 152,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "388eab9e4adcc31e872a4a1e",
@@ -3402,7 +3424,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/thomas-muiruri-46167275/",
@@ -3414,7 +3436,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 107,
-            "stateRank": 172,
+            "stateRank": 171,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b344d02bc28b9f571cbd095a",
@@ -3425,7 +3447,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavon-bolden-46161017/",
@@ -3436,8 +3458,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 136,
-            "stateRank": 174,
+            "positionRank": 137,
+            "stateRank": 173,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "16b218e194e7a3b9b443637b",
@@ -3448,7 +3470,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mo-poko-46164472/",
@@ -3460,7 +3482,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 195,
-            "stateRank": 186,
+            "stateRank": 187,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "35e3f0f017e577045dd8469d",
@@ -3471,7 +3493,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamryn-harris-46168117/",
@@ -3483,7 +3505,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 160,
-            "stateRank": 216,
+            "stateRank": 217,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "ae849ea53f8c7a171ec67b8a",
@@ -3494,7 +3516,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cael-thigpen-46159176/",
@@ -3506,7 +3528,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 141,
-            "stateRank": 239,
+            "stateRank": 240,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "8cada8e7f592a9c3b1e80f54",
@@ -3517,17 +3539,17 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           }
         ]
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T11:34:44.939Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
         "season": "2027",
-        "reason": "source-format-changed",
+        "reason": null,
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/elijah-haven-46144331/",
@@ -3550,7 +3572,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -3573,7 +3595,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-houston-46135085/",
@@ -3596,7 +3618,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-zeigler-46149737/",
@@ -3619,7 +3641,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamden-lopati-46148735/",
@@ -3642,7 +3664,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/weston-nielsen-46144165/",
@@ -3665,7 +3687,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-babin-46145533/",
@@ -3688,7 +3710,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braden-baker-46145090/",
@@ -3711,7 +3733,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-knutson-46157568/",
@@ -3734,7 +3756,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brice-mccurdy-46156809/",
@@ -3746,7 +3768,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 60,
-            "stateRank": 151,
+            "stateRank": 150,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "639ef677dc82dd3defbf7001",
@@ -3757,7 +3779,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cason-myers-46144773/",
@@ -3780,7 +3802,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-meyer-iii-46150443/",
@@ -3792,7 +3814,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 82,
-            "stateRank": 202,
+            "stateRank": 203,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "77b9b5c6009338331e92ac47",
@@ -3803,7 +3825,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zephyr-kreye-46145109/",
@@ -3826,7 +3848,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landen-williams-callis-46138250/",
@@ -3849,7 +3871,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarius-mcmiller-46144140/",
@@ -3872,7 +3894,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lathan-whisenton-46142921/",
@@ -3895,7 +3917,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daylon-gordon-46157348/",
@@ -3918,7 +3940,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-miles-46149466/",
@@ -3941,7 +3963,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brennen-lacey-46165500/",
@@ -3964,7 +3986,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayshon-gibson-46150802/",
@@ -3987,7 +4009,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kendray-porter-jr-46157588/",
@@ -4010,7 +4032,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wayne-shanks-jr-46145118/",
@@ -4033,7 +4055,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/correll-buckhalter-jr-46155810/",
@@ -4056,7 +4078,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antwon-sanders-46157633/",
@@ -4079,7 +4101,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jakoby-dixon-46144464/",
@@ -4091,7 +4113,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 102,
-            "stateRank": 160,
+            "stateRank": 159,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "a818e46ac432e71543d623f8",
@@ -4102,7 +4124,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/armand-stevens-46155575/",
@@ -4125,7 +4147,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jermond-macklin-46158698/",
@@ -4148,7 +4170,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/easton-royal-46154901/",
@@ -4171,7 +4193,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benny-easter-jr-46153369/",
@@ -4194,7 +4216,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alvin-mosley-46151559/",
@@ -4217,7 +4239,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-moore-46143523/",
@@ -4240,7 +4262,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/branden-sharpe-46154499/",
@@ -4263,7 +4285,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-haralson-46144141/",
@@ -4286,7 +4308,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-douglas-46145101/",
@@ -4309,7 +4331,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-whitley-46152525/",
@@ -4332,7 +4354,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/javon-vital-46148332/",
@@ -4355,7 +4377,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gary-burney-jr-46166311/",
@@ -4378,7 +4400,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-haynes-46150053/",
@@ -4401,7 +4423,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hunter-haug-46163288/",
@@ -4424,7 +4446,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-williams-46159263/",
@@ -4447,7 +4469,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-morgan-46164724/",
@@ -4470,7 +4492,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashton-stark-46164266/",
@@ -4493,7 +4515,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rayquan-williams-46152526/",
@@ -4516,7 +4538,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
@@ -4539,7 +4561,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-fisher-46154226/",
@@ -4562,7 +4584,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aden-starling-46136707/",
@@ -4585,7 +4607,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-flores-46146823/",
@@ -4608,7 +4630,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-simmons-46164721/",
@@ -4620,7 +4642,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 95,
-            "stateRank": 157,
+            "stateRank": 156,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b48142dafa87cb3eb36a0c7c",
@@ -4631,7 +4653,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-bethea-46154574/",
@@ -4654,7 +4676,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-lane-46158603/",
@@ -4666,7 +4688,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 169,
-            "stateRank": 165,
+            "stateRank": 164,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "c4d5a16ab6e2535b5dbbfd64",
@@ -4677,7 +4699,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-wooden-46166709/",
@@ -4689,7 +4711,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 194,
-            "stateRank": 185,
+            "stateRank": 186,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "9300bfd316e55a59375e3339",
@@ -4700,7 +4722,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mo-poko-46164472/",
@@ -4712,7 +4734,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 195,
-            "stateRank": 186,
+            "stateRank": 187,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "35e3f0f017e577045dd8469d",
@@ -4723,7 +4745,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derrick-martin-46153280/",
@@ -4735,7 +4757,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 265,
-            "stateRank": 265,
+            "stateRank": 266,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b497d864d11f0c5c25e91748",
@@ -4746,7 +4768,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-brown-46145438/",
@@ -4769,7 +4791,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ray-newsome-46150758/",
@@ -4792,7 +4814,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/morris-walters-46156791/",
@@ -4815,7 +4837,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmad-hudson-46143677/",
@@ -4838,7 +4860,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-brown-46149605/",
@@ -4861,7 +4883,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-bogany-46145094/",
@@ -4884,7 +4906,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeramie-cooper-46146522/",
@@ -4896,7 +4918,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 65,
-            "stateRank": 177,
+            "stateRank": 176,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "37ca341e8df72366d1bd2f89",
@@ -4907,7 +4929,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ismael-camara-46152366/",
@@ -4930,7 +4952,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/albert-simien-46152826/",
@@ -4953,7 +4975,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-brown-46152521/",
@@ -4976,7 +4998,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaeden-scott-46146544/",
@@ -4999,7 +5021,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarrion-johnson-46146968/",
@@ -5022,7 +5044,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jasper-ngokwere-46149467/",
@@ -5045,7 +5067,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/koen-hinzman-46164004/",
@@ -5068,7 +5090,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aidan-ray-46167108/",
@@ -5091,7 +5113,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-siler-46163939/",
@@ -5114,7 +5136,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samuel-thiergood-46167344/",
@@ -5137,7 +5159,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/judah-gumbs-46166281/",
@@ -5160,7 +5182,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-greene-46164276/",
@@ -5172,7 +5194,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 106,
-            "stateRank": 171,
+            "stateRank": 170,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "efe92af443c0d0d6553d373f",
@@ -5183,7 +5205,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/thomas-muiruri-46167275/",
@@ -5195,7 +5217,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 107,
-            "stateRank": 172,
+            "stateRank": 171,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b344d02bc28b9f571cbd095a",
@@ -5206,7 +5228,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sonny-mullen-46166839/",
@@ -5218,7 +5240,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 110,
-            "stateRank": 179,
+            "stateRank": 178,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "892b7b04ee5ad93b7329ce5f",
@@ -5229,7 +5251,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zyion-wesley-46156279/",
@@ -5252,7 +5274,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-carraway-46145097/",
@@ -5264,7 +5286,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 133,
-            "stateRank": 212,
+            "stateRank": 213,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "1e709fac4b5db611a58dceaf",
@@ -5275,7 +5297,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hudson-whitenight-46152665/",
@@ -5287,7 +5309,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 138,
-            "stateRank": 221,
+            "stateRank": 222,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "090ce28bba3fbfb8d0b9cf87",
@@ -5298,7 +5320,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-timms-46153299/",
@@ -5310,7 +5332,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 178,
-            "stateRank": 273,
+            "stateRank": 274,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "08b98c1931cc1507451e47aa",
@@ -5321,7 +5343,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-hebert-46164605/",
@@ -5344,7 +5366,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-shaw-46167665/",
@@ -5367,7 +5389,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-miller-46144299/",
@@ -5390,7 +5412,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-hemphill-woods-46154227/",
@@ -5413,7 +5435,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaac-coughran-46143928/",
@@ -5436,7 +5458,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stephan-hicks-jr-46166032/",
@@ -5459,7 +5481,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-mack-46149670/",
@@ -5471,7 +5493,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 78,
-            "stateRank": 161,
+            "stateRank": 160,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "6da81e8e8aadfceefa05bf13",
@@ -5482,7 +5504,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-cook-46154645/",
@@ -5494,7 +5516,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 84,
-            "stateRank": 163,
+            "stateRank": 162,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "01d0cd4a6f2d3b3b978b02e0",
@@ -5505,7 +5527,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kelvin-eiwo-46150508/",
@@ -5517,7 +5539,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 108,
-            "stateRank": 198,
+            "stateRank": 199,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "2137c3e44a2970f98515c931",
@@ -5528,7 +5550,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/abdus-kone-46159210/",
@@ -5540,7 +5562,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 139,
-            "stateRank": 225,
+            "stateRank": 226,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b340a7c05835834d67bf3001",
@@ -5551,7 +5573,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-williams-46145123/",
@@ -5563,7 +5585,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 156,
-            "stateRank": 253,
+            "stateRank": 254,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "be9a356b598f7478370524b7",
@@ -5574,7 +5596,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/titus-lopati-46159662/",
@@ -5597,7 +5619,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-hooker-46167681/",
@@ -5620,7 +5642,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-hall-46157610/",
@@ -5643,7 +5665,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezekiel-ayangbile-46146266/",
@@ -5666,7 +5688,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaden-mccarty-46145112/",
@@ -5689,7 +5711,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juelz-batiste-46161309/",
@@ -5712,7 +5734,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sedrick-marsh-46158719/",
@@ -5735,7 +5757,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alexander-coey-46155780/",
@@ -5758,7 +5780,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dieter-lotulelei-46157221/",
@@ -5781,7 +5803,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cael-thigpen-46159176/",
@@ -5793,7 +5815,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 141,
-            "stateRank": 239,
+            "stateRank": 240,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "8cada8e7f592a9c3b1e80f54",
@@ -5804,7 +5826,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zyron-forstall-46151892/",
@@ -5827,7 +5849,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/raiden-cook-46164607/",
@@ -5850,7 +5872,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zane-rowe-46139730/",
@@ -5873,7 +5895,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/xavier-muhammad-46147250/",
@@ -5896,7 +5918,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kadrian-redmond-46150263/",
@@ -5919,7 +5941,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaderian-jones-46149545/",
@@ -5942,7 +5964,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bayonne-46161122/",
@@ -5965,7 +5987,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-johnson-46162588/",
@@ -5988,7 +6010,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amari-vickerson-46150219/",
@@ -6011,7 +6033,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-white-46156901/",
@@ -6034,7 +6056,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarco-jenkins-46155569/",
@@ -6057,7 +6079,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
@@ -6080,7 +6102,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khing-thibodeaux-46148678/",
@@ -6103,30 +6125,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/antonio-underwood-46157660/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/658/309/13309658.jpg?width=70&fit=crop",
-            "schoolName": "Spring Westfield",
-            "hometown": "Houston, TX",
-            "rating": 86,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 138,
-            "stateRank": 149,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "27050291c5e6797cb5d2164b",
-            "name": "Antonio Underwood",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "offered",
-            "schoolId": "houston",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -6137,8 +6136,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 141,
-            "stateRank": 150,
+            "positionRank": 140,
+            "stateRank": 149,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "c863e1eee22860e8e63e6847",
@@ -6149,42 +6148,19 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/johnnie-fitzgerald-iii-46152066/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/517/846/13846517.jpg?width=70&fit=crop",
-            "schoolName": "Red Oak",
-            "hometown": "Red Oak, TX",
-            "rating": 83,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 219,
-            "stateRank": 261,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "275c3b7f902995cf4d94a820",
-            "name": "Johnnie Fitzgerald III",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "offered",
-            "schoolId": "houston",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-egbo-46167744/",
             "imageUrl": "https://s3media.247sports.com/Uploads/Assets/56/980/13980056.jpg?width=70&fit=crop",
             "schoolName": "Iowa Colony",
             "hometown": "Iowa Colony, TX",
-            "rating": null,
+            "rating": 86,
             "ratingSystem": "247sports",
-            "stars": null,
+            "stars": 3,
             "nationalRank": null,
-            "positionRank": null,
-            "stateRank": null,
+            "positionRank": 158,
+            "stateRank": 180,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "e0fa6804d21970054d1cf266",
@@ -6195,7 +6171,53 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/antonio-underwood-46157660/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/658/309/13309658.jpg?width=70&fit=crop",
+            "schoolName": "Spring Westfield",
+            "hometown": "Houston, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 160,
+            "stateRank": 181,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "27050291c5e6797cb5d2164b",
+            "name": "Antonio Underwood",
+            "classYear": 2027,
+            "position": "DL",
+            "status": "offered",
+            "schoolId": "houston",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
+            "updatedAt": "2026-09-24T04:49:07.067Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/johnnie-fitzgerald-iii-46152066/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/517/846/13846517.jpg?width=70&fit=crop",
+            "schoolName": "Red Oak",
+            "hometown": "Red Oak, TX",
+            "rating": 83,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 221,
+            "stateRank": 262,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "275c3b7f902995cf4d94a820",
+            "name": "Johnnie Fitzgerald III",
+            "classYear": 2027,
+            "position": "DL",
+            "status": "offered",
+            "schoolId": "houston",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-beyer-46158412/",
@@ -6218,7 +6240,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jhadyn-nelson-46164194/",
@@ -6241,7 +6263,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarquis-hudson-46155783/",
@@ -6264,7 +6286,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -6287,7 +6309,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cade-haug-46145106/",
@@ -6310,7 +6332,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyle-horde-46148329/",
@@ -6333,7 +6355,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rome-ewell-46157683/",
@@ -6345,7 +6367,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 99,
-            "stateRank": 152,
+            "stateRank": 151,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "64faec91076bd0bd8f6b0f5b",
@@ -6356,7 +6378,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerrell-bridges-46165704/",
@@ -6368,7 +6390,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 101,
-            "stateRank": 153,
+            "stateRank": 152,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "388eab9e4adcc31e872a4a1e",
@@ -6379,7 +6401,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -6391,7 +6413,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 112,
-            "stateRank": 164,
+            "stateRank": 163,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "fc3b8eb101d18f526a8f3dd7",
@@ -6402,7 +6424,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-smith-46148331/",
@@ -6414,7 +6436,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 138,
-            "stateRank": 207,
+            "stateRank": 208,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "c9af49d90a7042f25987a5c7",
@@ -6425,7 +6447,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamryn-harris-46168117/",
@@ -6437,7 +6459,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 160,
-            "stateRank": 216,
+            "stateRank": 217,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "ae849ea53f8c7a171ec67b8a",
@@ -6448,7 +6470,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/samuel-weary-46166822/",
@@ -6471,7 +6493,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ansinneo-charles-46168138/",
@@ -6494,7 +6516,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karnell-james-46149925/",
@@ -6517,7 +6539,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-roberson-46158879/",
@@ -6540,7 +6562,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-outhouse-jr-46145113/",
@@ -6563,7 +6585,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alius-mayo-46147437/",
@@ -6586,7 +6608,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-sherrard-46155809/",
@@ -6609,7 +6631,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-vilmael-46159055/",
@@ -6632,7 +6654,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikhail-mccreary-46150609/",
@@ -6655,7 +6677,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montre-jackson-46147419/",
@@ -6678,7 +6700,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-jenkins-46160118/",
@@ -6701,7 +6723,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-banks-46149640/",
@@ -6724,7 +6746,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrod-jacobs-46157579/",
@@ -6747,7 +6769,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryant-robinson-46152388/",
@@ -6770,7 +6792,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -6793,7 +6815,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bibbs-46160858/",
@@ -6816,7 +6838,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dhillon-mcgee-46140684/",
@@ -6839,7 +6861,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davontrae-kirkland-46138988/",
@@ -6862,7 +6884,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stanley-peters-jr-46165779/",
@@ -6885,7 +6907,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylun-huglon-46145719/",
@@ -6908,7 +6930,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-debose-46166541/",
@@ -6931,7 +6953,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jewellz-tapp-46167367/",
@@ -6954,7 +6976,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-washington-46156183/",
@@ -6966,7 +6988,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 161,
-            "stateRank": 243,
+            "stateRank": 244,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "9aae4898a54656fe8cd56aad",
@@ -6977,7 +6999,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semaj-stanford-46146499/",
@@ -7000,7 +7022,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-martin-46157639/",
@@ -7023,7 +7045,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-anding-46152579/",
@@ -7046,7 +7068,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karon-eugene-46155620/",
@@ -7069,7 +7091,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-johnson-46147058/",
@@ -7092,7 +7114,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-martin-46158548/",
@@ -7115,7 +7137,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -7138,7 +7160,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-johnson-46159985/",
@@ -7161,7 +7183,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marvin-joseph-46158643/",
@@ -7184,7 +7206,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-roberson-46157609/",
@@ -7207,7 +7229,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braiden-graves-46157607/",
@@ -7230,7 +7252,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rontrae-carter-46155237/",
@@ -7253,7 +7275,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/savoy-guidry-46157640/",
@@ -7276,7 +7298,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-udom-46149554/",
@@ -7299,7 +7321,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyron-turner-46167372/",
@@ -7322,7 +7344,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/levi-mckenzie-46166389/",
@@ -7333,7 +7355,7 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 114,
+            "positionRank": 115,
             "stateRank": 129,
             "rankingState": "FL",
             "rankingGroup": "HighSchool",
@@ -7345,7 +7367,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavon-bolden-46161017/",
@@ -7356,8 +7378,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 136,
-            "stateRank": 174,
+            "positionRank": 137,
+            "stateRank": 173,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "16b218e194e7a3b9b443637b",
@@ -7368,7 +7390,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-stevens-46166897/",
@@ -7379,8 +7401,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 161,
-            "stateRank": 197,
+            "positionRank": 162,
+            "stateRank": 198,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "01a8487ca687e2720ce06f3d",
@@ -7391,7 +7413,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayquan-snell-46136314/",
@@ -7414,7 +7436,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-calais-46147011/",
@@ -7437,7 +7459,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-reese-ii-46164876/",
@@ -7460,7 +7482,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/markez-davis-46166418/",
@@ -7483,7 +7505,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brajon-melancon-46165745/",
@@ -7506,7 +7528,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-white-46143662/",
@@ -7529,7 +7551,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/yoshawn-hudson-46165274/",
@@ -7552,7 +7574,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaston-lewis-46163162/",
@@ -7575,7 +7597,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/javarious-griffin-jr-46156164/",
@@ -7598,7 +7620,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-fields-46156704/",
@@ -7621,7 +7643,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antayvious-ellis-46142374/",
@@ -7644,7 +7666,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marquis-fennell-46156386/",
@@ -7667,7 +7689,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-scott-46145117/",
@@ -7690,7 +7712,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-reed-46160089/",
@@ -7713,7 +7735,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcus-watson-46163630/",
@@ -7736,7 +7758,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-dossett-46150553/",
@@ -7747,8 +7769,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 138,
-            "stateRank": 175,
+            "positionRank": 139,
+            "stateRank": 174,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "79eb726af5409e7f9c3e4b3d",
@@ -7759,7 +7781,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deanthony-crittenden-46150465/",
@@ -7782,7 +7804,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brawley-tuitupou-46160699/",
@@ -7805,7 +7827,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalani-culpepper-46142205/",
@@ -7816,8 +7838,8 @@
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
-            "positionRank": 201,
-            "stateRank": 269,
+            "positionRank": 202,
+            "stateRank": 270,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "eed772616a62b32a8246fb3f",
@@ -7828,7 +7850,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/liam-madkins-46145628/",
@@ -7851,7 +7873,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malcolm-laforest-46152957/",
@@ -7874,7 +7896,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/korde-foreman-46168975/",
@@ -7897,7 +7919,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andres-von-der-meden-46167715/",
@@ -7909,7 +7931,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 9,
-            "stateRank": 278,
+            "stateRank": 279,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "5ce254ad1e3d5f74f9014c8b",
@@ -7920,7 +7942,7 @@
             "schoolId": "houston",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
-            "updatedAt": "2026-09-23T11:34:44.939Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           }
         ]
       }
@@ -7929,8 +7951,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -8357,56 +8379,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -8415,8 +8437,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/248/schedule",
         "season": "2026-27",
         "reason": null,
@@ -8424,8 +8446,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/248/roster",
         "season": "2026-27",
         "reason": null,
@@ -8524,8 +8546,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -8577,111 +8599,18 @@
         ]
       },
       "recruitingBoard": {
-        "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "status": "empty",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
-        "records": [
-          {
-            "profileUrl": "https://247sports.com/Player/darrell-davis-46146316/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/241/580/13580241.jpeg?width=70&fit=crop",
-            "schoolName": "SPIRE Academy",
-            "hometown": "Geneva, OH",
-            "rating": 93,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 31,
-            "positionRank": 6,
-            "stateRank": 3,
-            "rankingState": "OH",
-            "rankingGroup": "HighSchool",
-            "id": "1238ddd2a4ed116d44ab5cad",
-            "name": "Darrell Davis",
-            "classYear": 2027,
-            "position": "PG",
-            "status": "committed",
-            "schoolId": "houston",
-            "sport": "basketball",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/oneal-delancy-46152898/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/517/604/13604517.jpeg?width=70&fit=crop",
-            "schoolName": "Montverde Academy",
-            "hometown": "Montverde, FL",
-            "rating": 92,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 43,
-            "positionRank": 11,
-            "stateRank": 10,
-            "rankingState": "FL",
-            "rankingGroup": "HighSchool",
-            "id": "c495ea155a3604180944f772",
-            "name": "Oneal Delancy",
-            "classYear": 2027,
-            "position": "CG",
-            "status": "committed",
-            "schoolId": "houston",
-            "sport": "basketball",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/derek-daniels-46152458/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/521/604/13604521.jpeg?width=70&fit=crop",
-            "schoolName": "Iowa United Prep",
-            "hometown": "Norwalk, IA",
-            "rating": 90,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 82,
-            "positionRank": 10,
-            "stateRank": 2,
-            "rankingState": "IA",
-            "rankingGroup": "HighSchool",
-            "id": "f5c025402b2c210f9ade6a48",
-            "name": "Derek Daniels",
-            "classYear": 2027,
-            "position": "C",
-            "status": "committed",
-            "schoolId": "houston",
-            "sport": "basketball",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/triston-hawthorne-46167487/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/891/16/14016891.jpg?width=70&fit=crop",
-            "schoolName": "South Jones",
-            "hometown": "Ellisville, MS",
-            "rating": 90,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 90,
-            "positionRank": 18,
-            "stateRank": 1,
-            "rankingState": "MS",
-            "rankingGroup": "HighSchool",
-            "id": "1d478dccf9f185e000e13b04",
-            "name": "Triston Hawthorne",
-            "classYear": 2027,
-            "position": "PF",
-            "status": "committed",
-            "schoolId": "houston",
-            "sport": "basketball",
-            "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
-          }
-        ]
+        "records": []
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -8707,7 +8636,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reese-alston-46151465/",
@@ -8730,7 +8659,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-davis-46148123/",
@@ -8753,7 +8682,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrell-davis-46146316/",
@@ -8776,7 +8705,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -8799,7 +8728,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adan-diggs-46150995/",
@@ -8822,7 +8751,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-gibson-46144397/",
@@ -8845,7 +8774,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/oneal-delancy-46152898/",
@@ -8868,7 +8797,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-page-46146143/",
@@ -8891,7 +8820,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/asa-montgomery-46149951/",
@@ -8914,7 +8843,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-santos-46151516/",
@@ -8937,7 +8866,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayon-connor-46168482/",
@@ -8960,7 +8889,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -8983,7 +8912,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-jenkins-46147866/",
@@ -9006,7 +8935,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/triston-hawthorne-46167487/",
@@ -9029,7 +8958,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lewis-uvwo-46165178/",
@@ -9052,7 +8981,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -9075,7 +9004,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derek-daniels-46152458/",
@@ -9098,7 +9027,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-brown-46153130/",
@@ -9121,7 +9050,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-baliraine-46152891/",
@@ -9144,7 +9073,7 @@
             "schoolId": "houston",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           }
         ]
       }
@@ -9153,8 +9082,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -9570,48 +9499,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -9620,8 +9549,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/248/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9978,8 +9907,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/248/roster",
         "season": "2025-26",
         "reason": null,
@@ -10105,8 +10034,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10137,8 +10066,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -10146,8 +10075,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -10173,7 +10102,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sydney-savoury-46159293/",
@@ -10196,7 +10125,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-arije-46158550/",
@@ -10219,7 +10148,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -10242,7 +10171,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -10265,7 +10194,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kieaundria-acree-46152771/",
@@ -10288,7 +10217,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/saniyah-murray-46159308/",
@@ -10311,7 +10240,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nakhai-worthy-46159298/",
@@ -10334,7 +10263,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -10357,7 +10286,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalia-hartwell-46152785/",
@@ -10380,7 +10309,7 @@
             "schoolId": "houston",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           }
         ]
       }
@@ -10389,8 +10318,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -10751,40 +10680,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-            "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+            "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+            "lastSuccessAt": "2026-09-24T04:49:07.067Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -10793,8 +10722,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/124/schedule",
         "season": "2025-26",
         "reason": null,
@@ -11463,7 +11392,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/124/roster",
         "season": null,
@@ -11472,8 +11401,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11481,8 +11410,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
-        "lastSuccessAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
+        "lastSuccessAt": "2026-09-24T04:49:07.067Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -11508,7 +11437,7 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=708244",
@@ -11531,7 +11460,7 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1035998",
@@ -11554,13 +11483,13 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-09-23T16:57:04.188Z"
+            "updatedAt": "2026-09-24T04:49:07.067Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-23T16:57:04.188Z",
+        "lastAttemptAt": "2026-09-24T04:49:07.067Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
