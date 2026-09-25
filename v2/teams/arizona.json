@@ -6,18 +6,29 @@
     "name": "Arizona",
     "athleticsUrl": "https://arizonawildcats.com"
   },
-  "generatedAt": "2026-09-25T11:50:26.018Z",
+  "generatedAt": "2026-09-25T17:10:08.611Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "dfc3360d4eebb55e32a8a268",
+            "title": "Four Big 12 Football Teams with Most to Prove in Week 4 of 2026 Season",
+            "url": "https://www.heartlandcollegesports.com/2026/09/25/four-big-12-football-teams-with-most-to-prove-week-4-2026/",
+            "publishedAt": "2026-09-25T14:44:38.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/eric-morris-introductory-press-conference-150x150.jpg",
+            "imageAlt": "eric morris introductory press conference",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
           {
             "id": "b357f0ba9dc5fa5c7e178c7f",
             "title": "Ranking Every Big 12 Football Game in Week 4 From Best to Worst",
@@ -1331,56 +1342,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://arizonawildcats.com/sports/football/archives",
             "reason": null,
             "recordCount": 35
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 11
+            "recordCount": 12
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.si.com/college/arizona/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 45
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.azdesertswarm.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 27
@@ -1389,8 +1400,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/12/schedule",
         "season": "2026",
         "reason": null,
@@ -1543,8 +1554,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/12/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -2534,29 +2545,444 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
         "records": []
       },
       "recruitingBoard": {
-        "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
-        "records": []
+        "records": [
+          {
+            "profileUrl": "https://247sports.com/Player/ty-johnson-46151796/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/144/88/13088144.jpg?width=70&fit=crop",
+            "schoolName": "Crean Lutheran",
+            "hometown": "Irvine, CA",
+            "rating": 90,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": null,
+            "positionRank": 48,
+            "stateRank": 26,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "dc3b6ffa756906ee807dde2e",
+            "name": "Ty Johnson",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/269/534/13534269.jpg?width=70&fit=crop",
+            "schoolName": "Forney",
+            "hometown": "Forney, TX",
+            "rating": 89,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 26,
+            "stateRank": 44,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "552f5ecb34b89bb14caa09e3",
+            "name": "Mason Joshua",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/evan-mack-46154204/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/59/969/12969059.jpg?width=70&fit=crop",
+            "schoolName": "Crean Lutheran",
+            "hometown": "Irvine, CA",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 49,
+            "stateRank": 34,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "f57fd54abc44fbfb73bd3270",
+            "name": "Evan Mack",
+            "classYear": 2027,
+            "position": "CB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/caden-jones-46148112/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/695/518/13518695.JPG?width=70&fit=crop",
+            "schoolName": "Crean Lutheran",
+            "hometown": "Irvine, CA",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 36,
+            "stateRank": 42,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "97765f083a99fb80a0c43431",
+            "name": "Caden Jones",
+            "classYear": 2027,
+            "position": "QB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jacob-whitehead-46141458/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/794/545/13545794.JPG?width=70&fit=crop",
+            "schoolName": "Crean Lutheran",
+            "hometown": "Irvine, CA",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 54,
+            "stateRank": 51,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "8f0bcb74f590d4cad611f24d",
+            "name": "Jacob Whitehead",
+            "classYear": 2027,
+            "position": "CB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/wayne-shanks-jr-46145118/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/286/583/13583286.jpg?width=70&fit=crop",
+            "schoolName": "Houston Kinkaid",
+            "hometown": "Houston, TX",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 41,
+            "stateRank": 78,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "dd1406bb3765e1070ce8652f",
+            "name": "Wayne Shanks Jr.",
+            "classYear": 2027,
+            "position": "RB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/max-markofski-46149353/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/326/98/13098326.JPG?width=70&fit=crop",
+            "schoolName": "Mission Viejo",
+            "hometown": "Mission Viejo, CA",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 37,
+            "stateRank": 62,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "591ec3495e83d064fa2f20a8",
+            "name": "Max Markofski",
+            "classYear": 2027,
+            "position": "TE",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/trey-smith-46155030/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/596/887/12887596.JPG?width=70&fit=crop",
+            "schoolName": "Williams Field",
+            "hometown": "Gilbert, AZ",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 106,
+            "stateRank": 17,
+            "rankingState": "AZ",
+            "rankingGroup": "HighSchool",
+            "id": "3da61554951fe93dc5b0a663",
+            "name": "Trey Smith",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/818/69/14069818.jpg?width=70&fit=crop",
+            "schoolName": "Cornerstone Christian",
+            "hometown": "San Antonio, TX",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 109,
+            "stateRank": 113,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "5898c71f0aca5bdba76eb95b",
+            "name": "Ahzan Bacote",
+            "classYear": 2027,
+            "position": "DL",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/rome-ewell-46157683/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/845/645/13645845.jpg?width=70&fit=crop",
+            "schoolName": "Springtown",
+            "hometown": "Springtown, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 99,
+            "stateRank": 151,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "9a2e4daab929403ae2e89ee4",
+            "name": "Rome Ewell",
+            "classYear": 2027,
+            "position": "LB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/luke-stevens-46166897/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/955/891/13891955.jpg?width=70&fit=crop",
+            "schoolName": "Fort Worth Christian",
+            "hometown": "North Richland Hills, TX",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 162,
+            "stateRank": 198,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "309dbc920b7f3ab910a6e016",
+            "name": "Luke Stevens",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/logan-draper-46166814/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/517/975/13975517.jpg?width=70&fit=crop",
+            "schoolName": "Spring Westfield",
+            "hometown": "Houston, TX",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 186,
+            "stateRank": 201,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "7b423c3d538c38d80d6fb375",
+            "name": "Logan Draper",
+            "classYear": 2027,
+            "position": "DL",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/davon-smith-46148331/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/688/135/13135688.jpg?width=70&fit=crop",
+            "schoolName": "Spring Westfield",
+            "hometown": "Houston, TX",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 138,
+            "stateRank": 208,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "831581bc5276ddbbf2ee0987",
+            "name": "Davon Smith",
+            "classYear": 2027,
+            "position": "LB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jaylen-oliver-46166784/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/551/945/13945551.jpg?width=70&fit=crop",
+            "schoolName": "Spring Westfield",
+            "hometown": "Houston, TX",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 167,
+            "stateRank": 212,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "4d52beda90761bcf708b39b0",
+            "name": "Jaylen Oliver",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/braylen-ross-46155489/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/370/622/13622370.JPG?width=70&fit=crop",
+            "schoolName": "Crean Lutheran",
+            "hometown": "Irvine, CA",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 232,
+            "stateRank": 173,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "6f4d908e170be739e3872260",
+            "name": "Braylen Ross",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/dieter-lotulelei-46157221/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/161/13/14013161.jpg?width=70&fit=crop",
+            "schoolName": "West",
+            "hometown": "Salt Lake City, UT",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 138,
+            "stateRank": 34,
+            "rankingState": "UT",
+            "rankingGroup": "HighSchool",
+            "id": "2527a3523861efe0545525b7",
+            "name": "Dieter Lotulelei",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/james-aloisio-46101361/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/597/36/14036597.jpg?width=70&fit=crop",
+            "schoolName": "Snow College",
+            "hometown": "Ephraim, UT",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": 43,
+            "positionRank": 6,
+            "stateRank": 1,
+            "rankingState": "UT",
+            "rankingGroup": "JuniorCollege",
+            "id": "a89ea7110bb0e2d78e706835",
+            "name": "James Aloisio",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/curtis-zeno-jr-46157566/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/879/845/13845879.jpg?width=70&fit=crop",
+            "schoolName": "Katy Paetow",
+            "hometown": "Katy, TX",
+            "rating": 82,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 147,
+            "stateRank": 271,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "1db5d841f0d14ede9a2131f2",
+            "name": "Curtis Zeno Jr.",
+            "classYear": 2027,
+            "position": "RB",
+            "status": "committed",
+            "schoolId": "arizona",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/commits/",
+            "updatedAt": "2026-09-25T17:10:08.611Z"
+          }
+        ]
       },
       "recruitingOffers": {
-        "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
         "lastSuccessAt": "2026-09-25T11:50:26.018Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-football/offers/",
         "season": "2027",
-        "reason": null,
+        "reason": "source-format-changed",
         "records": []
       }
     },
@@ -2564,8 +2990,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -3223,56 +3649,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://arizonawildcats.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.si.com/college/arizona/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.azdesertswarm.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -3281,8 +3707,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/12/schedule",
         "season": "2026-27",
         "reason": null,
@@ -3290,8 +3716,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/12/roster",
         "season": "2026-27",
         "reason": null,
@@ -3399,8 +3825,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3420,8 +3846,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -3429,8 +3855,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -3456,7 +3882,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/navorro-bowman-jr-46154243/",
@@ -3479,7 +3905,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-gardner-jr-46151451/",
@@ -3502,7 +3928,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/asa-montgomery-46149951/",
@@ -3525,7 +3951,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darius-wabbington-46143727/",
@@ -3548,7 +3974,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamsi-awaka-46151601/",
@@ -3571,7 +3997,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cherif-millogo-46159949/",
@@ -3594,7 +4020,7 @@
             "schoolId": "arizona",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           }
         ]
       }
@@ -3603,8 +4029,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -3954,48 +4380,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://arizonawildcats.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.si.com/college/arizona/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.azdesertswarm.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -4004,8 +4430,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/12/schedule",
         "season": "2026-27",
         "reason": null,
@@ -4374,8 +4800,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/12/roster",
         "season": "2026-27",
         "reason": null,
@@ -4501,8 +4927,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4599,8 +5025,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -4608,8 +5034,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -4635,7 +5061,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sydney-savoury-46159293/",
@@ -4658,7 +5084,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-carter-46152767/",
@@ -4681,7 +5107,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-arije-46158550/",
@@ -4704,7 +5130,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -4727,7 +5153,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nevaeh-roberson-46168525/",
@@ -4750,7 +5176,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jezelle-banks-46152815/",
@@ -4773,7 +5199,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jessie-moses-46152770/",
@@ -4796,7 +5222,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordyn-palmer-46152768/",
@@ -4819,7 +5245,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/qandace-samuels-46152776/",
@@ -4842,7 +5268,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -4865,7 +5291,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -4888,7 +5314,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashley-maccalla-46152769/",
@@ -4911,7 +5337,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -4934,7 +5360,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dasia-scott-46168418/",
@@ -4957,7 +5383,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -4980,7 +5406,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/celsy-colombo-46159302/",
@@ -5003,7 +5429,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nakhai-worthy-46159298/",
@@ -5026,7 +5452,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -5049,7 +5475,7 @@
             "schoolId": "arizona",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           }
         ]
       }
@@ -5058,8 +5484,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -5431,40 +5857,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://arizonawildcats.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.si.com/college/arizona/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-            "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+            "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+            "lastSuccessAt": "2026-09-25T17:10:08.611Z",
             "sourceUrl": "https://www.azdesertswarm.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -5473,8 +5899,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/60/schedule",
         "season": "2025-26",
         "reason": null,
@@ -6119,7 +6545,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/60/roster",
         "season": null,
@@ -6128,8 +6554,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://arizonawildcats.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6137,8 +6563,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
-        "lastSuccessAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
+        "lastSuccessAt": "2026-09-25T17:10:08.611Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -6164,7 +6590,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=870350",
@@ -6187,7 +6613,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1057406",
@@ -6210,7 +6636,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1220106",
@@ -6233,7 +6659,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1022032",
@@ -6256,7 +6682,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=751079",
@@ -6279,7 +6705,7 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=781006",
@@ -6302,13 +6728,13 @@
             "schoolId": "arizona",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1757&grad=2027",
-            "updatedAt": "2026-09-25T11:50:26.018Z"
+            "updatedAt": "2026-09-25T17:10:08.611Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-25T11:50:26.018Z",
+        "lastAttemptAt": "2026-09-25T17:10:08.611Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
