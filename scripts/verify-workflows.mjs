@@ -36,8 +36,25 @@ export function verifyWorkflowText(text, name) {
     assert.ok(text.includes("github.repository == 'chanse-syres/campus_sports_big12_maintainers'"), 'publication must be restricted to the intended repository');
     assert.ok(text.includes('node scripts/publish.mjs --dry-run'), 'validate before uploading artifacts');
     assert.ok(text.includes('cancel-in-progress: false'), 'publication cannot cancel an in-progress update');
+    const jobs = text.split(/(?=^  [a-z][a-z-]*:\r?$)/m);
+    const job = name => jobs.find(block => block.startsWith(`  ${name}:`)) ?? '';
+    const publisher = job('publish');
+    const health = job('source-health');
+    assert.doesNotMatch(publisher, /report-health\.mjs/, 'source degradation must not report successful publication as a failure');
+    assert.match(health, /needs: \[collect, publish\]/, 'health must wait for the collection and publication outcome');
+    assert.ok(health.includes("always() && needs.collect.result == 'success' && (needs.publish.result == 'success' || needs.publish.result == 'skipped')"), 'health must cover published and collection-only runs');
+    assert.match(health, /^      contents: read$/m, 'health is read-only');
+    assert.match(health, /actions\/download-artifact@[a-f0-9]{40}[\s\S]*?name: big12-snapshots\r?\n          path: output\/v2\//, 'health must read the same run artifact as publication');
+    assert.doesNotMatch(health, /(?:continue-on-error|GITHUB_TOKEN|node src\/cli\.mjs|--download-previous|run-id:|repository:)/, 'health must remain failing and cannot recollect or read another run');
+    assert.match(health, /run: node scripts\/report-health\.mjs/, 'health must enforce source status');
   } else {
     assert.doesNotMatch(text, /^\s+contents: write$/m, `${name}: nonpublication workflows must not write repository contents`);
+  }
+  if (name === 'codeql.yml') {
+    const codeql = actions.filter(action => action.startsWith('github/codeql-action/'));
+    assert.equal(codeql.length, 2, 'CodeQL requires one init and one analyze step');
+    assert.deepEqual(codeql.map(action => action.split('@')[0]).sort(), ['github/codeql-action/analyze', 'github/codeql-action/init']);
+    assert.equal(new Set(codeql.map(action => action.split('@')[1])).size, 1, 'CodeQL init and analyze must use the same version');
   }
 }
 

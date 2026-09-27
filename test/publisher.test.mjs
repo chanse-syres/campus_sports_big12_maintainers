@@ -185,3 +185,25 @@ test('workflow policy validates the checked-in workflows and catches dangerous c
     ci.replace('npm ci --ignore-scripts', 'npm ci'),
   ]) assert.throws(() => verifyWorkflowText(unsafe, 'ci.yml'));
 });
+
+test('source health fails independently of publication and uses the same collected artifact', async () => {
+  const workflow = await readFile(new URL('../.github/workflows/maintainers.yml', import.meta.url), 'utf8');
+  verifyWorkflowText(workflow, 'maintainers.yml');
+  for (const unsafe of [
+    workflow.replace('  source-health:', '      - run: node scripts/report-health.mjs\n\n  source-health:'),
+    workflow.replace('needs: [collect, publish]', 'needs: collect'),
+    workflow.replace(" || needs.publish.result == 'skipped'", ''),
+    workflow.replace('name: Report source health from', 'continue-on-error: true\n        name: Report source health from'),
+    workflow.replace(/(  source-health:[\s\S]*?name: )big12-snapshots/, '$1other-snapshots'),
+    workflow.replace('run: node scripts/report-health.mjs', 'run: node scripts/publish.mjs --download-previous'),
+    workflow.replace('run: node scripts/report-health.mjs', 'run: node src/cli.mjs --all'),
+  ]) assert.throws(() => verifyWorkflowText(unsafe, 'maintainers.yml'));
+});
+
+test('CodeQL versions stay aligned when dependency updates are grouped', async () => {
+  const codeql = await readFile(new URL('../.github/workflows/codeql.yml', import.meta.url), 'utf8');
+  verifyWorkflowText(codeql, 'codeql.yml');
+  assert.throws(() => verifyWorkflowText(codeql.replace(/(github\/codeql-action\/init@)[a-f0-9]{40}/, `$1${'a'.repeat(40)}`), 'codeql.yml'), /same version/);
+  const dependabot = await readFile(new URL('../.github/dependabot.yml', import.meta.url), 'utf8');
+  assert.match(dependabot, /package-ecosystem: github-actions[\s\S]*groups:\s+codeql-action:\s+patterns: \['github\/codeql-action\/\*'\]/);
+});
