@@ -6,18 +6,29 @@
     "name": "Arizona State",
     "athleticsUrl": "https://thesundevils.com"
   },
-  "generatedAt": "2026-09-27T21:20:39.653Z",
+  "generatedAt": "2026-09-28T05:22:40.287Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/football/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "d9190cccf257503ca8adc7c2",
+            "title": "Big 12 Football Power Rankings After Week 4",
+            "url": "https://www.heartlandcollegesports.com/2026/09/27/big-12-football-power-rankings-week-4-2026/",
+            "publishedAt": "2026-09-28T02:48:22.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/big-12-football-power-rankings-150x150.jpg",
+            "imageAlt": "Big 12 Football Power Rankings",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
           {
             "id": "16a77ec4a0ef7885f503e56c",
             "title": "What Arizona State Fans Should Watch For In Week 4 Of The College Football Season",
@@ -913,48 +924,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://thesundevils.com/sports/football/news",
             "reason": null,
             "recordCount": 22
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 15
+            "recordCount": 16
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 41
@@ -963,8 +974,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/schedule",
         "season": "2026",
         "reason": null,
@@ -1117,8 +1128,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -2090,8 +2101,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -2099,8 +2110,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -2126,7 +2137,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nico-bland-46141363/",
@@ -2149,7 +2160,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/weston-nielsen-46144165/",
@@ -2172,7 +2183,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tycen-johnson-46150049/",
@@ -2195,7 +2206,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -2218,7 +2229,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marshaun-ivy-46149424/",
@@ -2241,7 +2252,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylin-bruce-46155369/",
@@ -2264,7 +2275,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-camping-46160665/",
@@ -2287,7 +2298,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/magic-haynes-46167306/",
@@ -2310,7 +2321,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nasim-eason-46154554/",
@@ -2333,7 +2344,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-anetema-46147996/",
@@ -2356,7 +2367,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikey-barth-46162759/",
@@ -2379,17 +2390,17 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T16:57:25.823Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
         "season": "2027",
-        "reason": "source-format-changed",
+        "reason": null,
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/trent-seaborn-46136488/",
@@ -2412,7 +2423,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brady-edmunds-46140325/",
@@ -2435,7 +2446,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamden-lopati-46148735/",
@@ -2458,7 +2469,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/weston-nielsen-46144165/",
@@ -2481,7 +2492,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chance-thomas-46143322/",
@@ -2504,7 +2515,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dane-weber-46155270/",
@@ -2527,7 +2538,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sione-kaho-46143572/",
@@ -2550,7 +2561,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kael-snyder-46150670/",
@@ -2573,7 +2584,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-hampton-46156384/",
@@ -2596,7 +2607,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bradley-cassier-46148425/",
@@ -2619,7 +2630,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/emmett-queen-46147781/",
@@ -2642,7 +2653,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-rudnicki-46148226/",
@@ -2665,7 +2676,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daniel-mielke-46141846/",
@@ -2688,7 +2699,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-pooley-46156768/",
@@ -2711,7 +2722,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deshawn-laporte-46144157/",
@@ -2734,7 +2745,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/donovan-shirley-46158104/",
@@ -2757,7 +2768,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-williams-46140393/",
@@ -2780,7 +2791,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landen-williams-callis-46138250/",
@@ -2803,7 +2814,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarius-mcmiller-46144140/",
@@ -2826,7 +2837,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyson-robinson-46148323/",
@@ -2849,7 +2860,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-kimble-46144601/",
@@ -2872,7 +2883,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-roberts-46151437/",
@@ -2895,7 +2906,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayshon-gibson-46150802/",
@@ -2918,7 +2929,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxsen-stokes-46148611/",
@@ -2941,7 +2952,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/triston-willis-46153677/",
@@ -2964,7 +2975,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-adeyanju-46162240/",
@@ -2987,7 +2998,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-dent-46148899/",
@@ -3010,7 +3021,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/terrance-grant-jr-46149805/",
@@ -3033,7 +3044,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-scott-46145117/",
@@ -3056,7 +3067,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-thomas-46155064/",
@@ -3079,7 +3090,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antwon-sanders-46157633/",
@@ -3102,7 +3113,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jakoby-dixon-46144464/",
@@ -3125,7 +3136,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-bell-46153808/",
@@ -3148,7 +3159,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamren-mcmillan-46161649/",
@@ -3171,7 +3182,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jameson-davis-46158062/",
@@ -3194,7 +3205,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derrion-bartholomew-46163090/",
@@ -3217,7 +3228,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/monshun-sales-46147925/",
@@ -3240,7 +3251,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/osani-gayles-46144796/",
@@ -3263,7 +3274,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quentin-hale-46152565/",
@@ -3286,7 +3297,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bode-sparrow-46143770/",
@@ -3309,7 +3320,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roye-oliver-iii-46154068/",
@@ -3332,7 +3343,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-davis-46154972/",
@@ -3355,7 +3366,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alvin-mosley-46151559/",
@@ -3378,7 +3389,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/briceson-thrower-jr-46155048/",
@@ -3401,7 +3412,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-woodard-46154551/",
@@ -3424,7 +3435,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-moore-46143523/",
@@ -3447,7 +3458,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quentin-burrell-46139675/",
@@ -3470,7 +3481,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-yancey-46142228/",
@@ -3493,7 +3504,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyler-fryman-46159305/",
@@ -3516,7 +3527,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-wong-46142252/",
@@ -3539,7 +3550,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-white-46145647/",
@@ -3562,7 +3573,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nico-bland-46141363/",
@@ -3585,7 +3596,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
@@ -3608,7 +3619,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lawrence-britt-46154473/",
@@ -3631,7 +3642,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-johnson-46151796/",
@@ -3654,7 +3665,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damani-warren-46147365/",
@@ -3677,7 +3688,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-haralson-46144141/",
@@ -3700,7 +3711,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-pope-46143545/",
@@ -3723,7 +3734,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-douglas-46145101/",
@@ -3746,7 +3757,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-baldwin-46145701/",
@@ -3769,7 +3780,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-honore-46147861/",
@@ -3792,7 +3803,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tycen-johnson-46150049/",
@@ -3815,7 +3826,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rob-larson-46149565/",
@@ -3838,7 +3849,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyron-brown-46165287/",
@@ -3861,7 +3872,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lawrence-carr-46156602/",
@@ -3884,7 +3895,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zerek-sidney-46153693/",
@@ -3907,7 +3918,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brock-burrus-46154520/",
@@ -3930,7 +3941,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/laron-baker-jr-46145802/",
@@ -3953,7 +3964,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-smith-46155030/",
@@ -3976,7 +3987,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-kasper-46150820/",
@@ -3999,7 +4010,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
@@ -4022,7 +4033,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-cromartie-46150096/",
@@ -4045,7 +4056,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aden-starling-46136707/",
@@ -4068,7 +4079,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/delontay-williams-46142572/",
@@ -4091,7 +4102,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-flores-46146823/",
@@ -4114,7 +4125,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/skylar-robinson-46139621/",
@@ -4137,7 +4148,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darion-moseley-46149637/",
@@ -4160,7 +4171,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-lane-46158603/",
@@ -4183,7 +4194,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaegan-morton-46152740/",
@@ -4206,7 +4217,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-anetema-46147996/",
@@ -4229,7 +4240,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mekhi-hodge-46151185/",
@@ -4252,7 +4263,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dallas-crescenzo-46152773/",
@@ -4275,7 +4286,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-roberts-46158355/",
@@ -4298,7 +4309,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lovell-neal-46166522/",
@@ -4321,7 +4332,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmad-hudson-46143677/",
@@ -4344,7 +4355,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-karhoff-46155435/",
@@ -4367,7 +4378,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brock-williams-46153758/",
@@ -4390,7 +4401,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-brown-46149605/",
@@ -4413,7 +4424,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rahzario-edwards-46150364/",
@@ -4436,7 +4447,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-ballinger-46150696/",
@@ -4459,7 +4470,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sam-faniel-46156813/",
@@ -4482,7 +4493,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/grant-haviland-46150826/",
@@ -4505,7 +4516,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-kolar-46156737/",
@@ -4528,7 +4539,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/christian-hanshaw-46159244/",
@@ -4551,7 +4562,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jace-cannon-46155201/",
@@ -4574,7 +4585,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zac-fares-46149288/",
@@ -4597,7 +4608,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-pettigrew-46159351/",
@@ -4620,7 +4631,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-camping-46160665/",
@@ -4643,7 +4654,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/judah-lancaster-46145705/",
@@ -4666,7 +4677,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-gazzaniga-46156782/",
@@ -4689,7 +4700,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylen-ross-46155489/",
@@ -4712,7 +4723,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-brown-46152521/",
@@ -4735,7 +4746,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-fielder-46158447/",
@@ -4758,7 +4769,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-hildebrand-46150822/",
@@ -4781,7 +4792,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-swanson-46148502/",
@@ -4804,7 +4815,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jimmy-kalis-46150552/",
@@ -4827,7 +4838,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jasper-ngokwere-46149467/",
@@ -4850,7 +4861,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-halliman-46155221/",
@@ -4873,7 +4884,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-bertola-46154775/",
@@ -4896,7 +4907,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
@@ -4919,7 +4930,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amaziah-siale-46146568/",
@@ -4942,7 +4953,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/qua-ford-46146546/",
@@ -4965,7 +4976,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjamin-lowther-46149593/",
@@ -4988,7 +4999,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tye-kennedy-46162261/",
@@ -5011,7 +5022,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-wilson-46159294/",
@@ -5034,7 +5045,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-siler-46163939/",
@@ -5057,7 +5068,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/clint-lundin-46158853/",
@@ -5080,7 +5091,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hudson-whitenight-46152665/",
@@ -5103,7 +5114,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alexander-herrera-46150309/",
@@ -5126,7 +5137,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-timms-46153299/",
@@ -5149,7 +5160,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miylen-colley-46147299/",
@@ -5172,7 +5183,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ismael-camara-46152366/",
@@ -5195,7 +5206,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-miller-46144299/",
@@ -5218,7 +5229,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyler-kuhn-46155294/",
@@ -5241,7 +5252,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-roper-46153223/",
@@ -5264,7 +5275,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-hemphill-woods-46154227/",
@@ -5287,7 +5298,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dajohn-yarborough-46155167/",
@@ -5310,7 +5321,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gecova-doyal-46145155/",
@@ -5333,7 +5344,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-aloisio-46146734/",
@@ -5356,7 +5367,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-bunni-46161773/",
@@ -5379,7 +5390,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lex-mailangi-46140630/",
@@ -5402,7 +5413,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristan-dare-46146325/",
@@ -5425,7 +5436,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyson-ross-46161904/",
@@ -5448,7 +5459,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-mack-46149670/",
@@ -5471,7 +5482,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-carraway-46145097/",
@@ -5494,7 +5505,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/calvin-moala-46147877/",
@@ -5517,7 +5528,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-williams-46145123/",
@@ -5540,7 +5551,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-tupuola-46157577/",
@@ -5563,7 +5574,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rashad-streets-46154888/",
@@ -5586,7 +5597,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-hall-46157610/",
@@ -5609,7 +5620,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/uhila-wolfgramm-46152619/",
@@ -5632,7 +5643,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaden-mccarty-46145112/",
@@ -5655,7 +5666,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-bowens-46152083/",
@@ -5678,7 +5689,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/manase-brown-46160918/",
@@ -5701,7 +5712,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-booth-46152717/",
@@ -5724,7 +5735,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myles-smith-46161283/",
@@ -5747,7 +5758,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keysan-taylor-46159687/",
@@ -5770,7 +5781,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godschoice-eboigbodin-46159650/",
@@ -5793,7 +5804,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylen-mercer-46145741/",
@@ -5816,7 +5827,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayce-brewer-46149423/",
@@ -5839,7 +5850,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/giovanni-hodge-46152883/",
@@ -5862,7 +5873,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miles-schirmer-46152745/",
@@ -5885,7 +5896,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-mailo-46147113/",
@@ -5908,7 +5919,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-saunders-46159373/",
@@ -5931,7 +5942,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ethan-coach-46148585/",
@@ -5954,7 +5965,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-demoss-46153531/",
@@ -5977,7 +5988,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-wright-46163569/",
@@ -6000,7 +6011,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jarquez-perry-46163184/",
@@ -6023,7 +6034,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/austin-moilan-46157622/",
@@ -6046,7 +6057,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kasi-currie-46149610/",
@@ -6069,7 +6080,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myels-smith-46153654/",
@@ -6092,7 +6103,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zane-rowe-46139730/",
@@ -6115,7 +6126,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alifeleti-tuihalamaka-46149194/",
@@ -6138,7 +6149,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/xavier-muhammad-46147250/",
@@ -6161,7 +6172,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-parks-46146752/",
@@ -6184,7 +6195,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezekiel-ayangbile-46146266/",
@@ -6207,7 +6218,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jon-ioane-46140157/",
@@ -6230,7 +6241,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-patmon-46149821/",
@@ -6253,7 +6264,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-toia-46147998/",
@@ -6276,7 +6287,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tevita-nonu-46152376/",
@@ -6299,7 +6310,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reinaldo-perez-46149558/",
@@ -6322,7 +6333,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawayne-jones-46147331/",
@@ -6345,7 +6356,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-williams-46149609/",
@@ -6368,7 +6379,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaderian-jones-46149545/",
@@ -6391,7 +6402,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montana-toilolo-46142434/",
@@ -6414,7 +6425,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sione-felila-46149257/",
@@ -6437,7 +6448,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amari-vickerson-46150219/",
@@ -6460,7 +6471,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarco-jenkins-46155569/",
@@ -6483,7 +6494,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
@@ -6506,7 +6517,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khing-thibodeaux-46148678/",
@@ -6529,7 +6540,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/yahzeen-zion-46154843/",
@@ -6552,7 +6563,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lemani-fehoko-46140961/",
@@ -6575,7 +6586,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrien-neal-46148173/",
@@ -6598,7 +6609,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matamatagi-uiagalelei-46149944/",
@@ -6621,7 +6632,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -6644,7 +6655,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anitoni-tahi-46151438/",
@@ -6667,7 +6678,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/magic-haynes-46167306/",
@@ -6690,7 +6701,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hunter-eligon-46158103/",
@@ -6713,7 +6724,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-witten-46150577/",
@@ -6736,7 +6747,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/toa-satele-46145646/",
@@ -6759,7 +6770,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taven-epps-46146822/",
@@ -6782,7 +6793,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sean-fox-46154602/",
@@ -6805,7 +6816,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/israel-hammons-46164012/",
@@ -6828,7 +6839,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roman-igwebuike-46154637/",
@@ -6851,7 +6862,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-rhymes-46154822/",
@@ -6874,7 +6885,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-mckibben-46157901/",
@@ -6897,7 +6908,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tate-wallace-46144698/",
@@ -6920,7 +6931,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/case-alexander-46152524/",
@@ -6943,7 +6954,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarquis-hudson-46155783/",
@@ -6966,7 +6977,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aston-whiteside-46157574/",
@@ -6989,7 +7000,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antwoine-higgins-46145225/",
@@ -7012,7 +7023,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-phelps-46145484/",
@@ -7035,7 +7046,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -7058,7 +7069,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucas-rhoa-46146743/",
@@ -7081,7 +7092,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-leilua-46148664/",
@@ -7104,7 +7115,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-betton-46155301/",
@@ -7127,7 +7138,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cade-haug-46145106/",
@@ -7150,7 +7161,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/neree-castleberry-46161929/",
@@ -7173,7 +7184,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-poyer-46157985/",
@@ -7196,7 +7207,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/justin-coach-46148569/",
@@ -7219,7 +7230,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marshaun-ivy-46149424/",
@@ -7242,7 +7253,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahmiere-daniels-portis-46155146/",
@@ -7265,7 +7276,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/liufau-loumoli-46140638/",
@@ -7288,7 +7299,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rome-ewell-46157683/",
@@ -7311,7 +7322,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-clanton-46153192/",
@@ -7334,7 +7345,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -7357,7 +7368,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/broncs-baker-46155019/",
@@ -7380,7 +7391,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-smith-46148331/",
@@ -7403,7 +7414,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/iona-uiagalelei-46148708/",
@@ -7426,7 +7437,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-davis-46164264/",
@@ -7449,7 +7460,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/max-bates-46162105/",
@@ -7472,7 +7483,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myles-augustyn-46164418/",
@@ -7495,7 +7506,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/donte-wright-46147050/",
@@ -7518,7 +7529,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/danny-lang-46146837/",
@@ -7541,7 +7552,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hayden-stepp-46147446/",
@@ -7564,7 +7575,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karnell-james-46149925/",
@@ -7587,7 +7598,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keishjuan-telfair-46153238/",
@@ -7610,7 +7621,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daniel-yebit-46164727/",
@@ -7633,7 +7644,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/raheem-floyd-46153229/",
@@ -7656,7 +7667,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-outhouse-jr-46145113/",
@@ -7679,7 +7690,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alius-mayo-46147437/",
@@ -7702,7 +7713,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavares-harrington-46155142/",
@@ -7725,7 +7736,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-sherrard-46155809/",
@@ -7748,7 +7759,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-vilmael-46159055/",
@@ -7771,7 +7782,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/evan-via-46159600/",
@@ -7794,7 +7805,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamil-loud-46153753/",
@@ -7817,7 +7828,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montre-jackson-46147419/",
@@ -7840,7 +7851,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-molden-46140791/",
@@ -7863,7 +7874,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/duvay-williams-46142570/",
@@ -7886,7 +7897,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jailen-hill-46141491/",
@@ -7909,7 +7920,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/evan-mack-46154204/",
@@ -7932,7 +7943,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikyal-davis-46149592/",
@@ -7955,7 +7966,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-walk-green-46154955/",
@@ -7978,7 +7989,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacob-whitehead-46141458/",
@@ -8001,7 +8012,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryant-robinson-46152388/",
@@ -8024,7 +8035,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darius-johnson-46155021/",
@@ -8047,7 +8058,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dhillon-mcgee-46140684/",
@@ -8070,7 +8081,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davontrae-kirkland-46138988/",
@@ -8093,7 +8104,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/patrick-hall-46148221/",
@@ -8116,7 +8127,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylin-bruce-46155369/",
@@ -8139,7 +8150,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-burns-crump-46159637/",
@@ -8162,7 +8173,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/terrell-jackson-46147703/",
@@ -8185,7 +8196,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/johnny-mcneil-46158457/",
@@ -8208,7 +8219,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nasim-eason-46154554/",
@@ -8231,7 +8242,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-staten-46158661/",
@@ -8254,7 +8265,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-yarber-46156810/",
@@ -8277,7 +8288,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeovanni-henley-46148322/",
@@ -8300,7 +8311,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dorian-franklin-46152209/",
@@ -8323,7 +8334,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/prince-washington-46156183/",
@@ -8346,7 +8357,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/augus-saunders-46154958/",
@@ -8369,7 +8380,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-kelly-46148330/",
@@ -8392,7 +8403,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caryell-brown-46153157/",
@@ -8415,7 +8426,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semaj-stanford-46146499/",
@@ -8438,7 +8449,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-williams-46150907/",
@@ -8461,7 +8472,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/pole-moala-46154623/",
@@ -8484,7 +8495,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myles-baker-46149978/",
@@ -8507,7 +8518,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-anding-46152579/",
@@ -8530,7 +8541,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karon-eugene-46155620/",
@@ -8553,7 +8564,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-elkins-46155083/",
@@ -8576,7 +8587,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adryan-cole-46146427/",
@@ -8599,7 +8610,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailib-dillard-46159825/",
@@ -8622,7 +8633,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-johnson-46147058/",
@@ -8645,7 +8656,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalil-terry-46142775/",
@@ -8668,7 +8679,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isala-aisa-wily-ava-46150503/",
@@ -8691,7 +8702,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -8714,7 +8725,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-fields-46156704/",
@@ -8737,7 +8748,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -8760,7 +8771,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-johnson-46159985/",
@@ -8783,7 +8794,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-roberson-46157609/",
@@ -8806,7 +8817,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/faruq-muhammad-46152440/",
@@ -8829,7 +8840,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rontrae-carter-46155237/",
@@ -8852,7 +8863,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/london-goggans-46157831/",
@@ -8875,7 +8886,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/savoy-guidry-46157640/",
@@ -8898,7 +8909,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavon-bolden-46161017/",
@@ -8921,7 +8932,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dyshon-washington-jr-46153678/",
@@ -8944,7 +8955,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-brewster-46145095/",
@@ -8967,7 +8978,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabriel-osborne-jr-46159790/",
@@ -8990,7 +9001,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/honor-faalave-johnson-46150112/",
@@ -9013,7 +9024,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcus-fakatou-46149091/",
@@ -9036,7 +9047,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaryn-washington-46141493/",
@@ -9059,7 +9070,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayton-feister-46143652/",
@@ -9082,7 +9093,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jai-jones-46150626/",
@@ -9105,7 +9116,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristin-hughes-46158815/",
@@ -9128,7 +9139,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/krew-jones-46143771/",
@@ -9151,7 +9162,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-johnson-46151739/",
@@ -9174,7 +9185,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malakai-taufoou-46150652/",
@@ -9197,7 +9208,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ronnie-gomiller-46145803/",
@@ -9220,7 +9231,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elyjah-staples-46160893/",
@@ -9243,7 +9254,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lincoln-mageo-46147045/",
@@ -9266,7 +9277,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caden-jones-46148112/",
@@ -9289,7 +9300,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maurice-williams-46142087/",
@@ -9312,7 +9323,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/steele-harris-46158640/",
@@ -9335,7 +9346,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antayvious-ellis-46142374/",
@@ -9358,7 +9369,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamoni-adams-46154519/",
@@ -9381,7 +9392,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damari-hall-46147374/",
@@ -9404,7 +9415,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/royalton-allen-46154173/",
@@ -9427,7 +9438,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bayon-harris-46153193/",
@@ -9450,7 +9461,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-stewart-46154916/",
@@ -9473,7 +9484,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wesley-winn-46141730/",
@@ -9496,7 +9507,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-jackson-46146944/",
@@ -9519,7 +9530,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davion-lancaster-46153399/",
@@ -9542,7 +9553,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryder-noche-46145583/",
@@ -9565,7 +9576,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandre-kirkpatrick-46163081/",
@@ -9588,7 +9599,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sebastian-lora-46150314/",
@@ -9611,7 +9622,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikey-barth-46162759/",
@@ -9634,7 +9645,7 @@
             "schoolId": "arizona-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
-            "updatedAt": "2026-09-27T16:57:25.823Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       }
@@ -9643,8 +9654,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
         "season": null,
         "reason": null,
@@ -9917,48 +9928,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 18
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -9967,8 +9978,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/9/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9976,8 +9987,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/9/roster",
         "season": "2026-27",
         "reason": null,
@@ -10130,8 +10141,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10139,8 +10150,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -10166,7 +10177,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-crawford-46151515/",
@@ -10189,14 +10200,14 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/commits/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -10222,7 +10233,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reese-alston-46151465/",
@@ -10245,7 +10256,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/devin-cleveland-46148838/",
@@ -10268,7 +10279,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-gordon-46154705/",
@@ -10291,7 +10302,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-savage-46143332/",
@@ -10314,7 +10325,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxson-davis-46149210/",
@@ -10337,7 +10348,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-kendrick-46142578/",
@@ -10360,7 +10371,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-richardson-46153743/",
@@ -10383,7 +10394,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/delton-prescott-46146149/",
@@ -10406,7 +10417,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adan-diggs-46150995/",
@@ -10429,7 +10440,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-lumpkin-46157657/",
@@ -10452,7 +10463,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-mason-jr-46153127/",
@@ -10475,7 +10486,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucai-anderson-46161325/",
@@ -10498,7 +10509,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-mack-russell-46158608/",
@@ -10521,7 +10532,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lyris-robinson-46152078/",
@@ -10544,7 +10555,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/frashad-tisby-46157914/",
@@ -10567,7 +10578,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mekhi-robertson-46154797/",
@@ -10590,7 +10601,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marquis-newson-46151517/",
@@ -10613,7 +10624,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damarian-landry-46169499/",
@@ -10636,7 +10647,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacob-williford-46151130/",
@@ -10659,7 +10670,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-tyson-46158369/",
@@ -10682,7 +10693,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-orbe-46157966/",
@@ -10705,7 +10716,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacques-mitchell-46154483/",
@@ -10728,7 +10739,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-guy-46156150/",
@@ -10751,7 +10762,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -10774,7 +10785,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarian-urune-46152252/",
@@ -10797,7 +10808,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarcus-henry-46153135/",
@@ -10820,7 +10831,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -10843,7 +10854,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-jordan-46146933/",
@@ -10866,7 +10877,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gene-roebuck-46146144/",
@@ -10889,7 +10900,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-rachal-46167251/",
@@ -10912,7 +10923,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/howard-williams-46149215/",
@@ -10935,7 +10946,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-crawford-46151515/",
@@ -10958,7 +10969,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/markus-kerr-46143852/",
@@ -10981,7 +10992,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/baboucarr-ann-46159840/",
@@ -11004,7 +11015,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacoby-briscoe-46151485/",
@@ -11027,7 +11038,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylan-mitchell-46143031/",
@@ -11050,7 +11061,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andrew-kretkowski-46151099/",
@@ -11073,7 +11084,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/solomon-bratton-46144004/",
@@ -11096,7 +11107,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmed-nur-46158298/",
@@ -11119,7 +11130,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-jenkins-46147866/",
@@ -11142,7 +11153,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-barnes-46142932/",
@@ -11165,7 +11176,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godson-okokoh-46152897/",
@@ -11188,7 +11199,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamaal-ali-46170098/",
@@ -11211,7 +11222,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darius-wabbington-46143727/",
@@ -11234,7 +11245,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -11257,7 +11268,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahmai-drayton-46163239/",
@@ -11280,7 +11291,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-baliraine-46152891/",
@@ -11303,7 +11314,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/precious-sam-46159218/",
@@ -11326,7 +11337,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sekou-cisse-46155090/",
@@ -11349,7 +11360,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/precious-sam-46169497/",
@@ -11372,7 +11383,7 @@
             "schoolId": "arizona-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       }
@@ -11381,8 +11392,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
@@ -11600,40 +11611,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
             "reason": null,
             "recordCount": 18
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -11642,8 +11653,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/9/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12036,8 +12047,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/9/roster",
         "season": "2026-27",
         "reason": null,
@@ -12172,8 +12183,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12181,8 +12192,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -12190,8 +12201,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -12217,7 +12228,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sydney-savoury-46159293/",
@@ -12240,7 +12251,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-carter-46152767/",
@@ -12263,7 +12274,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-arije-46158550/",
@@ -12286,7 +12297,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -12309,7 +12320,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nevaeh-roberson-46168525/",
@@ -12332,7 +12343,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jezelle-banks-46152815/",
@@ -12355,7 +12366,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jessie-moses-46152770/",
@@ -12378,7 +12389,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordyn-palmer-46152768/",
@@ -12401,7 +12412,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -12424,7 +12435,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -12447,7 +12458,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashley-maccalla-46152769/",
@@ -12470,7 +12481,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kieaundria-acree-46152771/",
@@ -12493,7 +12504,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -12516,7 +12527,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dasia-scott-46168418/",
@@ -12539,7 +12550,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/saniyah-murray-46159308/",
@@ -12562,7 +12573,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zya-small-46159303/",
@@ -12585,7 +12596,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -12608,7 +12619,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nakhai-worthy-46159298/",
@@ -12631,7 +12642,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -12654,7 +12665,7 @@
             "schoolId": "arizona-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       }
@@ -12663,12 +12674,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/baseball/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "452203fc6839f963e3ad7fae",
+            "title": "Baseball starts fall ball off strong with a win at Mexican Baseball Fiesta",
+            "url": "https://thesundevils.com/news/2026/09/28/baseball-starts-fall-ball-off-strong-with-a-win-at-mexican-baseball-fiesta",
+            "publishedAt": "2026-09-28T02:00:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://thesundevils.com/imgproxy/Dpz7AP_Ph1QbfDWm6k9URmZmGgNcqp4kHcA4M8d7QPI/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RoZXN1bmRldmlscy1jb20tcHJvZC8yMDI2LzA5LzI4L3llWkZVRkZySEJvY1B1VUloZGlwc0NYNEFtb2hPSFZUaXdmdFg4WWguanBn.jpg",
+            "imageAlt": null,
+            "publisher": "Arizona State Athletics",
+            "discoverySourceUrl": "https://thesundevils.com/sports/baseball/news"
+          },
           {
             "id": "e7ccf130094d02fb44d34be2",
             "title": "Arizona State Baseball Lands Commitment From 2027 Top In-State Prospect",
@@ -12959,32 +12981,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://thesundevils.com/sports/baseball/news",
             "reason": null,
-            "recordCount": 16
+            "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-            "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+            "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+            "lastSuccessAt": "2026-09-28T05:22:40.287Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 9
@@ -12993,8 +13015,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/59/schedule",
         "season": "2025-26",
         "reason": null,
@@ -13723,7 +13745,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/59/roster",
         "season": null,
@@ -13732,8 +13754,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://thesundevils.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13741,8 +13763,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
-        "lastSuccessAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
+        "lastSuccessAt": "2026-09-28T05:22:40.287Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -13768,7 +13790,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=771661",
@@ -13791,7 +13813,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=868435",
@@ -13814,7 +13836,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=918790",
@@ -13837,7 +13859,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=769287",
@@ -13860,7 +13882,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1245651",
@@ -13883,7 +13905,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=998172",
@@ -13906,7 +13928,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=903162",
@@ -13929,7 +13951,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1284652",
@@ -13952,7 +13974,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=560918",
@@ -13975,7 +13997,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1183094",
@@ -13998,7 +14020,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=948862",
@@ -14021,7 +14043,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=864935",
@@ -14044,13 +14066,13 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-09-27T21:20:39.653Z"
+            "updatedAt": "2026-09-28T05:22:40.287Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-09-27T21:20:39.653Z",
+        "lastAttemptAt": "2026-09-28T05:22:40.287Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
