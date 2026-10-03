@@ -6,14 +6,14 @@
     "name": "TCU",
     "athleticsUrl": "https://gofrogs.com"
   },
-  "generatedAt": "2026-10-03T16:16:55.586Z",
+  "generatedAt": "2026-10-03T21:13:20.968Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
         "reason": null,
@@ -2222,56 +2222,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://gofrogs.com/sports/football/archives",
             "reason": null,
             "recordCount": 48
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 18
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 122
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 10
@@ -2280,8 +2280,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/schedule",
         "season": "2026",
         "reason": null,
@@ -2434,8 +2434,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3470,25 +3470,463 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
         "records": []
       },
       "recruitingBoard": {
-        "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
-        "records": []
+        "records": [
+          {
+            "profileUrl": "https://247sports.com/Player/daniel-yebit-46164727/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/431/169/14169431.jpeg?width=70&fit=crop",
+            "schoolName": "Yukon",
+            "hometown": "Yukon, OK",
+            "rating": 91,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 130,
+            "positionRank": 14,
+            "stateRank": 5,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "787c3c0a52285559beb8862c",
+            "name": "Daniel Yebit",
+            "classYear": 2027,
+            "position": "CB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/kobe-haynes-46150053/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/867/562/13562867.jpg?width=70&fit=crop",
+            "schoolName": "Whitney",
+            "hometown": "Whitney, TX",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 89,
+            "stateRank": 88,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "d54dee611290e527757c98ea",
+            "name": "Kobe Haynes",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/drake-carroll-46161686/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/901/317/13317901.png?width=70&fit=crop",
+            "schoolName": "Alamo Heights",
+            "hometown": "San Antonio, TX",
+            "rating": 88,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 56,
+            "stateRank": 90,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "ce4a17cff266593ebb61a722",
+            "name": "Drake Carroll",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/landon-johnson-46167522/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/450/964/13964450.jpg?width=70&fit=crop",
+            "schoolName": "Madison Prep Academy",
+            "hometown": "Baton Rouge, LA",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 74,
+            "stateRank": 25,
+            "rankingState": "LA",
+            "rankingGroup": "HighSchool",
+            "id": "ea66e4131c0afd4fb0663319",
+            "name": "Landon Johnson",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/noah-gillespie-46155580/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/505/976/13976505.jpg?width=70&fit=crop",
+            "schoolName": "Broken Arrow",
+            "hometown": "Broken Arrow, OK",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 82,
+            "stateRank": 17,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "0535d3475d01a8207aec221c",
+            "name": "Noah Gillespie",
+            "classYear": 2027,
+            "position": "CB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/rontrae-carter-46155237/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/314/859/13859314.jpg?width=70&fit=crop",
+            "schoolName": "Archbishop Shaw",
+            "hometown": "Marrero, LA",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 89,
+            "stateRank": 33,
+            "rankingState": "LA",
+            "rankingGroup": "HighSchool",
+            "id": "88a887083a6c9874ad2967f8",
+            "name": "Rontrae Carter",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/318/929/13929318.jpg?width=70&fit=crop",
+            "schoolName": "Garland Naaman Forest",
+            "hometown": "Garland, TX",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 125,
+            "stateRank": 124,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "09309f7dc89c4ea0f2a24e4c",
+            "name": "Braylon Deal",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/colton-steed-46167692/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/695/5/14005695.jpg?width=70&fit=crop",
+            "schoolName": "Round Rock",
+            "hometown": "Round Rock, TX",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 85,
+            "stateRank": 127,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "f78648e4049f0c346f78c680",
+            "name": "Colton Steed",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/darrien-neal-46148173/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/115/146/13146115.jpg?width=70&fit=crop",
+            "schoolName": "Denton Guyer",
+            "hometown": "Denton, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 126,
+            "stateRank": 137,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "4adb7d6a167332237423a6bd",
+            "name": "Darrien Neal",
+            "classYear": 2027,
+            "position": "DL",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/dylan-jaeger-46167508/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/927/954/13954927.jpg?width=70&fit=crop",
+            "schoolName": "Round Rock",
+            "hometown": "Round Rock, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 54,
+            "stateRank": 139,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "2c96b7997fcb3ff17455d0aa",
+            "name": "Dylan Jaeger",
+            "classYear": 2027,
+            "position": "TE",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/caris-sela-46165762/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/10/836/13836010.jpg?width=70&fit=crop",
+            "schoolName": "Justin Northwest",
+            "hometown": "Justin, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 99,
+            "stateRank": 148,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "b9cced3f3a8e5099588ee11f",
+            "name": "Caris Sela",
+            "classYear": 2027,
+            "position": "RB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/brice-mccurdy-46156809/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/654/128/14128654.jpg?width=70&fit=crop",
+            "schoolName": "Robinson",
+            "hometown": "Robinson, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 60,
+            "stateRank": 150,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "aa9436810765d89be01440a4",
+            "name": "Brice McCurdy",
+            "classYear": 2027,
+            "position": "QB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/linkin-apana-46157846/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/518/132/13132518.jpg?width=70&fit=crop",
+            "schoolName": "Kamehameha Kapalama",
+            "hometown": "Honolulu, HI",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 108,
+            "stateRank": 4,
+            "rankingState": "HI",
+            "rankingGroup": "HighSchool",
+            "id": "2888a5e58a328b8284c1e1d4",
+            "name": "Linkin Apana",
+            "classYear": 2027,
+            "position": "LB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/hunter-black-46166367/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/751/891/13891751.jpg?width=70&fit=crop",
+            "schoolName": "Brazos Christian School",
+            "hometown": "Bryan, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 94,
+            "stateRank": 157,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "bbd5bc904cff5f921f8359bd",
+            "name": "Hunter Black",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jewellz-tapp-46167367/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/406/959/13959406.jpg?width=70&fit=crop",
+            "schoolName": "John Curtis",
+            "hometown": "River Ridge, LA",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 129,
+            "stateRank": 48,
+            "rankingState": "LA",
+            "rankingGroup": "HighSchool",
+            "id": "e67d370d092d0ae6095e4d60",
+            "name": "Jewellz Tapp",
+            "classYear": 2027,
+            "position": "CB",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/ty-greene-46164276/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/885/603/13603885.jpg?width=70&fit=crop",
+            "schoolName": "Houston Stratford",
+            "hometown": "Houston, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 106,
+            "stateRank": 170,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "c19152e1bf69cc980cbf1f25",
+            "name": "Ty Greene",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/gabriel-brooks-46170430/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/29/376/14376029.jpg?width=70&fit=crop",
+            "schoolName": "North Crowley",
+            "hometown": "Fort Worth, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 113,
+            "stateRank": 183,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "740536340fcd1765cff15bc5",
+            "name": "Gabriel Brooks",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/daniel-ottens-46167710/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/39/976/13976039.jpg?width=70&fit=crop",
+            "schoolName": "AVO Academy",
+            "hometown": "Germany, DEU",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 147,
+            "stateRank": 7,
+            "rankingState": null,
+            "rankingGroup": "HighSchool",
+            "id": "69e8725e5c614beeb185b1a1",
+            "name": "Daniel Ottens",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/alexander-herrera-46150309/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/63/845/13845063.jpg?width=70&fit=crop",
+            "schoolName": "Crowley",
+            "hometown": "Crowley, TX",
+            "rating": 82,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 153,
+            "stateRank": 270,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "6af6d3f83e73b9af749be6c1",
+            "name": "Alexander Herrera",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "tcu",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
+            "updatedAt": "2026-10-03T21:13:20.968Z"
+          }
+        ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
         "lastSuccessAt": "2026-10-03T05:17:34.670Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/offers/",
         "season": "2027",
@@ -7135,8 +7573,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -7519,56 +7957,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -7577,8 +8015,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -7586,8 +8024,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -7731,8 +8169,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -7807,8 +8245,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -7816,8 +8254,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -7843,7 +8281,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reese-alston-46151465/",
@@ -7866,7 +8304,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-davis-46148123/",
@@ -7889,7 +8327,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/devin-cleveland-46148838/",
@@ -7912,7 +8350,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-gordon-46154705/",
@@ -7935,7 +8373,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyrone-jamison-jr-46144007/",
@@ -7958,7 +8396,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -7981,7 +8419,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lyris-robinson-46152078/",
@@ -8004,7 +8442,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamaal-mcknight-jr-46151525/",
@@ -8027,7 +8465,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-richardson-46153743/",
@@ -8050,7 +8488,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kirby-duran-46149891/",
@@ -8073,7 +8511,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaak-hayes-46144398/",
@@ -8096,7 +8534,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-mason-jr-46153127/",
@@ -8119,7 +8557,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malik-olajuwon-46166582/",
@@ -8142,7 +8580,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quincy-douby-jr-46148977/",
@@ -8165,7 +8603,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacob-williford-46151130/",
@@ -8188,7 +8626,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/navorro-bowman-jr-46154243/",
@@ -8211,7 +8649,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahari-miller-46159052/",
@@ -8234,7 +8672,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-orbe-46157966/",
@@ -8257,7 +8695,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damon-miles-46165136/",
@@ -8280,7 +8718,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacques-mitchell-46154483/",
@@ -8303,7 +8741,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -8326,7 +8764,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gene-roebuck-46146144/",
@@ -8349,7 +8787,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/howard-williams-46149215/",
@@ -8372,7 +8810,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-profit-46143152/",
@@ -8395,7 +8833,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marri-wesley-46148850/",
@@ -8418,7 +8856,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deuce-mcduffie-46158228/",
@@ -8441,7 +8879,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-paez-46168531/",
@@ -8464,7 +8902,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaylan-mitchell-46143031/",
@@ -8487,7 +8925,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-cooper-46145961/",
@@ -8510,7 +8948,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-rosser-46151476/",
@@ -8533,7 +8971,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -8556,7 +8994,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-woodard-46149497/",
@@ -8579,7 +9017,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-barnes-46142932/",
@@ -8602,7 +9040,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godson-okokoh-46152897/",
@@ -8625,7 +9063,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-veal-46149093/",
@@ -8648,7 +9086,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malik-parrish-46162486/",
@@ -8671,7 +9109,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-hill-46151693/",
@@ -8694,7 +9132,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cherif-millogo-46159949/",
@@ -8717,7 +9155,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mahamadou-diop-46155246/",
@@ -8740,7 +9178,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nick-welch-jr-46154353/",
@@ -8763,7 +9201,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-baliraine-46152891/",
@@ -8786,7 +9224,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/precious-sam-46159218/",
@@ -8809,7 +9247,7 @@
             "schoolId": "tcu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           }
         ]
       }
@@ -8818,8 +9256,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -9169,48 +9607,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -9219,8 +9657,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9613,8 +10051,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -9704,8 +10142,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9758,8 +10196,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -9767,7 +10205,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
         "lastSuccessAt": "2026-10-03T11:38:25.787Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -10033,8 +10471,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -10406,40 +10844,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-            "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+            "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+            "lastSuccessAt": "2026-10-03T21:13:20.968Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -10448,8 +10886,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/schedule",
         "season": "2025-26",
         "reason": null,
@@ -11106,7 +11544,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/roster",
         "season": null,
@@ -11115,8 +11553,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11124,8 +11562,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
-        "lastSuccessAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
+        "lastSuccessAt": "2026-10-03T21:13:20.968Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -11151,7 +11589,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=909924",
@@ -11174,7 +11612,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1067676",
@@ -11197,7 +11635,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1224073",
@@ -11220,7 +11658,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=876031",
@@ -11243,7 +11681,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1013374",
@@ -11266,7 +11704,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=963107",
@@ -11289,7 +11727,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=808753",
@@ -11312,7 +11750,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=883212",
@@ -11335,7 +11773,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1157172",
@@ -11358,7 +11796,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1022358",
@@ -11381,7 +11819,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=722422",
@@ -11404,7 +11842,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=777231",
@@ -11427,7 +11865,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=936984",
@@ -11450,7 +11888,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1626611",
@@ -11473,7 +11911,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042172",
@@ -11496,7 +11934,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=806706",
@@ -11519,7 +11957,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1199096",
@@ -11542,7 +11980,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1285705",
@@ -11565,13 +12003,13 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-10-03T16:16:55.586Z"
+            "updatedAt": "2026-10-03T21:13:20.968Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-03T16:16:55.586Z",
+        "lastAttemptAt": "2026-10-03T21:13:20.968Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
