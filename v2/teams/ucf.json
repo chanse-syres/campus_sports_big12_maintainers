@@ -6,18 +6,40 @@
     "name": "UCF",
     "athleticsUrl": "https://ucfknights.com"
   },
-  "generatedAt": "2026-10-10T12:30:33.879Z",
+  "generatedAt": "2026-10-10T21:42:55.731Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/football/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "b49a8998f6bcd55620e27abf",
+            "title": "Football Falls at #18 Oklahoma State: 42-28",
+            "url": "https://ucfknights.com/news/2026/10/10/football-falls-at-18-oklahoma-state-42-28",
+            "publishedAt": "2026-10-10T21:21:39.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://ucfknights.com/imgproxy/LCRAOnBzotOnEbBseytdfUCXXnRkD-UFihZnpuBJLWM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMC8xMC9VZ3R0S2M3Y3FyaldYZlEwTGZFOFFBQXo1Y3JHcjFTR0djOEdwYmYzLmpwZw.jpg",
+            "imageAlt": null,
+            "publisher": "UCF Athletics",
+            "discoverySourceUrl": "https://ucfknights.com/sports/football/news"
+          },
+          {
+            "id": "a026f86a5c5f3cc9393a9ac7",
+            "title": "UCF Knights vs. Oklahoma State Cowboys: Full Highlights",
+            "url": "https://www.espn.com/video/clip/_/id/50149879/full-highlights",
+            "publishedAt": "2026-10-10T19:41:06.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1010/b6a8943a-62d9-4f2d-af30-1ada8fa13314/b6a8943a-62d9-4f2d-af30-1ada8fa13314.jpg",
+            "imageAlt": "UCF Knights vs. Oklahoma State Cowboys: Full Highlights",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100"
+          },
           {
             "id": "73efca6be53fea0bc44acf80",
             "title": "How To Watch and Follow the UCF Knights as they take on No. 18 Oklahoma State",
@@ -33,7 +55,7 @@
             "id": "460df629178ac7222bb7fbb9",
             "title": "Big 12 Football Week 6: Predictions, Picks and Previews for Every Game",
             "url": "https://www.heartlandcollegesports.com/2026/10/09/big-12-football-week-6-predictions-picks-and-previews-for-every-game/",
-            "publishedAt": "2026-10-09T15:20:20.000Z",
+            "publishedAt": "2026-10-10T04:20:20.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/Big-12-Picks-and-Predictions-Page-Graphic-150x150.png",
             "imageAlt": "Big 12 Picks and Predictions Page Graphic",
@@ -1529,48 +1551,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://ucfknights.com/sports/football/news",
             "reason": null,
-            "recordCount": 30
+            "recordCount": 31
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 1
+            "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 21
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 85
@@ -1579,8 +1601,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/schedule",
         "season": "2026",
         "reason": null,
@@ -1649,12 +1671,12 @@
             "id": "401856824",
             "date": "2026-10-10T16:00:00.000Z",
             "name": "UCF Knights at Oklahoma State Cowboys",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Boone Pickens Stadium",
             "homeAway": "away",
             "opponent": "Oklahoma State Cowboys",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 28,
+            "opponentScore": 42,
             "url": "https://www.espn.com/college-football/game/_/gameId/401856824/ucf-oklahoma-st"
           },
           {
@@ -1733,8 +1755,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -2724,8 +2746,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -2733,8 +2755,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -2760,7 +2782,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tanner-ehmen-46159103/",
@@ -2783,7 +2805,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-montsdeoca-46153288/",
@@ -2806,7 +2828,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/omari-st-fort-46154711/",
@@ -2829,7 +2851,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-mcduffie-46166273/",
@@ -2852,7 +2874,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-robinson-46163615/",
@@ -2875,7 +2897,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kash-kolbow-46164443/",
@@ -2898,7 +2920,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamal-robinson-jr-46157677/",
@@ -2921,7 +2943,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/akhcuonam-augustin-46166116/",
@@ -2944,7 +2966,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonathan-barnes-46145091/",
@@ -2967,7 +2989,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/debonaire-johnson-46154727/",
@@ -2990,7 +3012,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyler-walker-jr-46161099/",
@@ -3013,7 +3035,7 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dontallis-render-46164544/",
@@ -3036,13 +3058,13 @@
             "schoolId": "ucf",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
         "lastSuccessAt": "2026-10-09T22:37:24.752Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/offers/",
         "season": "2027",
@@ -9541,8 +9563,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
         "season": null,
         "reason": null,
@@ -9826,48 +9848,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 20
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -9876,8 +9898,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2116/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9885,8 +9907,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2116/roster",
         "season": "2026-27",
         "reason": null,
@@ -10012,8 +10034,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10055,8 +10077,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -10064,8 +10086,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -10091,7 +10113,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-savage-46143332/",
@@ -10114,7 +10136,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-britt-jr-46151000/",
@@ -10137,7 +10159,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-richardson-46153743/",
@@ -10160,7 +10182,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myles-fuentes-46147867/",
@@ -10183,7 +10205,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gassim-toure-46146665/",
@@ -10206,7 +10228,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-edouard-46168936/",
@@ -10229,7 +10251,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-mercer-46152947/",
@@ -10252,7 +10274,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucai-anderson-46161325/",
@@ -10275,7 +10297,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quincy-douby-jr-46148977/",
@@ -10298,7 +10320,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-adamson-46164903/",
@@ -10321,7 +10343,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/oneal-delancy-46152898/",
@@ -10344,7 +10366,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anthony-walcott-46155245/",
@@ -10367,7 +10389,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-guy-46156150/",
@@ -10390,7 +10412,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarian-urune-46152252/",
@@ -10413,7 +10435,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-williams-46157913/",
@@ -10436,7 +10458,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-leonard-46149468/",
@@ -10459,7 +10481,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylan-jones-46158933/",
@@ -10482,7 +10504,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-santos-46151516/",
@@ -10505,7 +10527,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marri-wesley-46148850/",
@@ -10528,7 +10550,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deuce-mcduffie-46158228/",
@@ -10551,7 +10573,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacoby-briscoe-46151485/",
@@ -10574,7 +10596,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/henry-robinson-46148841/",
@@ -10597,7 +10619,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-rosser-46151476/",
@@ -10620,7 +10642,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-condon-46159915/",
@@ -10643,7 +10665,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/knard-callendar-46163244/",
@@ -10666,7 +10688,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-rivera-46152367/",
@@ -10689,7 +10711,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/precious-sam-46159218/",
@@ -10712,7 +10734,7 @@
             "schoolId": "ucf",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           }
         ]
       }
@@ -10721,8 +10743,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
@@ -10929,40 +10951,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
             "reason": null,
             "recordCount": 17
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -10971,8 +10993,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2116/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11365,8 +11387,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2116/roster",
         "season": "2026-27",
         "reason": null,
@@ -11483,8 +11505,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11581,20 +11603,20 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
         "records": []
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T05:51:16.277Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
         "season": "2027",
-        "reason": "unexpected-empty-source",
+        "reason": "provider-reported-records-coverage-incomplete",
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/cece-dennis-46159296/",
@@ -11617,7 +11639,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taylor-brown-46159304/",
@@ -11640,7 +11662,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sydney-savoury-46159293/",
@@ -11663,7 +11685,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-carter-46152767/",
@@ -11686,7 +11708,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -11709,7 +11731,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nevaeh-roberson-46168525/",
@@ -11732,10 +11754,10 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
-            "profileUrl": "https://247sports.com/Player/jezelle-banks-46152815/",
+            "profileUrl": "https://247sports.com/Player/gg-banks-46152815/",
             "imageUrl": "https://s3media.247sports.com/Uploads/Assets/503/642/12642503.jpg?width=70&fit=crop",
             "schoolName": "The St. James",
             "hometown": "Springfield, VA",
@@ -11748,14 +11770,14 @@
             "rankingState": "VA",
             "rankingGroup": "HighSchool",
             "id": "272648ed1423aa51c27a95bd",
-            "name": "Jezelle Banks",
+            "name": "GG Banks",
             "classYear": 2027,
             "position": "CG",
             "status": "offered",
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-ojo-46152779/",
@@ -11778,7 +11800,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -11801,7 +11823,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -11824,7 +11846,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashley-maccalla-46152769/",
@@ -11847,7 +11869,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kieaundria-acree-46152771/",
@@ -11870,7 +11892,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -11893,7 +11915,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lillie-graves-46159307/",
@@ -11916,7 +11938,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dasia-scott-46168418/",
@@ -11939,7 +11961,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/saniyah-murray-46159308/",
@@ -11962,7 +11984,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zya-small-46159303/",
@@ -11985,7 +12007,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -12008,7 +12030,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalia-hartwell-46152785/",
@@ -12031,7 +12053,7 @@
             "schoolId": "ucf",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-10T05:51:16.277Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           }
         ]
       }
@@ -12040,8 +12062,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -12259,32 +12281,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://ucfknights.com/sports/baseball/news",
             "reason": null,
             "recordCount": 18
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-            "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+            "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+            "lastSuccessAt": "2026-10-10T21:42:55.731Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -12293,8 +12315,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/160/schedule",
         "season": "2025-26",
         "reason": null,
@@ -12987,7 +13009,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/160/roster",
         "season": null,
@@ -12996,8 +13018,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://ucfknights.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13017,8 +13039,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
+        "lastSuccessAt": "2026-10-10T21:42:55.731Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -13044,7 +13066,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=902117",
@@ -13067,7 +13089,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=897957",
@@ -13090,7 +13112,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=913669",
@@ -13113,7 +13135,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=785493",
@@ -13136,7 +13158,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=993649",
@@ -13159,7 +13181,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=989794",
@@ -13182,7 +13204,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=747847",
@@ -13205,7 +13227,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=836321",
@@ -13228,7 +13250,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=620626",
@@ -13251,7 +13273,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1101250",
@@ -13274,7 +13296,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1002500",
@@ -13297,7 +13319,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1221747",
@@ -13320,13 +13342,13 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-10T21:42:55.731Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-10T12:30:33.879Z",
+        "lastAttemptAt": "2026-10-10T21:42:55.731Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
