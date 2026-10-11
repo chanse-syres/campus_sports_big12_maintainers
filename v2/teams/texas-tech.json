@@ -6,18 +6,40 @@
     "name": "Texas Tech",
     "athleticsUrl": "https://texastech.com"
   },
-  "generatedAt": "2026-10-11T12:48:20.298Z",
+  "generatedAt": "2026-10-11T21:57:10.986Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "4f69e2c4ab7aa068301dd09d",
+            "title": "ESPN FPI Has a New No. 1 Team in the Big 12 After Week 6",
+            "url": "https://www.heartlandcollegesports.com/2026/10/11/espn-fpi-rankings-big-12-week-6-2026/",
+            "publishedAt": "2026-10-11T17:23:36.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2017/09/espn-150x150.png",
+            "imageAlt": "espn",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "f1617dce0c697cada2fdae22",
+            "title": "Red Raiders enter top 10 of both polls Sunday",
+            "url": "https://texastech.com/news/2026/10/11/football-red-raiders-enter-top-10-of-both-polls-sunday",
+            "publishedAt": "2026-10-11T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://texastech.com/images/2026/10/11/FBatCU_261003-116.jpg",
+            "imageAlt": null,
+            "publisher": "Texas Tech Athletics",
+            "discoverySourceUrl": "https://texastech.com/sports/football/archives"
+          },
           {
             "id": "c292e91cea672136aa089cf0",
             "title": "Missouri Never Really Left the Big 12 Conversation",
@@ -1859,48 +1881,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://texastech.com/sports/football/archives",
             "reason": null,
-            "recordCount": 61
+            "recordCount": 62
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 8
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 41
+            "recordCount": 42
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 51
@@ -1909,8 +1931,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/schedule",
         "season": "2026",
         "reason": null,
@@ -2063,8 +2085,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3063,467 +3085,29 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
         "records": []
       },
       "recruitingBoard": {
-        "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "status": "empty",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
-        "records": [
-          {
-            "profileUrl": "https://247sports.com/Player/jalen-brewster-46145095/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/196/520/13520196.jpg?width=70&fit=crop",
-            "schoolName": "Buford",
-            "hometown": "Buford, GA",
-            "rating": 98,
-            "ratingSystem": "247sports",
-            "stars": 5,
-            "nationalRank": 4,
-            "positionRank": 1,
-            "stateRank": 2,
-            "rankingState": "GA",
-            "rankingGroup": "HighSchool",
-            "id": "fe1acaf8532630b3a1aa8f83",
-            "name": "Jalen Brewster",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/anthony-sweeney-46149177/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/110/521/13521110.jpg?width=70&fit=crop",
-            "schoolName": "St. Frances Academy",
-            "hometown": "Baltimore, MD",
-            "rating": 98,
-            "ratingSystem": "247sports",
-            "stars": 5,
-            "nationalRank": 21,
-            "positionRank": 4,
-            "stateRank": 1,
-            "rankingState": "MD",
-            "rankingGroup": "HighSchool",
-            "id": "33fced94624d71012eef756f",
-            "name": "Anthony Sweeney",
-            "classYear": 2027,
-            "position": "Edge",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/gideon-gash-46154593/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/411/669/13669411.JPG?width=70&fit=crop",
-            "schoolName": "Detroit Catholic Central",
-            "hometown": "Novi, MI",
-            "rating": 94,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 53,
-            "positionRank": 4,
-            "stateRank": 3,
-            "rankingState": "MI",
-            "rankingGroup": "HighSchool",
-            "id": "948ffc6e57bdad852041ec94",
-            "name": "Gideon Gash",
-            "classYear": 2027,
-            "position": "CB",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/sarod-baker-46158129/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/544/46/14046544.jpg?width=70&fit=crop",
-            "schoolName": "DeSoto",
-            "hometown": "DeSoto, TX",
-            "rating": 94,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 71,
-            "positionRank": 4,
-            "stateRank": 6,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "5ee8b8f5124bbf70cd3351a2",
-            "name": "SaRod Baker",
-            "classYear": 2027,
-            "position": "RB",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/jhadyn-nelson-46164194/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/785/608/13608785.jpg?width=70&fit=crop",
-            "schoolName": "Langham Creek",
-            "hometown": "Houston, TX",
-            "rating": 94,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 72,
-            "positionRank": 5,
-            "stateRank": 7,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "da4f8de4095d41a4c3ff3bcb",
-            "name": "Jhadyn Nelson",
-            "classYear": 2027,
-            "position": "LB",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/501/46/14046501.jpg?width=70&fit=crop",
-            "schoolName": "Palestine Westwood",
-            "hometown": "Palestine, TX",
-            "rating": 93,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 90,
-            "positionRank": 8,
-            "stateRank": 10,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "7ab0491b5ed7aafe2deb900e",
-            "name": "Kavian Bryant",
-            "classYear": 2027,
-            "position": "QB",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/benny-easter-jr-46153369/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/373/46/14046373.jpg?width=70&fit=crop",
-            "schoolName": "Summer Creek",
-            "hometown": "Humble, TX",
-            "rating": 92,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": 117,
-            "positionRank": 15,
-            "stateRank": 14,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "3ffcc286daf19e275edd1cf1",
-            "name": "Benny Easter Jr.",
-            "classYear": 2027,
-            "position": "WR",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/joshua-banks-46149640/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/771/9/14009771.jpg?width=70&fit=crop",
-            "schoolName": "Atascocita",
-            "hometown": "Humble, TX",
-            "rating": 90,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": null,
-            "positionRank": 29,
-            "stateRank": 39,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "0be2ba2635a097ccf74c42c5",
-            "name": "Joshua Banks",
-            "classYear": 2027,
-            "position": "CB",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/kadrian-redmond-46150263/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/856/898/12898856.jpg?width=70&fit=crop",
-            "schoolName": "DeSoto",
-            "hometown": "DeSoto, TX",
-            "rating": 90,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": null,
-            "positionRank": 31,
-            "stateRank": 40,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "1e92b9e2442483c270e85b56",
-            "name": "K'Adrian Redmond",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/493/46/14046493.jpg?width=70&fit=crop",
-            "schoolName": "Argyle",
-            "hometown": "Argyle, TX",
-            "rating": 90,
-            "ratingSystem": "247sports",
-            "stars": 4,
-            "nationalRank": null,
-            "positionRank": 43,
-            "stateRank": 42,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "ba02945ea0a338dfcae6dd04",
-            "name": "Julian Caldwell",
-            "classYear": 2027,
-            "position": "WR",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/kaston-lewis-46163162/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/438/635/13635438.jpg?width=70&fit=crop",
-            "schoolName": "Iowa",
-            "hometown": "Iowa, LA",
-            "rating": 89,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 31,
-            "stateRank": 19,
-            "rankingState": "LA",
-            "rankingGroup": "HighSchool",
-            "id": "8f11c4d6c70c6349541ac83b",
-            "name": "Kaston Lewis",
-            "classYear": 2027,
-            "position": "S",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/zayden-smith-46159412/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/840/732/13732840.jpg?width=70&fit=crop",
-            "schoolName": "Bishop McDevitt",
-            "hometown": "Harrisburg, PA",
-            "rating": 88,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 52,
-            "stateRank": 20,
-            "rankingState": "PA",
-            "rankingGroup": "HighSchool",
-            "id": "826067419903ee2faaf30cc1",
-            "name": "Zayden Smith",
-            "classYear": 2027,
-            "position": "ATH",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/hunter-haug-46163288/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/553/615/13615553.png?width=70&fit=crop",
-            "schoolName": "Smithson Valley",
-            "hometown": "Spring Branch, TX",
-            "rating": 88,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 53,
-            "stateRank": 91,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "9f3318c668d9a897aab03404",
-            "name": "Hunter Haug",
-            "classYear": 2027,
-            "position": "WR",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/adeola-werner-46161060/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/177/250/13250177.jpg?width=70&fit=crop",
-            "schoolName": "NFL Academy",
-            "hometown": "London, EN",
-            "rating": 87,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 87,
-            "stateRank": 2,
-            "rankingState": "EN",
-            "rankingGroup": "HighSchool",
-            "id": "ca63d8e29ef732e05dfbb021",
-            "name": "Adeola Werner",
-            "classYear": 2027,
-            "position": "Edge",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/dontae-perkins-46167893/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/504/33/14033504.jpg?width=70&fit=crop",
-            "schoolName": "Spring Westfield",
-            "hometown": "Houston, TX",
-            "rating": 87,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 70,
-            "stateRank": 128,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "ba040ec44a87432dfc9c8104",
-            "name": "Dontae Perkins",
-            "classYear": 2027,
-            "position": "OT",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/35/522/13522035.jpg?width=70&fit=crop",
-            "schoolName": "Denton Guyer",
-            "hometown": "Denton, TX",
-            "rating": 86,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 140,
-            "stateRank": 149,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "292cea472e4bb42886931619",
-            "name": "Khyren Haywood",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/zarius-matavao-46167688/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/408/975/13975408.png?width=70&fit=crop",
-            "schoolName": "NFL Academy",
-            "hometown": "London, EN",
-            "rating": 85,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 128,
-            "stateRank": 5,
-            "rankingState": "EN",
-            "rankingGroup": "HighSchool",
-            "id": "646704aa07a77d12a141343a",
-            "name": "Zarius Matavao",
-            "classYear": 2027,
-            "position": "IOL",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/tedricc-calhoun-46168405/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/637/46/14046637.jpg?width=70&fit=crop",
-            "schoolName": "Troy",
-            "hometown": "Troy, TX",
-            "rating": 83,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 219,
-            "stateRank": 263,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "95fb30f571e1195ee6c8b1e5",
-            "name": "Tedricc Calhoun",
-            "classYear": 2027,
-            "position": "DL",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          },
-          {
-            "profileUrl": "https://247sports.com/Player/jack-greaser-46168382/",
-            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/175/45/14045175.jpg?width=70&fit=crop",
-            "schoolName": "Monterey",
-            "hometown": "Lubbock, TX",
-            "rating": 80,
-            "ratingSystem": "247sports",
-            "stars": 3,
-            "nationalRank": null,
-            "positionRank": 9,
-            "stateRank": 288,
-            "rankingState": "TX",
-            "rankingGroup": "HighSchool",
-            "id": "9281c92872a4a2f094d87355",
-            "name": "Jack Greaser",
-            "classYear": 2027,
-            "position": "LS",
-            "status": "committed",
-            "schoolId": "texas-tech",
-            "sport": "football",
-            "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
-          }
-        ]
+        "records": []
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-10T12:30:33.879Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
         "season": "2027",
-        "reason": "source-format-changed",
+        "reason": null,
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/elijah-haven-46144331/",
@@ -3546,7 +3130,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -3569,7 +3153,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-houston-46135085/",
@@ -3592,7 +3176,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-nussmeier-46146658/",
@@ -3615,7 +3199,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-zeigler-46149737/",
@@ -3638,7 +3222,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/weston-nielsen-46144165/",
@@ -3661,7 +3245,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-babin-46145533/",
@@ -3684,7 +3268,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-knutson-46157568/",
@@ -3707,7 +3291,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/logan-flaherty-46153516/",
@@ -3730,7 +3314,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brice-mccurdy-46156809/",
@@ -3753,7 +3337,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-meyer-iii-46150443/",
@@ -3776,7 +3360,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tammeron-anderson-46156392/",
@@ -3799,7 +3383,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zephyr-kreye-46145109/",
@@ -3822,7 +3406,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landen-williams-callis-46138250/",
@@ -3845,7 +3429,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sarod-baker-46158129/",
@@ -3868,7 +3452,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadarius-mcmiller-46144140/",
@@ -3891,7 +3475,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lathan-whisenton-46142921/",
@@ -3914,7 +3498,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daylon-gordon-46157348/",
@@ -3937,7 +3521,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijah-kimble-46144601/",
@@ -3960,7 +3544,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/javian-jones-priest-46159699/",
@@ -3983,7 +3567,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brennen-lacey-46165500/",
@@ -4006,7 +3590,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayshon-gibson-46150802/",
@@ -4029,7 +3613,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/wayne-shanks-jr-46145118/",
@@ -4052,7 +3636,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/triston-willis-46153677/",
@@ -4075,7 +3659,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjamin-harris-46150163/",
@@ -4098,7 +3682,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jakoby-dixon-46144464/",
@@ -4121,7 +3705,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-mattison-46156086/",
@@ -4144,7 +3728,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingstin-mcadams-46142737/",
@@ -4167,7 +3751,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chance-lassiter-46157575/",
@@ -4190,7 +3774,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/domonic-cook-46161584/",
@@ -4213,7 +3797,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/easton-royal-46154901/",
@@ -4236,7 +3820,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-upshaw-46148432/",
@@ -4259,7 +3843,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benny-easter-jr-46153369/",
@@ -4282,7 +3866,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alvin-mosley-46151559/",
@@ -4305,7 +3889,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/briceson-thrower-jr-46155048/",
@@ -4328,7 +3912,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-moore-46143523/",
@@ -4351,7 +3935,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ashton-stark-46164266/",
@@ -4374,7 +3958,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
@@ -4397,7 +3981,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-johnson-46151796/",
@@ -4420,7 +4004,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-white-46143662/",
@@ -4443,7 +4027,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-haralson-46144141/",
@@ -4466,7 +4050,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miguel-whitley-46152525/",
@@ -4489,7 +4073,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-honore-46147861/",
@@ -4512,7 +4096,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaiden-fields-46156704/",
@@ -4535,7 +4119,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-haynes-46150053/",
@@ -4558,7 +4142,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hunter-haug-46163288/",
@@ -4581,7 +4165,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-williams-46159263/",
@@ -4604,7 +4188,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/laron-baker-jr-46145802/",
@@ -4627,7 +4211,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rayquan-williams-46152526/",
@@ -4650,7 +4234,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-thompson-46145119/",
@@ -4673,7 +4257,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maliek-brown-46158921/",
@@ -4696,7 +4280,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
@@ -4719,7 +4303,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-cromartie-46150096/",
@@ -4742,7 +4326,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aubrey-johnson-46161952/",
@@ -4765,7 +4349,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-lane-46158603/",
@@ -4788,7 +4372,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darnell-jackson-jr-46157623/",
@@ -4811,7 +4395,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-rasheed-46149338/",
@@ -4834,7 +4418,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ake-oneal-46165182/",
@@ -4857,7 +4441,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-brown-46145438/",
@@ -4880,7 +4464,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-harness-46158926/",
@@ -4903,7 +4487,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/parker-newman-46160910/",
@@ -4926,7 +4510,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/titus-hawk-46155052/",
@@ -4949,7 +4533,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-kolar-46156737/",
@@ -4972,7 +4556,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jude-chamberlain-46161305/",
@@ -4995,7 +4579,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-hall-46147682/",
@@ -5018,7 +4602,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeramie-cooper-46146522/",
@@ -5041,7 +4625,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/diego-botron-46164072/",
@@ -5064,7 +4648,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ismael-camara-46152366/",
@@ -5087,7 +4671,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaeden-penny-46151261/",
@@ -5110,7 +4694,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedee-jackson-46163810/",
@@ -5133,7 +4717,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-brown-46152521/",
@@ -5156,7 +4740,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaeden-scott-46146544/",
@@ -5179,7 +4763,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarrion-johnson-46146968/",
@@ -5202,7 +4786,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-hackett-46156728/",
@@ -5225,7 +4809,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brian-swanson-46148502/",
@@ -5248,7 +4832,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jasper-ngokwere-46149467/",
@@ -5271,7 +4855,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/odaefe-oruru-46153832/",
@@ -5294,7 +4878,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
@@ -5317,7 +4901,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/qua-ford-46146546/",
@@ -5340,7 +4924,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucas-rhoa-46146743/",
@@ -5363,7 +4947,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derek-gonzalez-46160850/",
@@ -5386,7 +4970,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-siler-46163939/",
@@ -5409,7 +4993,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dontae-perkins-46167893/",
@@ -5432,7 +5016,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-carraway-46145097/",
@@ -5455,7 +5039,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-williams-46145123/",
@@ -5478,7 +5062,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alexander-herrera-46150309/",
@@ -5501,7 +5085,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/john-sorensen-46162804/",
@@ -5524,7 +5108,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-miller-46144299/",
@@ -5547,7 +5131,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-roper-46153223/",
@@ -5570,7 +5154,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keyon-hemphill-woods-46154227/",
@@ -5593,7 +5177,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-aloisio-46146734/",
@@ -5616,7 +5200,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lex-mailangi-46140630/",
@@ -5639,7 +5223,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristan-dare-46146325/",
@@ -5662,7 +5246,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayden-mack-46149670/",
@@ -5685,7 +5269,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-cook-46154645/",
@@ -5708,7 +5292,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zarius-matavao-46167688/",
@@ -5731,7 +5315,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kerry-brown-46170453/",
@@ -5754,7 +5338,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/anthony-sweeney-46149177/",
@@ -5777,7 +5361,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-hall-46157610/",
@@ -5800,7 +5384,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezekiel-ayangbile-46146266/",
@@ -5823,7 +5407,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaden-mccarty-46145112/",
@@ -5846,7 +5430,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ifeanyi-emedobi-46162249/",
@@ -5869,7 +5453,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sedrick-marsh-46158719/",
@@ -5892,7 +5476,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailon-walker-46156808/",
@@ -5915,7 +5499,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-pfannenstiel-46159291/",
@@ -5938,7 +5522,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adeola-werner-46161060/",
@@ -5961,7 +5545,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-harris-jr-46145105/",
@@ -5984,7 +5568,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tahj-rucker-46161288/",
@@ -6007,7 +5591,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-rumph-46150604/",
@@ -6030,7 +5614,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-brewster-46145095/",
@@ -6053,7 +5637,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zyron-forstall-46151892/",
@@ -6076,7 +5660,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-folorunsho-46158874/",
@@ -6099,7 +5683,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/raiden-cook-46164607/",
@@ -6122,7 +5706,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zane-rowe-46139730/",
@@ -6145,7 +5729,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/xavier-muhammad-46147250/",
@@ -6168,7 +5752,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-starcevic-46149472/",
@@ -6191,7 +5775,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jon-ioane-46140157/",
@@ -6214,7 +5798,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-toia-46147998/",
@@ -6237,7 +5821,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kadrian-redmond-46150263/",
@@ -6260,7 +5844,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-williams-46149609/",
@@ -6283,7 +5867,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaderian-jones-46149545/",
@@ -6306,7 +5890,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trason-haley-46154595/",
@@ -6329,7 +5913,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montana-toilolo-46142434/",
@@ -6352,7 +5936,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarco-jenkins-46155569/",
@@ -6375,7 +5959,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
@@ -6398,7 +5982,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -6421,7 +6005,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaia-vandermade-46149062/",
@@ -6444,7 +6028,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tiki-teeples-46164572/",
@@ -6467,7 +6051,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayin-talib-46157584/",
@@ -6490,7 +6074,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antonio-underwood-46157660/",
@@ -6513,7 +6097,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/augustine-irek-46161970/",
@@ -6536,7 +6120,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tedricc-calhoun-46168405/",
@@ -6559,7 +6143,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/johnnie-fitzgerald-iii-46152066/",
@@ -6582,7 +6166,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxson-wilson-46148481/",
@@ -6605,7 +6189,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamon-sanders-46142649/",
@@ -6628,7 +6212,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jhadyn-nelson-46164194/",
@@ -6651,7 +6235,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jabios-smith-46150625/",
@@ -6674,7 +6258,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/colton-mckibben-46157901/",
@@ -6697,7 +6281,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joakim-gouda-46159242/",
@@ -6720,7 +6304,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/case-alexander-46152524/",
@@ -6743,7 +6327,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarquis-hudson-46155783/",
@@ -6766,7 +6350,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-ross-46160660/",
@@ -6789,7 +6373,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aston-whiteside-46157574/",
@@ -6812,7 +6396,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -6835,7 +6419,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/neree-castleberry-46161929/",
@@ -6858,7 +6442,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-poyer-46157985/",
@@ -6881,7 +6465,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -6904,7 +6488,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keaton-wollan-46165223/",
@@ -6927,7 +6511,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/riley-hinds-46159243/",
@@ -6950,7 +6534,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gabriel-osborne-jr-46159790/",
@@ -6973,7 +6557,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/danny-lang-46146837/",
@@ -6996,7 +6580,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gideon-gash-46154593/",
@@ -7019,7 +6603,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karnell-james-46149925/",
@@ -7042,7 +6626,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daniel-yebit-46164727/",
@@ -7065,7 +6649,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-roberson-46158879/",
@@ -7088,7 +6672,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jerry-outhouse-jr-46145113/",
@@ -7111,7 +6695,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-sherrard-46155809/",
@@ -7134,7 +6718,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mikhail-mccreary-46150609/",
@@ -7157,7 +6741,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montre-jackson-46147419/",
@@ -7180,7 +6764,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-banks-46149640/",
@@ -7203,7 +6787,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/duvay-williams-46142570/",
@@ -7226,7 +6810,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kelvin-millington-46159993/",
@@ -7249,7 +6833,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-blaylock-46146999/",
@@ -7272,7 +6856,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrod-jacobs-46157579/",
@@ -7295,7 +6879,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryant-robinson-46152388/",
@@ -7318,7 +6902,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elijajuan-houston-46152705/",
@@ -7341,7 +6925,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dolph-mcdonald-46148876/",
@@ -7364,7 +6948,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dhillon-mcgee-46140684/",
@@ -7387,7 +6971,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davontrae-kirkland-46138988/",
@@ -7410,7 +6994,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/coaleon-johnson-46169317/",
@@ -7433,7 +7017,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jontavius-wyman-46143798/",
@@ -7456,7 +7040,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylun-huglon-46145719/",
@@ -7479,7 +7063,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jlynnd-kellow-46164847/",
@@ -7502,7 +7086,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jett-watson-46149847/",
@@ -7525,7 +7109,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semajay-robinson-46164246/",
@@ -7548,7 +7132,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/shahariam-thurston-46157580/",
@@ -7571,7 +7155,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-witten-46150577/",
@@ -7594,7 +7178,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/seth-williams-46163920/",
@@ -7617,7 +7201,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaston-lewis-46163162/",
@@ -7640,7 +7224,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailib-dillard-46159825/",
@@ -7663,7 +7247,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-johnson-46147058/",
@@ -7686,7 +7270,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalil-terry-46142775/",
@@ -7709,7 +7293,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isala-aisa-wily-ava-46150503/",
@@ -7732,7 +7316,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -7755,7 +7339,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-johnson-46159985/",
@@ -7778,7 +7362,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-roberson-46157609/",
@@ -7801,7 +7385,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braiden-graves-46157607/",
@@ -7824,7 +7408,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rontrae-carter-46155237/",
@@ -7847,7 +7431,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/savoy-guidry-46157640/",
@@ -7870,7 +7454,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayquan-snell-46136314/",
@@ -7893,7 +7477,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myson-johnson-cook-46143247/",
@@ -7916,7 +7500,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/israel-hammons-46164012/",
@@ -7939,7 +7523,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-yancey-46142228/",
@@ -7962,7 +7546,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karece-hoyt-46144142/",
@@ -7985,7 +7569,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lawrence-britt-46154473/",
@@ -8008,7 +7592,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/markez-davis-46166418/",
@@ -8031,7 +7615,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brajon-melancon-46165745/",
@@ -8054,7 +7638,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brayden-booth-46152717/",
@@ -8077,7 +7661,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kendray-porter-jr-46157588/",
@@ -8100,7 +7684,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zayden-smith-46159412/",
@@ -8123,7 +7707,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antayvious-ellis-46142374/",
@@ -8146,7 +7730,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stanley-smart-46151805/",
@@ -8169,7 +7753,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-scott-46145117/",
@@ -8192,7 +7776,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamie-spurgeon-46158350/",
@@ -8215,7 +7799,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-jackson-46146944/",
@@ -8238,7 +7822,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalani-culpepper-46142205/",
@@ -8261,7 +7845,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dadrian-renfro-46145115/",
@@ -8284,7 +7868,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/korde-foreman-46168975/",
@@ -8307,7 +7891,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andres-von-der-meden-46167715/",
@@ -8330,7 +7914,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-greaser-46168382/",
@@ -8353,7 +7937,7 @@
             "schoolId": "texas-tech",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
-            "updatedAt": "2026-10-10T12:30:33.879Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           }
         ]
       }
@@ -8362,8 +7946,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -8955,48 +8539,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 15
@@ -9005,8 +8589,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2641/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9014,8 +8598,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2641/roster",
         "season": "2026-27",
         "reason": null,
@@ -9150,8 +8734,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9159,8 +8743,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -9186,14 +8770,14 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/commits/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -9219,7 +8803,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reese-alston-46151465/",
@@ -9242,7 +8826,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-britt-jr-46151000/",
@@ -9265,7 +8849,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucai-anderson-46161325/",
@@ -9288,7 +8872,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malik-olajuwon-46166582/",
@@ -9311,7 +8895,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/siincere-hudson-46144389/",
@@ -9334,7 +8918,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-davis-46148123/",
@@ -9357,7 +8941,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -9380,7 +8964,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-page-46146143/",
@@ -9403,7 +8987,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/asa-montgomery-46149951/",
@@ -9426,7 +9010,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-jordan-46146933/",
@@ -9449,7 +9033,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -9472,7 +9056,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-rachal-46167251/",
@@ -9495,7 +9079,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-santos-46151516/",
@@ -9518,7 +9102,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/london-dada-46160475/",
@@ -9541,7 +9125,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darius-wabbington-46143727/",
@@ -9564,7 +9148,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyran-frazier-46151520/",
@@ -9587,7 +9171,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mahamadou-diop-46155246/",
@@ -9610,7 +9194,7 @@
             "schoolId": "texas-tech",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           }
         ]
       }
@@ -9619,8 +9203,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -10014,40 +9598,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -10056,8 +9640,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2641/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10414,8 +9998,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2641/roster",
         "season": "2026-27",
         "reason": null,
@@ -10559,8 +10143,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10635,8 +10219,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -10644,8 +10228,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -10671,7 +10255,7 @@
             "schoolId": "texas-tech",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -10694,7 +10278,7 @@
             "schoolId": "texas-tech",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -10717,7 +10301,7 @@
             "schoolId": "texas-tech",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -10740,7 +10324,7 @@
             "schoolId": "texas-tech",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           }
         ]
       }
@@ -10749,8 +10333,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -11133,32 +10717,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://texastech.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 30
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-            "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+            "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+            "lastSuccessAt": "2026-10-11T21:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -11167,8 +10751,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/201/schedule",
         "season": "2025-26",
         "reason": null,
@@ -11849,7 +11433,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/201/roster",
         "season": null,
@@ -11858,8 +11442,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://texastech.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11867,8 +11451,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
-        "lastSuccessAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
+        "lastSuccessAt": "2026-10-11T21:57:10.986Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -11894,7 +11478,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1023018",
@@ -11917,7 +11501,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=953967",
@@ -11940,7 +11524,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=809075",
@@ -11963,7 +11547,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=826916",
@@ -11986,7 +11570,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=831298",
@@ -12009,7 +11593,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=773457",
@@ -12032,7 +11616,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=795011",
@@ -12055,7 +11639,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=834170",
@@ -12078,7 +11662,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=897566",
@@ -12101,7 +11685,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=759583",
@@ -12124,7 +11708,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1096228",
@@ -12147,7 +11731,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1250250",
@@ -12170,7 +11754,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1261245",
@@ -12193,13 +11777,13 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-10-11T12:48:20.298Z"
+            "updatedAt": "2026-10-11T21:57:10.986Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-11T12:48:20.298Z",
+        "lastAttemptAt": "2026-10-11T21:57:10.986Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
