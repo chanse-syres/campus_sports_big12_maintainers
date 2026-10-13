@@ -6,17 +6,17 @@
     "name": "Utah",
     "athleticsUrl": "https://utahutes.com"
   },
-  "generatedAt": "2026-10-13T00:38:30.951Z",
+  "generatedAt": "2026-10-13T14:10:09.393Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": "2026-10-13T00:38:30.951Z",
         "sourceUrl": "https://utahutes.com/sports/football/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
             "id": "2bc83bfc7830bb33287899d5",
@@ -1551,66 +1551,66 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://utahutes.com/sports/football/archives",
             "reason": null,
             "recordCount": 58
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 34
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 38
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
             "lastSuccessAt": "2026-10-13T00:38:30.951Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "http-403",
             "recordCount": 6
           }
         ]
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/schedule",
         "season": "2026",
         "reason": null,
@@ -1763,8 +1763,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -2781,8 +2781,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://utahutes.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -2790,8 +2790,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -2817,7 +2817,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-aloisio-46146734/",
@@ -2840,7 +2840,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-martin-46158548/",
@@ -2863,7 +2863,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrod-jacobs-46157579/",
@@ -2886,7 +2886,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bibbs-46160858/",
@@ -2909,7 +2909,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/fui-vakapuna-46162507/",
@@ -2932,7 +2932,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/diesel-dart-46152072/",
@@ -2955,7 +2955,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/monson-tukuafu-46161675/",
@@ -2978,7 +2978,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-west-46160922/",
@@ -3001,7 +3001,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-hall-46164678/",
@@ -3024,7 +3024,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-henderson-46159907/",
@@ -3047,7 +3047,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tiki-teeples-46164572/",
@@ -3070,7 +3070,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darnell-jackson-jr-46157623/",
@@ -3093,7 +3093,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braxton-daniel-46164617/",
@@ -3116,7 +3116,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonah-mailei-46162441/",
@@ -3139,7 +3139,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damian-anyasodo-46161914/",
@@ -3162,7 +3162,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonah-lubno-46162296/",
@@ -3185,7 +3185,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taylan-patterson-46159667/",
@@ -3208,7 +3208,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sire-stewart-46159321/",
@@ -3231,7 +3231,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dillon-sykes-46154619/",
@@ -3254,7 +3254,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-richards-46159704/",
@@ -3277,17 +3277,17 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           }
         ]
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-12T15:22:16.181Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
         "season": "2027",
-        "reason": "source-format-changed",
+        "reason": null,
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/blake-roskopf-46155022/",
@@ -3310,7 +3310,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamden-lopati-46148735/",
@@ -3333,7 +3333,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-white-46143662/",
@@ -3345,7 +3345,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 23,
-            "stateRank": 47,
+            "stateRank": 48,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "a069dc93229dd61a63f74716",
@@ -3356,7 +3356,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chance-thomas-46143322/",
@@ -3379,7 +3379,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dane-weber-46155270/",
@@ -3402,7 +3402,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sione-kaho-46143572/",
@@ -3425,7 +3425,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kael-snyder-46150670/",
@@ -3448,7 +3448,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-musser-46147264/",
@@ -3471,7 +3471,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/thaddeus-thatcher-46142789/",
@@ -3494,7 +3494,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-farrell-46154842/",
@@ -3517,7 +3517,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-rakowski-46142142/",
@@ -3540,7 +3540,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonah-lubno-46162296/",
@@ -3563,7 +3563,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matthew-smith-46166585/",
@@ -3586,7 +3586,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-rudnicki-46148226/",
@@ -3609,7 +3609,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-mitchell-46145321/",
@@ -3632,7 +3632,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-spinks-46153027/",
@@ -3644,7 +3644,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 132,
-            "stateRank": 258,
+            "stateRank": 259,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "a067eb51b6f4bc0c21526c52",
@@ -3655,7 +3655,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landen-williams-callis-46138250/",
@@ -3667,7 +3667,7 @@
             "stars": 4,
             "nationalRank": 38,
             "positionRank": 3,
-            "stateRank": 2,
+            "stateRank": 3,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "1c2bedd5c97c97ab85a94afa",
@@ -3678,7 +3678,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/daylon-gordon-46157348/",
@@ -3690,7 +3690,7 @@
             "stars": 4,
             "nationalRank": 182,
             "positionRank": 11,
-            "stateRank": 27,
+            "stateRank": 28,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "5f1a245c17454b729c130bec",
@@ -3701,7 +3701,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-roberts-46151437/",
@@ -3724,7 +3724,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayshon-gibson-46150802/",
@@ -3736,7 +3736,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 35,
-            "stateRank": 66,
+            "stateRank": 67,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b04cf0dc51480ee36946c832",
@@ -3747,7 +3747,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/duece-jones-drew-46143364/",
@@ -3770,7 +3770,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-adeyanju-46162240/",
@@ -3793,7 +3793,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/terrance-grant-jr-46149805/",
@@ -3816,7 +3816,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/benjamin-harris-46150163/",
@@ -3839,7 +3839,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antwon-sanders-46157633/",
@@ -3851,7 +3851,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 92,
-            "stateRank": 147,
+            "stateRank": 148,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "020f894719d9ef5bc420dcbf",
@@ -3862,7 +3862,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-mcfarland-46161889/",
@@ -3885,7 +3885,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jonah-mailei-46162441/",
@@ -3908,7 +3908,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carvell-wafer-jr-46164453/",
@@ -3931,7 +3931,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-smith-46144806/",
@@ -3943,7 +3943,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 248,
-            "stateRank": 247,
+            "stateRank": 248,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "e0ebef94dedc30c066e556d5",
@@ -3954,7 +3954,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juelz-carter-46165411/",
@@ -3977,7 +3977,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quentin-hale-46152565/",
@@ -4000,7 +4000,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bode-sparrow-46143770/",
@@ -4023,7 +4023,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roye-oliver-iii-46154068/",
@@ -4046,7 +4046,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-davis-46154972/",
@@ -4069,7 +4069,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/briceson-thrower-jr-46155048/",
@@ -4081,7 +4081,7 @@
             "stars": 4,
             "nationalRank": 144,
             "positionRank": 21,
-            "stateRank": 19,
+            "stateRank": 20,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "4d2e64d23e9980bccb92bee9",
@@ -4092,7 +4092,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eli-woodard-46154551/",
@@ -4115,7 +4115,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-yancey-46142228/",
@@ -4127,7 +4127,7 @@
             "stars": 4,
             "nationalRank": 188,
             "positionRank": 29,
-            "stateRank": 29,
+            "stateRank": 30,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "908cdcba20fcc62ea97b642d",
@@ -4138,7 +4138,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-wong-46142252/",
@@ -4161,7 +4161,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-white-46145647/",
@@ -4184,7 +4184,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nico-bland-46141363/",
@@ -4207,7 +4207,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/julian-caldwell-46151294/",
@@ -4219,7 +4219,7 @@
             "stars": 4,
             "nationalRank": null,
             "positionRank": 43,
-            "stateRank": 42,
+            "stateRank": 43,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "2c75b7d300560e12e74a649b",
@@ -4230,7 +4230,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demare-dezeurn-46149635/",
@@ -4253,7 +4253,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dontay-tyson-46151181/",
@@ -4276,7 +4276,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ty-johnson-46151796/",
@@ -4299,7 +4299,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damani-warren-46147365/",
@@ -4322,7 +4322,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-haralson-46144141/",
@@ -4334,7 +4334,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 54,
-            "stateRank": 49,
+            "stateRank": 50,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "9017cb678b149469a19795ae",
@@ -4345,7 +4345,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-christie-46151855/",
@@ -4368,7 +4368,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trysten-shaw-46155778/",
@@ -4380,7 +4380,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 61,
-            "stateRank": 54,
+            "stateRank": 55,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "cb180c4767d438786ff9ba03",
@@ -4391,7 +4391,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-celifie-46150169/",
@@ -4414,7 +4414,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sheldon-isaac-46148879/",
@@ -4437,7 +4437,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tycen-johnson-46150049/",
@@ -4460,7 +4460,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-britton-iii-46149816/",
@@ -4483,7 +4483,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kobe-haynes-46150053/",
@@ -4495,7 +4495,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 90,
-            "stateRank": 88,
+            "stateRank": 89,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "d0263b2696608ff4b6e96dda",
@@ -4506,7 +4506,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-knowles-46153338/",
@@ -4518,7 +4518,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 106,
-            "stateRank": 100,
+            "stateRank": 101,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "d29489d99b2696fa9f98764c",
@@ -4529,7 +4529,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gianni-haynes-46151903/",
@@ -4552,7 +4552,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-coleman-46156590/",
@@ -4575,7 +4575,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-rushing-46159969/",
@@ -4598,7 +4598,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-deal-46161629/",
@@ -4610,7 +4610,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 125,
-            "stateRank": 124,
+            "stateRank": 125,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "0c87b451a9faf16c2e5fe29d",
@@ -4621,7 +4621,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/delontay-williams-46142572/",
@@ -4644,7 +4644,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavares-powell-46158784/",
@@ -4656,7 +4656,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 151,
-            "stateRank": 127,
+            "stateRank": 126,
             "rankingState": "FL",
             "rankingGroup": "HighSchool",
             "id": "16912445c99b2a0fb7f7fd00",
@@ -4667,7 +4667,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darion-moseley-46149637/",
@@ -4690,7 +4690,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darnell-jackson-jr-46157623/",
@@ -4702,7 +4702,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 178,
-            "stateRank": 175,
+            "stateRank": 176,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "f0629ce132f37aef3e1dd032",
@@ -4713,7 +4713,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damani-porras-46147187/",
@@ -4736,7 +4736,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ake-oneal-46165182/",
@@ -4748,7 +4748,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 199,
-            "stateRank": 189,
+            "stateRank": 190,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "ef638bbab4a732aee3b4b9de",
@@ -4759,7 +4759,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kentorion-king-46157632/",
@@ -4771,7 +4771,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 206,
-            "stateRank": 206,
+            "stateRank": 207,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "5eefb004062bff01fc3c2739",
@@ -4782,7 +4782,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/travon-garrison-46156763/",
@@ -4805,7 +4805,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dillon-sykes-46154619/",
@@ -4828,7 +4828,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-parks-46146165/",
@@ -4840,7 +4840,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 223,
-            "stateRank": 228,
+            "stateRank": 229,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "a162547991c8ebf869446b0e",
@@ -4851,7 +4851,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deno-dalacas-46159614/",
@@ -4874,7 +4874,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-richards-46159704/",
@@ -4897,7 +4897,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooks-bakko-46153720/",
@@ -4920,7 +4920,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cooper-terwilliger-46150536/",
@@ -4943,7 +4943,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-hynek-46156875/",
@@ -4966,7 +4966,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ben-kolar-46156737/",
@@ -4989,7 +4989,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/christian-hanshaw-46159244/",
@@ -5012,7 +5012,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zach-albright-46155034/",
@@ -5035,7 +5035,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jace-cannon-46155201/",
@@ -5058,7 +5058,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zac-fares-46149288/",
@@ -5081,7 +5081,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/max-markofski-46149353/",
@@ -5104,7 +5104,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/talan-scott-46156636/",
@@ -5127,7 +5127,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/judah-lancaster-46145705/",
@@ -5150,7 +5150,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-gazzaniga-46156782/",
@@ -5173,7 +5173,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braxton-daniel-46164617/",
@@ -5196,7 +5196,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-mandrell-46165266/",
@@ -5208,7 +5208,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 78,
-            "stateRank": 210,
+            "stateRank": 211,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "673e76942d0c05ab19b62a00",
@@ -5219,7 +5219,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/landon-wolny-46142395/",
@@ -5231,7 +5231,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 86,
-            "stateRank": 205,
+            "stateRank": 204,
             "rankingState": "FL",
             "rankingGroup": "HighSchool",
             "id": "a803deff60baafb6327d4cf2",
@@ -5242,7 +5242,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-fielder-46158447/",
@@ -5265,7 +5265,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-hildebrand-46150822/",
@@ -5288,7 +5288,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-bertola-46154775/",
@@ -5311,7 +5311,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mason-joshua-46161064/",
@@ -5323,7 +5323,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 26,
-            "stateRank": 44,
+            "stateRank": 45,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "be1f57e3bc01c174ae30c730",
@@ -5334,7 +5334,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/amaziah-siale-46146568/",
@@ -5357,7 +5357,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tye-kennedy-46162261/",
@@ -5380,7 +5380,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-siler-46163939/",
@@ -5392,7 +5392,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 81,
-            "stateRank": 121,
+            "stateRank": 122,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "e88cb72a8b7b581d2272bdde",
@@ -5403,7 +5403,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-tyus-46158935/",
@@ -5426,7 +5426,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sire-stewart-46159321/",
@@ -5449,7 +5449,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-roper-46153223/",
@@ -5472,7 +5472,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dajohn-yarborough-46155167/",
@@ -5495,7 +5495,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gecova-doyal-46145155/",
@@ -5518,7 +5518,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ian-aloisio-46146734/",
@@ -5541,7 +5541,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lincoln-mageo-46147045/",
@@ -5564,7 +5564,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-bunni-46161773/",
@@ -5587,7 +5587,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tristan-dare-46146325/",
@@ -5599,7 +5599,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 63,
-            "stateRank": 113,
+            "stateRank": 114,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "c1cf616b5214224c1243cbea",
@@ -5610,7 +5610,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rashaun-lavatai-46155595/",
@@ -5633,7 +5633,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/damian-anyasodo-46161914/",
@@ -5656,7 +5656,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/phoenix-pollard-46157532/",
@@ -5679,7 +5679,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kelvin-eiwo-46150508/",
@@ -5691,7 +5691,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 108,
-            "stateRank": 199,
+            "stateRank": 200,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "fd899d85dceba3b99db4d0cf",
@@ -5702,7 +5702,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lopeti-malupo-46149141/",
@@ -5725,7 +5725,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/calvin-moala-46147877/",
@@ -5748,7 +5748,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kingston-tupuola-46157577/",
@@ -5771,7 +5771,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/uhila-wolfgramm-46152619/",
@@ -5794,7 +5794,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/manase-brown-46160918/",
@@ -5817,7 +5817,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godschoice-eboigbodin-46159650/",
@@ -5840,7 +5840,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/achilles-reyna-46154487/",
@@ -5863,7 +5863,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/troy-mailo-46147113/",
@@ -5886,7 +5886,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-saunders-46159373/",
@@ -5909,7 +5909,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-christensen-46155573/",
@@ -5932,7 +5932,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaac-miller-46153291/",
@@ -5955,7 +5955,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/monson-tukuafu-46161675/",
@@ -5978,7 +5978,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brody-pfannenstiel-46159291/",
@@ -6001,7 +6001,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-henderson-46159907/",
@@ -6024,7 +6024,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jag-ioane-46152618/",
@@ -6047,7 +6047,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sonasi-maka-ii-46158742/",
@@ -6070,7 +6070,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-sanchez-46153168/",
@@ -6093,7 +6093,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/salesi-lata-46141738/",
@@ -6116,7 +6116,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myels-smith-46153654/",
@@ -6139,7 +6139,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/alifeleti-tuihalamaka-46149194/",
@@ -6162,7 +6162,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezekiel-ayangbile-46146266/",
@@ -6174,7 +6174,7 @@
             "stars": 4,
             "nationalRank": 173,
             "positionRank": 20,
-            "stateRank": 25,
+            "stateRank": 26,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "97475d0a7f21c0404623af75",
@@ -6185,7 +6185,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jon-ioane-46140157/",
@@ -6208,7 +6208,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/george-toia-46147998/",
@@ -6231,7 +6231,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tevita-nonu-46152376/",
@@ -6254,7 +6254,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elija-harmon-46146443/",
@@ -6277,7 +6277,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-williams-46149609/",
@@ -6300,7 +6300,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/montana-toilolo-46142434/",
@@ -6323,7 +6323,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sione-felila-46149257/",
@@ -6346,7 +6346,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kahlio-vaetoe-46152450/",
@@ -6369,7 +6369,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahzan-bacote-46161695/",
@@ -6381,7 +6381,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 110,
-            "stateRank": 114,
+            "stateRank": 115,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "6bc91fb9355ea35c8311a2e5",
@@ -6392,7 +6392,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maaimoa-havili-46167045/",
@@ -6415,7 +6415,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khyren-haywood-46142211/",
@@ -6427,7 +6427,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 140,
-            "stateRank": 149,
+            "stateRank": 150,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "c491f8ce578080f1c95c336e",
@@ -6438,7 +6438,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/stone-ah-quin-46158555/",
@@ -6461,7 +6461,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tiki-teeples-46164572/",
@@ -6484,7 +6484,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/toa-satele-46145646/",
@@ -6507,7 +6507,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/israel-hammons-46164012/",
@@ -6530,7 +6530,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/case-alexander-46152524/",
@@ -6553,7 +6553,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-williams-46144825/",
@@ -6565,7 +6565,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 43,
-            "stateRank": 67,
+            "stateRank": 68,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "060547f097d24af12284c1b9",
@@ -6576,7 +6576,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lucas-rhoa-46146743/",
@@ -6599,7 +6599,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-williams-46157576/",
@@ -6611,7 +6611,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 45,
-            "stateRank": 72,
+            "stateRank": 73,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "7d3a06cc44c8306a03cfe930",
@@ -6622,7 +6622,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cade-haug-46145106/",
@@ -6634,7 +6634,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 54,
-            "stateRank": 83,
+            "stateRank": 84,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "0b16b97796fd84900b451570",
@@ -6645,7 +6645,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/fui-vakapuna-46162507/",
@@ -6668,7 +6668,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sam-ngata-46157095/",
@@ -6691,7 +6691,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-clanton-46153192/",
@@ -6714,7 +6714,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/linkin-apana-46157846/",
@@ -6737,7 +6737,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-breeden-46157612/",
@@ -6749,7 +6749,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 112,
-            "stateRank": 163,
+            "stateRank": 164,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b3d595d7a4d7c844b0663a10",
@@ -6760,7 +6760,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cam-pettijohn-46155765/",
@@ -6772,7 +6772,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 133,
-            "stateRank": 192,
+            "stateRank": 193,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "ddb5463ee344972063a7b4ef",
@@ -6783,7 +6783,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davon-smith-46148331/",
@@ -6795,7 +6795,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 138,
-            "stateRank": 208,
+            "stateRank": 209,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "5fbb8bea425946eaf11df2da",
@@ -6806,7 +6806,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/iona-uiagalelei-46148708/",
@@ -6829,7 +6829,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/danny-lang-46146837/",
@@ -6852,7 +6852,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/karnell-james-46149925/",
@@ -6864,7 +6864,7 @@
             "stars": 4,
             "nationalRank": 87,
             "positionRank": 5,
-            "stateRank": 9,
+            "stateRank": 10,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "015a423301fd3a8cc975df82",
@@ -6875,7 +6875,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/monsanna-torbert-jr-46145765/",
@@ -6898,7 +6898,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/keishjuan-telfair-46153238/",
@@ -6921,7 +6921,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamil-loud-46153753/",
@@ -6944,7 +6944,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-molden-46140791/",
@@ -6967,7 +6967,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/evan-mack-46154204/",
@@ -6990,19 +6990,19 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-blaylock-46146999/",
             "imageUrl": "https://s3media.247sports.com/Uploads/Assets/663/744/13744663.jpg?width=70&fit=crop",
-            "schoolName": "Atascocita",
+            "schoolName": "Humble Atascocita",
             "hometown": "Humble, TX",
             "rating": 88,
             "ratingSystem": "247sports",
             "stars": 3,
             "nationalRank": null,
             "positionRank": 53,
-            "stateRank": 68,
+            "stateRank": 69,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "34129a21e3a8f4796c26a61b",
@@ -7013,7 +7013,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jernaro-gilford-jr-46147364/",
@@ -7036,7 +7036,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacob-whitehead-46141458/",
@@ -7059,7 +7059,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-bibbs-46160858/",
@@ -7071,7 +7071,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 64,
-            "stateRank": 92,
+            "stateRank": 93,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "8948a9bbd088882453f16078",
@@ -7082,7 +7082,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylin-bruce-46155369/",
@@ -7105,7 +7105,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nathaniel-mensah-46154894/",
@@ -7128,7 +7128,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/johnny-mcneil-46158457/",
@@ -7151,7 +7151,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kasen-jammer-46158845/",
@@ -7163,7 +7163,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 124,
-            "stateRank": 165,
+            "stateRank": 166,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "6200a0176029d3b41bcb3fd9",
@@ -7174,7 +7174,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/will-rasmussen-46147445/",
@@ -7197,7 +7197,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-clark-46157739/",
@@ -7220,7 +7220,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/azari-warren-46137818/",
@@ -7243,7 +7243,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caleb-white-46159698/",
@@ -7266,7 +7266,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jayquan-snell-46136314/",
@@ -7278,7 +7278,7 @@
             "stars": 4,
             "nationalRank": 46,
             "positionRank": 2,
-            "stateRank": 3,
+            "stateRank": 4,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "0016f7bdc3291bb18ca74242",
@@ -7289,7 +7289,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/semaj-stanford-46146499/",
@@ -7312,7 +7312,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gavin-williams-46150907/",
@@ -7335,7 +7335,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adryan-cole-46146427/",
@@ -7358,7 +7358,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kailib-dillard-46159825/",
@@ -7381,7 +7381,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kennedy-green-46153115/",
@@ -7404,7 +7404,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/khalil-terry-46142775/",
@@ -7427,7 +7427,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aiden-martin-46158548/",
@@ -7439,7 +7439,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 49,
-            "stateRank": 65,
+            "stateRank": 66,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "ac51bbd443eea3fe91dfd189",
@@ -7450,7 +7450,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isala-aisa-wily-ava-46150503/",
@@ -7473,7 +7473,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darrod-jacobs-46157579/",
@@ -7485,7 +7485,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 52,
-            "stateRank": 73,
+            "stateRank": 74,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "653dbadd33d36f4440c02bd7",
@@ -7496,7 +7496,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaden-walk-green-46154955/",
@@ -7519,7 +7519,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/diesel-dart-46152072/",
@@ -7542,7 +7542,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braiden-graves-46157607/",
@@ -7554,7 +7554,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 86,
-            "stateRank": 105,
+            "stateRank": 106,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "77e24995274adce524ae76d2",
@@ -7565,7 +7565,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-hall-46164678/",
@@ -7588,7 +7588,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nate-obasanjo-46163882/",
@@ -7611,7 +7611,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/honor-faalave-johnson-46150112/",
@@ -7634,7 +7634,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/juju-johnson-46146860/",
@@ -7657,7 +7657,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marcus-fakatou-46149091/",
@@ -7680,7 +7680,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/myson-johnson-cook-46143247/",
@@ -7703,7 +7703,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taven-epps-46146822/",
@@ -7726,7 +7726,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jai-jones-46150626/",
@@ -7749,7 +7749,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ronnie-gomiller-46145803/",
@@ -7772,7 +7772,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/krew-jones-46143771/",
@@ -7795,7 +7795,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxton-itaaehau-46160892/",
@@ -7818,7 +7818,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/duvay-williams-46142570/",
@@ -7841,7 +7841,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malakai-taufoou-46150652/",
@@ -7864,7 +7864,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/caden-jones-46148112/",
@@ -7887,7 +7887,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/steele-harris-46158640/",
@@ -7910,7 +7910,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/royalton-allen-46154173/",
@@ -7933,7 +7933,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-scott-46145117/",
@@ -7945,7 +7945,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 78,
-            "stateRank": 116,
+            "stateRank": 117,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b44543fddced8a9ebf0c05f1",
@@ -7956,7 +7956,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jackson-west-46160922/",
@@ -7979,7 +7979,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dahriyon-vaughn-46151562/",
@@ -8002,7 +8002,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-higginson-46149856/",
@@ -8025,7 +8025,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taylan-patterson-46159667/",
@@ -8048,7 +8048,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamie-spurgeon-46158350/",
@@ -8071,7 +8071,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/owen-leishman-46167882/",
@@ -8094,7 +8094,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tytan-dejong-46147761/",
@@ -8117,7 +8117,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeovanni-henley-46148322/",
@@ -8140,7 +8140,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-jackson-46146944/",
@@ -8152,7 +8152,7 @@
             "stars": 3,
             "nationalRank": null,
             "positionRank": 180,
-            "stateRank": 233,
+            "stateRank": 234,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "5626ef26d03dc35d5d8d425e",
@@ -8163,7 +8163,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brooklyn-bailey-46159384/",
@@ -8186,7 +8186,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-salvant-46160929/",
@@ -8209,7 +8209,7 @@
             "schoolId": "utah",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
-            "updatedAt": "2026-10-12T15:22:16.181Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           }
         ]
       }
@@ -8217,12 +8217,12 @@
     "basketball": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": "2026-10-13T00:38:30.951Z",
         "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
             "id": "f78e70d703fdc5e308656554",
@@ -8998,66 +8998,66 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 35
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 34
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
             "lastSuccessAt": "2026-10-13T00:38:30.951Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "http-403",
             "recordCount": 1
           }
         ]
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/254/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9065,8 +9065,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/254/roster",
         "season": "2026-27",
         "reason": null,
@@ -9219,8 +9219,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9272,18 +9272,42 @@
         ]
       },
       "recruitingBoard": {
-        "status": "empty",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
-        "records": []
+        "records": [
+          {
+            "profileUrl": "https://247sports.com/Player/pierce-thompson-46168857/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/220/148/14148220.jpeg?width=70&fit=crop",
+            "schoolName": "Harvard-Westlake",
+            "hometown": "Studio City, CA",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": 242,
+            "positionRank": 39,
+            "stateRank": 23,
+            "rankingState": "CA",
+            "rankingGroup": "HighSchool",
+            "id": "5707f1af6c439e178d3774ac",
+            "name": "Pierce Thompson",
+            "classYear": 2027,
+            "position": "SG",
+            "status": "committed",
+            "schoolId": "utah",
+            "sport": "basketball",
+            "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/commits/",
+            "updatedAt": "2026-10-13T14:10:09.393Z"
+          }
+        ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -9309,7 +9333,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mana-winitawa-46170531/",
@@ -9332,7 +9356,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mana-winitana-46170532/",
@@ -9355,7 +9379,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-lumpkin-46157657/",
@@ -9378,7 +9402,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/rj-moore-46157600/",
@@ -9401,7 +9425,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/pierce-thompson-46168857/",
@@ -9424,7 +9448,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adan-diggs-46150995/",
@@ -9447,7 +9471,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/crew-fotheringham-46153717/",
@@ -9470,7 +9494,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -9493,7 +9517,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chris-brown-46153130/",
@@ -9516,7 +9540,7 @@
             "schoolId": "utah",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           }
         ]
       }
@@ -9524,12 +9548,12 @@
     "womens-basketball": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": "2026-10-13T00:38:30.951Z",
         "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
             "id": "90e943fba5c45db732c3a2d9",
@@ -9887,58 +9911,58 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
-            "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
             "lastSuccessAt": "2026-10-13T00:38:30.951Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "http-403",
             "recordCount": 0
           }
         ]
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/254/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10307,8 +10331,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/254/roster",
         "season": "2026-27",
         "reason": null,
@@ -10434,8 +10458,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10455,8 +10479,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -10464,8 +10488,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -10491,7 +10515,7 @@
             "schoolId": "utah",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -10514,7 +10538,7 @@
             "schoolId": "utah",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           }
         ]
       }
@@ -10522,12 +10546,12 @@
     "baseball": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": "2026-10-13T00:38:30.951Z",
         "sourceUrl": "https://utahutes.com/sports/baseball/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
             "id": "ea3b3d51dc8f2bf63bf679e3",
@@ -10896,50 +10920,50 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://utahutes.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-            "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+            "lastSuccessAt": "2026-10-13T14:10:09.393Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
-            "status": "empty",
-            "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-10-13T14:10:09.393Z",
             "lastSuccessAt": "2026-10-13T00:38:30.951Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "http-403",
             "recordCount": 0
           }
         ]
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/128/schedule",
         "season": "2025-26",
         "reason": null,
@@ -11560,7 +11584,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/128/roster",
         "season": null,
@@ -11569,8 +11593,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://utahutes.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11578,8 +11602,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
-        "lastSuccessAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
+        "lastSuccessAt": "2026-10-13T14:10:09.393Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -11605,7 +11629,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1128167",
@@ -11628,7 +11652,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1339099",
@@ -11651,7 +11675,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1339154",
@@ -11674,7 +11698,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1476227",
@@ -11697,13 +11721,13 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-10-13T00:38:30.951Z"
+            "updatedAt": "2026-10-13T14:10:09.393Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-13T00:38:30.951Z",
+        "lastAttemptAt": "2026-10-13T14:10:09.393Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
