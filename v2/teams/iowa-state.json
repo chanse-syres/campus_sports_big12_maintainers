@@ -6,14 +6,14 @@
     "name": "Iowa State",
     "athleticsUrl": "https://cyclones.com"
   },
-  "generatedAt": "2026-10-15T11:27:11.560Z",
+  "generatedAt": "2026-10-15T16:59:36.744Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/football/archives",
         "season": null,
         "reason": null,
@@ -47,6 +47,17 @@
             "publishedAt": "2026-10-14T00:00:00.000Z",
             "publishedAtPrecision": "day",
             "imageUrl": "https://cyclones.com/images/2026/10/14/IMG_1809.JPG_o1zxE.jpg",
+            "imageAlt": null,
+            "publisher": "Iowa State Athletics",
+            "discoverySourceUrl": "https://cyclones.com/sports/football/archives"
+          },
+          {
+            "id": "9d6951b2d7511b1b7b1d66ab",
+            "title": "Pettaway, Flora on Jet Award Mid-Season Watchlist",
+            "url": "https://cyclones.com/news/2026/10/14/football-pettaway-flora-on-jet-award-mid-season-watchlist",
+            "publishedAt": "2026-10-14T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://cyclones.com/images/2026/10/15/Untitled-1.jpg",
             "imageAlt": null,
             "publisher": "Iowa State Athletics",
             "discoverySourceUrl": "https://cyclones.com/sports/football/archives"
@@ -2640,56 +2651,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://cyclones.com/sports/football/archives",
             "reason": null,
-            "recordCount": 51
+            "recordCount": 52
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 26
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.si.com/college/iowa-state/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 129
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.widerightnattylite.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 26
@@ -2698,8 +2709,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/66/schedule",
         "season": "2026",
         "reason": null,
@@ -2852,8 +2863,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/66/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3996,8 +4007,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4005,8 +4016,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -4032,7 +4043,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chuck-alexander-46154568/",
@@ -4055,7 +4066,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-mccarthy-46167608/",
@@ -4078,7 +4089,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-hansen-46159309/",
@@ -4101,7 +4112,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/koen-hinzman-46164004/",
@@ -4124,7 +4135,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dj-williams-46166300/",
@@ -4147,7 +4158,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/leslie-woodson-46164499/",
@@ -4170,7 +4181,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joey-massey-46164759/",
@@ -4193,7 +4204,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxen-proden-46167770/",
@@ -4216,7 +4227,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braylon-lane-46158603/",
@@ -4239,7 +4250,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kesean-williams-46159966/",
@@ -4262,7 +4273,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-moser-46161742/",
@@ -4285,7 +4296,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-aagesen-46161852/",
@@ -4308,7 +4319,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/special-henry-46167234/",
@@ -4331,7 +4342,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-crider-46166946/",
@@ -4354,7 +4365,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joe-vinyard-46159469/",
@@ -4377,7 +4388,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/drew-bergfeld-46167614/",
@@ -4400,7 +4411,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cash-hollingshead-46162252/",
@@ -4423,7 +4434,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dontrell-young-46165141/",
@@ -4446,7 +4457,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zivad-robinson-46163294/",
@@ -4469,7 +4480,7 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/william-bowers-46167952/",
@@ -4492,13 +4503,13 @@
             "schoolId": "iowa-state",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/commits/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": "2026-10-14T17:09:20.129Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-football/offers/",
         "season": "2027",
@@ -8421,12 +8432,34 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "c4264babe4596546e779f14c",
+            "title": "Iowa State Basketball Held in High Regard in Big 12 Preseason Coaches’ Poll",
+            "url": "https://www.si.com/college/iowa-state/basketball/iowa-state-basketball-held-in-high-regard-in-big-12-preseason-coaches-poll",
+            "publishedAt": "2026-10-15T17:00:02.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_93/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/iowa_state_cyclones/01m505t20vg5kck970mf.jpg",
+            "imageAlt": "Iowa State men’s basketball head coach T.J. Otzelberger speaks with the media during the university’s men’s basketball media day at Hilton Coliseum in Ames, Iowa. (Nirmalendu Majumdar/Ames Tribune, USA TODAY Network) | USA TODAY Network via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/iowa-state/feed"
+          },
+          {
+            "id": "69bb6659d0c70eb473826d06",
+            "title": "Big 12 Announces 2026-27 Men’s Basketball Preseason Honors",
+            "url": "https://www.heartlandcollegesports.com/2026/10/15/2026-27-big-12-mens-basketball-preseason-honors/",
+            "publishedAt": "2026-10-15T16:10:43.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/10/Krivas-150x150.jpg",
+            "imageAlt": null,
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
           {
             "id": "8ddc7fd3e0967387edd8572b",
             "title": "Iowa State Basketball Guard in Line for New Role & Breakout",
@@ -8437,6 +8470,17 @@
             "imageAlt": "Jan 4, 2020; Lubbock, Texas, USA; The Big 12 Logo at United Supermarkets Arena before the game against the Texas Tech Red Raiders and the Oklahoma State Cowboys. Mandatory Credit: Michael C. Johnson-USA TODAY Sports | USA TODAY Sports",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/iowa-state/feed"
+          },
+          {
+            "id": "8c4b1841a2e2b761eab6a3ee",
+            "title": "Lipsey Named to All-Big 12 Preseason Team, ISU Picked Fourth",
+            "url": "https://cyclones.com/news/2026/10/15/mens-basketball-lipsey-named-to-all-big-12-preseason-team-isu-picked-fourth",
+            "publishedAt": "2026-10-15T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://cyclones.com/images/2026/3/22/Lipsey__Tamin_UK_2025-26_2.jpg",
+            "imageAlt": null,
+            "publisher": "Iowa State Athletics",
+            "discoverySourceUrl": "https://cyclones.com/sports/mens-basketball/archives"
           },
           {
             "id": "15a7e690d9d1c42b1e1c9a38",
@@ -9267,56 +9311,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://cyclones.com/sports/mens-basketball/archives",
             "reason": null,
-            "recordCount": 32
+            "recordCount": 33
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 2
+            "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.si.com/college/iowa-state/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 34
+            "recordCount": 35
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.widerightnattylite.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -9325,8 +9369,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/66/schedule",
         "season": "2026-27",
         "reason": null,
@@ -9334,8 +9378,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/66/roster",
         "season": "2026-27",
         "reason": null,
@@ -9479,8 +9523,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9499,18 +9543,88 @@
         ]
       },
       "recruitingBoard": {
-        "status": "empty",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
-        "records": []
+        "records": [
+          {
+            "profileUrl": "https://247sports.com/Player/josiah-harrington-46148205/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/189/996/13996189.jpeg?width=70&fit=crop",
+            "schoolName": "North Scott",
+            "hometown": "Eldridge, IA",
+            "rating": 92,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 48,
+            "positionRank": 11,
+            "stateRank": 1,
+            "rankingState": "IA",
+            "rankingGroup": "HighSchool",
+            "id": "769c42ba1435b21da38692bf",
+            "name": "Josiah Harrington",
+            "classYear": 2027,
+            "position": "SF",
+            "status": "committed",
+            "schoolId": "iowa-state",
+            "sport": "basketball",
+            "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/commits/",
+            "updatedAt": "2026-10-15T16:59:36.744Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/donovan-davis-46151046/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/279/510/12510279.jpg?width=70&fit=crop",
+            "schoolName": "Freedom",
+            "hometown": "Kaukauna, WI",
+            "rating": 91,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 51,
+            "positionRank": 8,
+            "stateRank": 2,
+            "rankingState": "WI",
+            "rankingGroup": "HighSchool",
+            "id": "d6bca19326c21f17b7894ba6",
+            "name": "Donovan Davis",
+            "classYear": 2027,
+            "position": "PF",
+            "status": "committed",
+            "schoolId": "iowa-state",
+            "sport": "basketball",
+            "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/commits/",
+            "updatedAt": "2026-10-15T16:59:36.744Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jack-kohnen-46150212/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/261/176/13176261.jpeg?width=70&fit=crop",
+            "schoolName": "Slinger",
+            "hometown": "Slinger, WI",
+            "rating": 91,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 57,
+            "positionRank": 13,
+            "stateRank": 3,
+            "rankingState": "WI",
+            "rankingGroup": "HighSchool",
+            "id": "d99e229322c9fee219eb9b5f",
+            "name": "Jack Kohnen",
+            "classYear": 2027,
+            "position": "SF",
+            "status": "committed",
+            "schoolId": "iowa-state",
+            "sport": "basketball",
+            "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/commits/",
+            "updatedAt": "2026-10-15T16:59:36.744Z"
+          }
+        ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -9536,7 +9650,7 @@
             "schoolId": "iowa-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-harrington-46148205/",
@@ -9559,7 +9673,7 @@
             "schoolId": "iowa-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jack-kohnen-46150212/",
@@ -9582,7 +9696,7 @@
             "schoolId": "iowa-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/baboucarr-ann-46159840/",
@@ -9605,7 +9719,7 @@
             "schoolId": "iowa-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/donovan-davis-46151046/",
@@ -9628,7 +9742,7 @@
             "schoolId": "iowa-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T11:27:11.560Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           }
         ]
       }
@@ -9637,8 +9751,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -10054,48 +10168,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://cyclones.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.si.com/college/iowa-state/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+            "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+            "lastSuccessAt": "2026-10-15T16:59:36.744Z",
             "sourceUrl": "https://www.widerightnattylite.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -10104,8 +10218,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/66/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10486,8 +10600,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/66/roster",
         "season": "2026-27",
         "reason": null,
@@ -10613,8 +10727,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://cyclones.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10622,20 +10736,20 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
         "records": []
       },
       "recruitingOffers": {
-        "status": "stale",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
-        "lastSuccessAt": "2026-10-14T21:40:22.999Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
+        "lastSuccessAt": "2026-10-15T16:59:36.744Z",
         "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-womens-basketball/offers/",
         "season": "2027",
-        "reason": "unexpected-empty-source",
+        "reason": "provider-reported-records-coverage-incomplete",
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -10658,7 +10772,7 @@
             "schoolId": "iowa-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-14T21:40:22.999Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -10681,7 +10795,7 @@
             "schoolId": "iowa-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-14T21:40:22.999Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -10704,7 +10818,7 @@
             "schoolId": "iowa-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/iowa-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-14T21:40:22.999Z"
+            "updatedAt": "2026-10-15T16:59:36.744Z"
           }
         ]
       }
@@ -10713,7 +10827,7 @@
       "sponsored": false,
       "news": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -10723,7 +10837,7 @@
       },
       "schedule": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -10732,7 +10846,7 @@
       },
       "roster": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -10741,7 +10855,7 @@
       },
       "recruitingAnnouncements": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -10750,7 +10864,7 @@
       },
       "recruitingBoard": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -10759,7 +10873,7 @@
       },
       "recruitingOffers": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastAttemptAt": "2026-10-15T16:59:36.744Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
