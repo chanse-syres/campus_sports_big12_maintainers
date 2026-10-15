@@ -6,14 +6,14 @@
     "name": "Oklahoma State",
     "athleticsUrl": "https://okstate.com"
   },
-  "generatedAt": "2026-10-15T04:37:11.729Z",
+  "generatedAt": "2026-10-15T11:27:11.560Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/football/archives",
         "season": null,
         "reason": null,
@@ -3267,48 +3267,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://okstate.com/sports/football/archives",
             "reason": null,
             "recordCount": 67
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 8
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 36
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 180
@@ -3317,8 +3317,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/schedule",
         "season": "2026",
         "reason": null,
@@ -3471,8 +3471,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -4516,25 +4516,302 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
         "records": []
       },
       "recruitingBoard": {
-        "status": "empty",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
-        "records": []
+        "records": [
+          {
+            "profileUrl": "https://247sports.com/Player/israel-hammons-46164012/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/447/635/13635447.jpg?width=70&fit=crop",
+            "schoolName": "Choctaw",
+            "hometown": "Choctaw, OK",
+            "rating": 91,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 160,
+            "positionRank": 11,
+            "stateRank": 6,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "9fa7d4e5b9219ba068902c43",
+            "name": "Israel Hammons",
+            "classYear": 2027,
+            "position": "LB",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/odaefe-oruru-46153832/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/387/53/13053387.jpg?width=70&fit=crop",
+            "schoolName": "Jenks",
+            "hometown": "Jenks, OK",
+            "rating": 90,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": null,
+            "positionRank": 22,
+            "stateRank": 8,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "91bb26b788c0c3f070d2b5ff",
+            "name": "Odaefe Oruru",
+            "classYear": 2027,
+            "position": "IOL",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/carson-white-46143662/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/155/658/13658155.jpg?width=70&fit=crop",
+            "schoolName": "Fort Bend Hightower",
+            "hometown": "Missouri City, TX",
+            "rating": 89,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 23,
+            "stateRank": 48,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "b62f722567805eda095b0128",
+            "name": "Carson White",
+            "classYear": 2027,
+            "position": "QB",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/tj-lewis-46155479/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/827/633/13633827.jpg?width=70&fit=crop",
+            "schoolName": "Bolingbrook",
+            "hometown": "Bolingbrook, IL",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 75,
+            "stateRank": 32,
+            "rankingState": "IL",
+            "rankingGroup": "HighSchool",
+            "id": "533f7d055c54480962134262",
+            "name": "TJ Lewis",
+            "classYear": 2027,
+            "position": "RB",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/chayce-davis-46165163/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/133/608/13608133.jpg?width=70&fit=crop",
+            "schoolName": "Trinity",
+            "hometown": "Euless, TX",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 98,
+            "stateRank": 119,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "9681ae126cb0f2ead2f6aaf0",
+            "name": "Chayce Davis",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/talan-scott-46156636/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/577/945/13945577.jpg?width=70&fit=crop",
+            "schoolName": "American Leadership Academy",
+            "hometown": "Queen Creek, AZ",
+            "rating": 87,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 47,
+            "stateRank": 22,
+            "rankingState": "AZ",
+            "rankingGroup": "HighSchool",
+            "id": "5e9d2b81e5c9ab103896cab0",
+            "name": "Talan Scott",
+            "classYear": 2027,
+            "position": "TE",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jayden-vessell-46166423/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/634/181/14181634.jpg?width=70&fit=crop",
+            "schoolName": "Baton Rouge Catholic",
+            "hometown": "Baton Rouge, LA",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 103,
+            "stateRank": 47,
+            "rankingState": "LA",
+            "rankingGroup": "HighSchool",
+            "id": "b6780c0d2458a2b21c201ca1",
+            "name": "Jayden Vessell",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/sonny-mullen-46166839/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/570/835/13835570.jpg?width=70&fit=crop",
+            "schoolName": "Troy",
+            "hometown": "Troy, TX",
+            "rating": 86,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 110,
+            "stateRank": 180,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "28f1323ade695387f9c470e1",
+            "name": "Sonny Mullen",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/ake-oneal-46165182/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/764/929/13929764.jpg?width=70&fit=crop",
+            "schoolName": "Argyle",
+            "hometown": "Argyle, TX",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 200,
+            "stateRank": 191,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "d0ca86e43193cc2e118eaeb6",
+            "name": "Ake O'Neal",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/jake-baker-46159186/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/528/5/14005528.jpg?width=70&fit=crop",
+            "schoolName": "Ensworth",
+            "hometown": "Nashville, TN",
+            "rating": 85,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 129,
+            "stateRank": 59,
+            "rankingState": "TN",
+            "rankingGroup": "HighSchool",
+            "id": "f0fabd4856de87428deb1ab2",
+            "name": "Jake Baker",
+            "classYear": 2027,
+            "position": "OT",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/cooper-hooker-46159545/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/502/867/13867502.jpg?width=70&fit=crop",
+            "schoolName": "Pryor",
+            "hometown": "Quapaw, OK",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 228,
+            "stateRank": 23,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "ef35597051f8b334f63606ab",
+            "name": "Cooper Hooker",
+            "classYear": 2027,
+            "position": "WR",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/bryson-brown-46142677/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/509/56/13056509.jpg?width=70&fit=crop",
+            "schoolName": "Broken Arrow",
+            "hometown": "Broken Arrow, OK",
+            "rating": 84,
+            "ratingSystem": "247sports",
+            "stars": 3,
+            "nationalRank": null,
+            "positionRank": 179,
+            "stateRank": 24,
+            "rankingState": "OK",
+            "rankingGroup": "HighSchool",
+            "id": "c63ea25281b7408d44a8bc04",
+            "name": "Bryson Brown",
+            "classYear": 2027,
+            "position": "S",
+            "status": "committed",
+            "schoolId": "oklahoma-state",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
+            "updatedAt": "2026-10-15T11:27:11.560Z"
+          }
+        ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
         "lastSuccessAt": "2026-10-14T21:40:22.999Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/offers/",
         "season": "2027",
@@ -10780,8 +11057,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -11340,48 +11617,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 35
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 15
@@ -11390,8 +11667,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/197/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11399,8 +11676,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/197/roster",
         "season": "2026-27",
         "reason": null,
@@ -11544,8 +11821,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11576,8 +11853,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -11603,14 +11880,14 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/commits/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -11636,7 +11913,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antonio-pemberton-46154479/",
@@ -11659,7 +11936,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-gordon-46154705/",
@@ -11682,7 +11959,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyrone-jamison-jr-46144007/",
@@ -11705,7 +11982,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -11728,7 +12005,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jlon-lyons-46151694/",
@@ -11751,7 +12028,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-gardner-jr-46151451/",
@@ -11774,7 +12051,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-richardson-46153743/",
@@ -11797,7 +12074,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyson-pogi-46146931/",
@@ -11820,7 +12097,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-williams-46159734/",
@@ -11843,7 +12120,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dooney-johnson-46151497/",
@@ -11866,7 +12143,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/markus-kerr-46143852/",
@@ -11889,7 +12166,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lyris-robinson-46152078/",
@@ -11912,7 +12189,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mekhi-robertson-46154797/",
@@ -11935,7 +12212,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/andrew-ross-46159069/",
@@ -11958,7 +12235,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jahari-miller-46159052/",
@@ -11981,7 +12258,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kavian-bryant-46145096/",
@@ -12004,7 +12281,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarcus-henry-46153135/",
@@ -12027,7 +12304,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-page-46146143/",
@@ -12050,7 +12327,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/moussa-kamissoko-46151696/",
@@ -12073,7 +12350,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -12096,7 +12373,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -12119,7 +12396,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dylan-jones-46158933/",
@@ -12142,7 +12419,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-rachal-46167251/",
@@ -12165,7 +12442,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/howard-williams-46149215/",
@@ -12188,7 +12465,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/baboucarr-ann-46159840/",
@@ -12211,7 +12488,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-white-46136694/",
@@ -12234,7 +12511,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jacoby-briscoe-46151485/",
@@ -12257,7 +12534,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/munir-greig-46142869/",
@@ -12280,7 +12557,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/victor-aborowa-46163688/",
@@ -12303,7 +12580,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kmajay-jenkins-46154485/",
@@ -12326,7 +12603,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -12349,7 +12626,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-green-46146668/",
@@ -12372,7 +12649,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-jenkins-46147866/",
@@ -12395,7 +12672,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-woodard-46149497/",
@@ -12418,7 +12695,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cameron-barnes-46142932/",
@@ -12441,7 +12718,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godson-okokoh-46152897/",
@@ -12464,7 +12741,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-rivera-46152367/",
@@ -12487,7 +12764,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nate-blenman-46161591/",
@@ -12510,7 +12787,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaydn-jenkins-46146653/",
@@ -12533,7 +12810,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derek-daniels-46152458/",
@@ -12556,7 +12833,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/david-baliraine-46152891/",
@@ -12579,7 +12856,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-pittman-46169054/",
@@ -12602,7 +12879,7 @@
             "schoolId": "oklahoma-state",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           }
         ]
       }
@@ -12611,8 +12888,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -13017,40 +13294,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 36
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13059,8 +13336,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/197/schedule",
         "season": "2026-27",
         "reason": null,
@@ -13453,8 +13730,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/197/roster",
         "season": "2026-27",
         "reason": null,
@@ -13571,8 +13848,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13614,8 +13891,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -13623,8 +13900,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -13650,7 +13927,7 @@
             "schoolId": "oklahoma-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -13673,7 +13950,7 @@
             "schoolId": "oklahoma-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -13696,7 +13973,7 @@
             "schoolId": "oklahoma-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -13719,7 +13996,7 @@
             "schoolId": "oklahoma-state",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           }
         ]
       }
@@ -13728,8 +14005,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -14112,32 +14389,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://okstate.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-            "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+            "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+            "lastSuccessAt": "2026-10-15T11:27:11.560Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
@@ -14146,8 +14423,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/110/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14888,7 +15165,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/110/roster",
         "season": null,
@@ -14897,8 +15174,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://okstate.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14906,8 +15183,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
-        "lastSuccessAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
+        "lastSuccessAt": "2026-10-15T11:27:11.560Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14933,7 +15210,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=820493",
@@ -14956,7 +15233,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=915583",
@@ -14979,7 +15256,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=900440",
@@ -15002,7 +15279,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=846804",
@@ -15025,7 +15302,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1112711",
@@ -15048,7 +15325,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=881782",
@@ -15071,7 +15348,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=829686",
@@ -15094,7 +15371,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=820495",
@@ -15117,7 +15394,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=855576",
@@ -15140,7 +15417,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=760124",
@@ -15163,13 +15440,13 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-10-15T04:37:11.729Z"
+            "updatedAt": "2026-10-15T11:27:11.560Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-15T04:37:11.729Z",
+        "lastAttemptAt": "2026-10-15T11:27:11.560Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
