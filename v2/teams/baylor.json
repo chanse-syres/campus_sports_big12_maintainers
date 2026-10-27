@@ -6,18 +6,40 @@
     "name": "Baylor",
     "athleticsUrl": "https://baylorbears.com"
   },
-  "generatedAt": "2026-10-26T22:39:21.410Z",
+  "generatedAt": "2026-10-27T05:02:41.827Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "30dddf81e8eab537c7b7f25e",
+            "title": "Robert Griffin III says he is '100 percent' interested in Baylor coaching job",
+            "url": "https://www.espn.com/college-football/story/_/id/50292059/robert-griffin-iii-says-wants-become-baylor-coach",
+            "publishedAt": "2026-10-27T00:30:53.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://a.espncdn.com/photo/2017/0505/r206940_2_1296x729_16-9.jpg",
+            "imageAlt": "Robert Griffin III",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100"
+          },
+          {
+            "id": "1e21f6e4412a49acb358ce32",
+            "title": "Baylor Football Stock Up, Stock Down After Program-Altering Loss to Kansas",
+            "url": "https://www.si.com/college/baylor/football/baylor-football-stock-up-stock-down-after-program-altering-loss-to-kansas",
+            "publishedAt": "2026-10-26T23:30:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4341,h_2441,x_0,y_317/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/inside_the_bears/01m5wvz4cddy45npbc9h.jpg",
+            "imageAlt": "Oct 24, 2026; Lawrence, Kansas, USA; Kansas Jayhawks quarterback Isaiah Marshall (8) dives for a touchdown against Baylor Bears safety Devin Turner (11) and safety Bo Onu (21) during the second half at David Booth Kansas Memorial Stadium. Mandatory Credit: Jay Biggerstaff-Imagn Images | IMAGN IMAGES",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/baylor/feed"
+          },
           {
             "id": "84ce8c17670e2362cba2de15",
             "title": "Baylor Legend Wants to Replace Dave Aranda: Is He Ready?",
@@ -157,6 +179,17 @@
             "publishedAt": "2026-10-26T00:00:00.000Z",
             "publishedAtPrecision": "day",
             "imageUrl": "https://baylorbears.com/images/2026/2/16/20260215_Baylor_Athletics_From_the_Desk_of_the_AD.jpeg",
+            "imageAlt": null,
+            "publisher": "Baylor Athletics",
+            "discoverySourceUrl": "https://baylorbears.com/sports/football/archives"
+          },
+          {
+            "id": "ce552bfd657c719cedb1f91c",
+            "title": "JOLT OF ENERGY",
+            "url": "https://baylorbears.com/news/2026/10/26/football-jolt-of-energy",
+            "publishedAt": "2026-10-26T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://baylorbears.com/images/2026/10/26/JoeKWhistle.jpg",
             "imageAlt": null,
             "publisher": "Baylor Athletics",
             "discoverySourceUrl": "https://baylorbears.com/sports/football/archives"
@@ -4708,56 +4741,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorbears.com/sports/football/archives",
             "reason": null,
-            "recordCount": 76
+            "recordCount": 77
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 7
+            "recordCount": 8
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 39
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.si.com/college/baylor/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 253
+            "recordCount": 254
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorlariat.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 46
@@ -4766,8 +4799,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/239/schedule",
         "season": "2026",
         "reason": null,
@@ -4920,8 +4953,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/239/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -5938,8 +5971,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -5947,8 +5980,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -5974,7 +6007,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-babin-46145533/",
@@ -5997,7 +6030,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josiah-morgan-46164724/",
@@ -6020,7 +6053,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davontrae-kirkland-46138988/",
@@ -6043,7 +6076,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-fleming-46155584/",
@@ -6066,7 +6099,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trenton-mccorvey-46149638/",
@@ -6089,7 +6122,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/devin-watkins-46166796/",
@@ -6112,7 +6145,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryson-brown-46164717/",
@@ -6135,7 +6168,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cadriann-olds-46165288/",
@@ -6158,7 +6191,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-johnson-46168547/",
@@ -6181,7 +6214,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/hudson-whitenight-46152665/",
@@ -6204,7 +6237,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-allen-46165086/",
@@ -6227,7 +6260,7 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jake-venuto-46168424/",
@@ -6250,13 +6283,13 @@
             "schoolId": "baylor",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
         "lastSuccessAt": "2026-10-26T12:59:58.579Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-football/offers/",
         "season": "2027",
@@ -11766,8 +11799,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -12403,56 +12436,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorbears.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 37
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.si.com/college/baylor/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorlariat.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 6
@@ -12461,8 +12494,8 @@
       },
       "schedule": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/239/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12470,8 +12503,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/239/roster",
         "season": "2026-27",
         "reason": null,
@@ -12615,8 +12648,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12669,8 +12702,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -12696,14 +12729,14 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -12729,7 +12762,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyrone-jamison-jr-46144007/",
@@ -12752,7 +12785,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kaleb-edouard-46168936/",
@@ -12775,7 +12808,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-page-46146143/",
@@ -12798,7 +12831,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/navorro-bowman-jr-46154243/",
@@ -12821,7 +12854,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-gibson-46144397/",
@@ -12844,7 +12877,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -12867,7 +12900,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jakyi-miles-46159749/",
@@ -12890,7 +12923,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/moussa-kamissoko-46151696/",
@@ -12913,7 +12946,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -12936,7 +12969,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-jordan-46146933/",
@@ -12959,7 +12992,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gene-roebuck-46146144/",
@@ -12982,7 +13015,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -13005,7 +13038,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lewis-uvwo-46165178/",
@@ -13028,7 +13061,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/darius-wabbington-46143727/",
@@ -13051,7 +13084,7 @@
             "schoolId": "baylor",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       }
@@ -13060,8 +13093,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -13554,48 +13587,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorbears.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 37
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.si.com/college/baylor/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorlariat.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -13604,8 +13637,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/239/schedule",
         "season": "2026-27",
         "reason": null,
@@ -13974,8 +14007,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/239/roster",
         "season": "2026-27",
         "reason": null,
@@ -14092,8 +14125,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14135,8 +14168,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -14162,7 +14195,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ogechi-okeke-46160288/",
@@ -14185,14 +14218,14 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/commits/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -14218,7 +14251,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/taylor-brown-46159304/",
@@ -14241,7 +14274,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/sydney-savoury-46159293/",
@@ -14264,7 +14297,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/avery-arije-46158550/",
@@ -14287,7 +14320,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deandra-minor-46152775/",
@@ -14310,7 +14343,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gg-banks-46152815/",
@@ -14333,7 +14366,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jessie-moses-46152770/",
@@ -14356,7 +14389,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordyn-palmer-46152768/",
@@ -14379,7 +14412,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/micah-ojo-46152779/",
@@ -14402,7 +14435,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jemini-mitchell-46152804/",
@@ -14425,7 +14458,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -14448,7 +14481,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kieaundria-acree-46152771/",
@@ -14471,7 +14504,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lauren-hassell-46152816/",
@@ -14494,7 +14527,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/miciah-fusilier-46152781/",
@@ -14517,7 +14550,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nakhai-worthy-46159298/",
@@ -14540,7 +14573,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -14563,7 +14596,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ogechi-okeke-46160288/",
@@ -14586,7 +14619,7 @@
             "schoolId": "baylor",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/baylor/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       }
@@ -14595,8 +14628,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -15001,40 +15034,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorbears.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://www.si.com/college/baylor/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-            "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+            "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+            "lastSuccessAt": "2026-10-27T05:02:41.827Z",
             "sourceUrl": "https://baylorlariat.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -15043,8 +15076,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/121/schedule",
         "season": "2025-26",
         "reason": null,
@@ -15725,7 +15758,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/121/roster",
         "season": null,
@@ -15734,8 +15767,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://baylorbears.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -15743,8 +15776,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
-        "lastSuccessAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
+        "lastSuccessAt": "2026-10-27T05:02:41.827Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -15770,7 +15803,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=858873",
@@ -15793,7 +15826,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=832586",
@@ -15816,7 +15849,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=843937",
@@ -15839,7 +15872,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=580687",
@@ -15862,7 +15895,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=757547",
@@ -15885,7 +15918,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=793603",
@@ -15908,7 +15941,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1454146",
@@ -15931,7 +15964,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=749334",
@@ -15954,7 +15987,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=907611",
@@ -15977,7 +16010,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=600678",
@@ -16000,7 +16033,7 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=710891",
@@ -16023,13 +16056,13 @@
             "schoolId": "baylor",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1569&grad=2027",
-            "updatedAt": "2026-10-26T22:39:21.410Z"
+            "updatedAt": "2026-10-27T05:02:41.827Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-10-26T22:39:21.410Z",
+        "lastAttemptAt": "2026-10-27T05:02:41.827Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
