@@ -6,18 +6,40 @@
     "name": "Cincinnati",
     "athleticsUrl": "https://gobearcats.com"
   },
-  "generatedAt": "2026-11-01T13:21:58.398Z",
+  "generatedAt": "2026-11-01T22:00:21.142Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
         "lastSuccessAt": "2026-11-01T13:21:58.398Z",
         "sourceUrl": "https://gobearcats.com/sports/football/news",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "22c4a536206aaee2c7666c59",
+            "title": "Big 12 Football Week 9: The Good, Bad and Ugly",
+            "url": "https://www.heartlandcollegesports.com/2026/11/01/big-12-football-week-9-the-good-bad-and-ugly/",
+            "publishedAt": "2026-11-01T18:17:38.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/Good-Bad-Ugly-2026-Logo-150x150.jpg",
+            "imageAlt": "Good Bad Ugly 2026 Logo",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "8e5b25cc938bf962ec1bc190",
+            "title": "Cincinnati Football’s Week 10 Matchup at Houston Set for 3:30 p.m. ET Kickoff",
+            "url": "https://gobearcats.com/news/2026/11/01/cincinnati-footballs-week-10-matchup-at-houston-set-for-330-pm-et-kickoff",
+            "publishedAt": "2026-11-01T14:11:54.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://gobearcats.com/imgproxy/OecIJhHhgOOuNbDrTEN551rckhtoP0ziR5n-wOSk-UE/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvYmVhcmNhdHMtY29tLXByb2QvMjAyNi8xMC8yNC93SGNzbmdGMXFpaUV2aDR1ZzVGSVFyY2syaGF0cGhRNW9VQ3puSktxLmpwZw.jpg",
+            "imageAlt": null,
+            "publisher": "Cincinnati Athletics",
+            "discoverySourceUrl": "https://gobearcats.com/sports/football/news"
+          },
           {
             "id": "464bd8c401f6f7e12cb728cc",
             "title": "5 Biggest Big 12 Football Takeaways From Week 9",
@@ -1925,48 +1947,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://gobearcats.com/sports/football/news",
             "reason": null,
-            "recordCount": 47
+            "recordCount": 48
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
             "lastSuccessAt": "2026-11-01T13:21:58.398Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "source-format-changed",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 45
+            "recordCount": 46
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 76
@@ -1975,8 +1997,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/schedule",
         "season": "2026",
         "reason": null,
@@ -2079,7 +2101,7 @@
           },
           {
             "id": "401856851",
-            "date": "2026-11-07T05:00:00.000Z",
+            "date": "2026-11-07T20:30:00.000Z",
             "name": "Cincinnati Bearcats at Houston Cougars",
             "status": "Scheduled",
             "venue": "TDECU Stadium",
@@ -2129,8 +2151,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3147,8 +3169,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3156,8 +3178,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -3183,7 +3205,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jt-austin-46150484/",
@@ -3206,7 +3228,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maalik-moore-46153004/",
@@ -3229,7 +3251,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zycorius-huzzie-46159696/",
@@ -3252,7 +3274,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/roman-coney-46157710/",
@@ -3275,7 +3297,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-massie-cable-46161234/",
@@ -3298,7 +3320,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-johnson-46165566/",
@@ -3321,7 +3343,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyron-turner-46167372/",
@@ -3344,7 +3366,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/john-amofah-jr-46162577/",
@@ -3367,7 +3389,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/preston-beckham-46161033/",
@@ -3390,7 +3412,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-jones-46159324/",
@@ -3413,7 +3435,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zayvion-smith-46159818/",
@@ -3436,7 +3458,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/matthew-buckeridge-46167311/",
@@ -3459,7 +3481,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/noah-willis-46166432/",
@@ -3482,7 +3504,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryinn-fox-46163212/",
@@ -3505,7 +3527,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/camden-hughes-46154779/",
@@ -3528,7 +3550,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-webb-46158710/",
@@ -3551,7 +3573,7 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/decaleb-green-46162109/",
@@ -3574,13 +3596,36 @@
             "schoolId": "cincinnati",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/kamdyn-stringer-46171014/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/578/604/14604578.png?width=70&fit=crop",
+            "schoolName": "Bob Jones",
+            "hometown": "Madison, AL",
+            "rating": null,
+            "ratingSystem": "247sports",
+            "stars": null,
+            "nationalRank": null,
+            "positionRank": null,
+            "stateRank": null,
+            "rankingState": "AL",
+            "rankingGroup": "HighSchool",
+            "id": "74682e67c2a3563833c98893",
+            "name": "Kamdyn Stringer",
+            "classYear": 2027,
+            "position": "Edge",
+            "status": "committed",
+            "schoolId": "cincinnati",
+            "sport": "football",
+            "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
         "lastSuccessAt": "2026-10-31T21:32:04.065Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/offers/",
         "season": "2027",
@@ -9964,8 +10009,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
         "season": null,
         "reason": null,
@@ -10909,48 +10954,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 35
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 44
@@ -10959,8 +11004,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2132/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11353,8 +11398,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2132/roster",
         "season": "2026-27",
         "reason": null,
@@ -11498,8 +11543,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11507,8 +11552,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -11534,7 +11579,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-mercer-46152947/",
@@ -11557,14 +11602,14 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/commits/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -11590,7 +11635,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cayden-daughtry-46142503/",
@@ -11613,7 +11658,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nasir-anderson-46148955/",
@@ -11636,7 +11681,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antonio-pemberton-46154479/",
@@ -11659,7 +11704,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kevin-savage-46143332/",
@@ -11682,7 +11727,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyrone-jamison-jr-46144007/",
@@ -11705,7 +11750,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/payton-jones-46158895/",
@@ -11728,7 +11773,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jlon-lyons-46151694/",
@@ -11751,7 +11796,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-britt-jr-46151000/",
@@ -11774,7 +11819,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jason-gardner-jr-46151451/",
@@ -11797,7 +11842,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chase-lumpkin-46157657/",
@@ -11820,7 +11865,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dooney-johnson-46151497/",
@@ -11843,7 +11888,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jarvis-hayes-jr-46150207/",
@@ -11866,7 +11911,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kameron-mercer-46152947/",
@@ -11889,7 +11934,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/brandon-mason-jr-46153127/",
@@ -11912,7 +11957,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-mack-russell-46158608/",
@@ -11935,7 +11980,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/bryce-curry-46158909/",
@@ -11958,7 +12003,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/king-gibson-46144397/",
@@ -11981,7 +12026,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/joshua-tyson-46158369/",
@@ -12004,7 +12049,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/oneal-delancy-46152898/",
@@ -12027,7 +12072,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tre-keith-46148952/",
@@ -12050,7 +12095,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/justin-wise-46150787/",
@@ -12073,7 +12118,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/shawn-foster-46151260/",
@@ -12096,7 +12141,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarcus-henry-46153135/",
@@ -12119,7 +12164,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-williams-46157913/",
@@ -12142,7 +12187,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/moussa-kamissoko-46151696/",
@@ -12165,7 +12210,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -12188,7 +12233,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/josh-leonard-46149468/",
@@ -12211,7 +12256,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gene-roebuck-46146144/",
@@ -12234,7 +12279,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/carson-crawford-46151515/",
@@ -12257,7 +12302,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/marri-wesley-46148850/",
@@ -12280,7 +12325,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-rosser-46151476/",
@@ -12303,7 +12348,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmed-nur-46158298/",
@@ -12326,7 +12371,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godson-okokoh-46152897/",
@@ -12349,7 +12394,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/davis-cochran-46160637/",
@@ -12372,7 +12417,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lewis-uvwo-46165178/",
@@ -12395,7 +12440,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -12418,7 +12463,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/isaiah-hill-46151693/",
@@ -12441,7 +12486,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tyran-frazier-46151520/",
@@ -12464,7 +12509,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/charles-pur-46159674/",
@@ -12487,7 +12532,7 @@
             "schoolId": "cincinnati",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           }
         ]
       }
@@ -12496,8 +12541,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
@@ -12737,40 +12782,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
             "reason": null,
             "recordCount": 20
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -12779,8 +12824,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2132/schedule",
         "season": "2026-27",
         "reason": null,
@@ -13161,8 +13206,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2132/roster",
         "season": "2026-27",
         "reason": null,
@@ -13306,8 +13351,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13349,8 +13394,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -13358,8 +13403,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -13385,7 +13430,7 @@
             "schoolId": "cincinnati",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           }
         ]
       }
@@ -13394,8 +13439,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -13679,32 +13724,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://gobearcats.com/sports/baseball/news",
             "reason": null,
             "recordCount": 25
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-            "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+            "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+            "lastSuccessAt": "2026-11-01T22:00:21.142Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13713,8 +13758,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/161/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14455,7 +14500,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/161/roster",
         "season": null,
@@ -14464,8 +14509,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://gobearcats.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14485,8 +14530,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
-        "lastSuccessAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
+        "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14512,7 +14557,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=868445",
@@ -14535,7 +14580,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1334754",
@@ -14558,7 +14603,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=962986",
@@ -14581,7 +14626,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1456755",
@@ -14604,7 +14649,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1648634",
@@ -14627,7 +14672,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1623615",
@@ -14650,7 +14695,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=891429",
@@ -14673,7 +14718,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1425413",
@@ -14696,7 +14741,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1212009",
@@ -14719,7 +14764,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1104351",
@@ -14742,7 +14787,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1456751",
@@ -14765,7 +14810,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1140510",
@@ -14788,13 +14833,13 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-01T13:21:58.398Z"
+            "updatedAt": "2026-11-01T22:00:21.142Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-01T13:21:58.398Z",
+        "lastAttemptAt": "2026-11-01T22:00:21.142Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
