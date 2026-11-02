@@ -6,18 +6,29 @@
     "name": "Kansas",
     "athleticsUrl": "https://kuathletics.com"
   },
-  "generatedAt": "2026-11-02T05:59:38.767Z",
+  "generatedAt": "2026-11-02T15:48:55.477Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
         "lastSuccessAt": "2026-11-01T13:21:58.398Z",
         "sourceUrl": "https://kuathletics.com/sports/football/archives",
         "season": null,
         "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "7a9e9ce06f1b0f9ad61f4265",
+            "title": "Evaluating the Sequence That Ultimately Doomed Kansas Football vs. TCU",
+            "url": "https://www.si.com/college/kansas/football/evaluating-the-sequence-that-ultimately-doomed-kansas-football-vs-tcu",
+            "publishedAt": "2026-11-02T12:00:06.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4616,h_2596,x_0,y_145/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/blue_wings_rising/01m6dchnyjdedbymbz9v.jpg",
+            "imageAlt": "Kansas Jayhawks head coach Lance Leipold puts his headset on during the game against Middle Tennessee Blue Raiders inside David Booth Kansas Memorial Stadium on October 3, 2026. | USA TODAY Network via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/kansas/feed"
+          },
           {
             "id": "21b6100e9616caf2e2acfa3a",
             "title": "Big 12 Football Week 9: The Good, Bad and Ugly",
@@ -2739,15 +2750,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://kuathletics.com/sports/football/archives",
             "reason": null,
             "recordCount": 54
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
             "lastSuccessAt": "2026-11-01T13:21:58.398Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "source-format-changed",
@@ -2755,40 +2766,40 @@
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 48
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.si.com/college/kansas/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 115
+            "recordCount": 116
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.rockchalktalk.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 24
@@ -2797,8 +2808,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2305/schedule",
         "season": "2026",
         "reason": null,
@@ -2951,8 +2962,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2305/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -4005,8 +4016,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4014,8 +4025,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -4041,7 +4052,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamarquis-hudson-46155783/",
@@ -4064,7 +4075,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/clarence-johnson-jr-46163112/",
@@ -4087,7 +4098,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/chance-thomas-46143322/",
@@ -4110,7 +4121,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/deng-tong-46159799/",
@@ -4133,7 +4144,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/braiden-graves-46157607/",
@@ -4156,7 +4167,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/derek-gonzalez-46160850/",
@@ -4179,7 +4190,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/quentin-dorsey-46162292/",
@@ -4202,7 +4213,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maliek-brown-46158921/",
@@ -4225,7 +4236,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tavares-powell-46158784/",
@@ -4248,7 +4259,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/luke-gazzaniga-46156782/",
@@ -4271,7 +4282,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/trey-stewart-46154916/",
@@ -4294,7 +4305,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/richie-dexter-46161467/",
@@ -4317,7 +4328,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/elliott-neff-46156396/",
@@ -4340,7 +4351,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nick-vecrumba-46155677/",
@@ -4363,7 +4374,7 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jay-williams-46158656/",
@@ -4386,17 +4397,17 @@
             "schoolId": "kansas",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           }
         ]
       },
       "recruitingOffers": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
         "lastSuccessAt": "2026-11-02T05:59:38.767Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-football/offers/",
         "season": "2027",
-        "reason": null,
+        "reason": "source-format-changed",
         "records": [
           {
             "profileUrl": "https://247sports.com/Player/trae-taylor-46134912/",
@@ -11834,8 +11845,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -13912,56 +13923,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://kuathletics.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 49
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.si.com/college/kansas/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 100
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.rockchalktalk.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 15
@@ -13970,8 +13981,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2305/schedule",
         "season": "2026-27",
         "reason": null,
@@ -14340,8 +14351,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2305/roster",
         "season": "2026-27",
         "reason": null,
@@ -14352,7 +14363,7 @@
             "position": "F",
             "jersey": "25",
             "year": "Freshman",
-            "imageUrl": null,
+            "imageUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5210400.png",
             "url": "https://www.espn.com/mens-college-basketball/player/_/id/5210400/davion-adkins"
           },
           {
@@ -14397,7 +14408,7 @@
             "position": "G",
             "jersey": "0",
             "year": "Freshman",
-            "imageUrl": null,
+            "imageUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144479.png",
             "url": "https://www.espn.com/mens-college-basketball/player/_/id/5144479/taylen-kinney"
           },
           {
@@ -14485,8 +14496,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14572,8 +14583,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -14581,8 +14592,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -14608,7 +14619,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/nasir-anderson-46148955/",
@@ -14631,7 +14642,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/reese-alston-46151465/",
@@ -14654,7 +14665,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/antonio-pemberton-46154479/",
@@ -14664,7 +14675,7 @@
             "rating": 97,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 20,
+            "nationalRank": 21,
             "positionRank": 5,
             "stateRank": 1,
             "rankingState": "MA",
@@ -14677,7 +14688,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aaron-britt-jr-46151000/",
@@ -14687,7 +14698,7 @@
             "rating": 91,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 53,
+            "nationalRank": 54,
             "positionRank": 13,
             "stateRank": 11,
             "rankingState": "FL",
@@ -14700,7 +14711,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adan-diggs-46150995/",
@@ -14723,7 +14734,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jordan-page-46146143/",
@@ -14746,7 +14757,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/navorro-bowman-jr-46154243/",
@@ -14769,7 +14780,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-davis-46148123/",
@@ -14792,7 +14803,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jakyi-miles-46159749/",
@@ -14802,7 +14813,7 @@
             "rating": 92,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 48,
+            "nationalRank": 49,
             "positionRank": 13,
             "stateRank": 7,
             "rankingState": "AZ",
@@ -14815,7 +14826,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarcus-henry-46153135/",
@@ -14838,7 +14849,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-williams-46157913/",
@@ -14861,7 +14872,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-hampton-46144597/",
@@ -14871,9 +14882,9 @@
             "rating": 97,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 21,
+            "nationalRank": 22,
             "positionRank": 6,
-            "stateRank": 2,
+            "stateRank": 3,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "b400afc305e0c9e21a80588c",
@@ -14884,7 +14895,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-jordan-46146933/",
@@ -14894,7 +14905,7 @@
             "rating": 97,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 23,
+            "nationalRank": 24,
             "positionRank": 7,
             "stateRank": 7,
             "rankingState": "FL",
@@ -14907,7 +14918,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/gene-roebuck-46146144/",
@@ -14917,7 +14928,7 @@
             "rating": 92,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 46,
+            "nationalRank": 47,
             "positionRank": 9,
             "stateRank": 3,
             "rankingState": "CA",
@@ -14930,7 +14941,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-rosser-46151476/",
@@ -14953,7 +14964,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/dawson-battie-46144406/",
@@ -14963,9 +14974,9 @@
             "rating": 95,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 25,
+            "nationalRank": 26,
             "positionRank": 4,
-            "stateRank": 3,
+            "stateRank": 4,
             "rankingState": "TX",
             "rankingGroup": "HighSchool",
             "id": "4e039b0ed04a8ec3a7b73030",
@@ -14976,7 +14987,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmed-nur-46158298/",
@@ -14986,7 +14997,7 @@
             "rating": 93,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 32,
+            "nationalRank": 33,
             "positionRank": 6,
             "stateRank": 5,
             "rankingState": "AZ",
@@ -14999,7 +15010,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/zion-green-46146668/",
@@ -15009,7 +15020,7 @@
             "rating": 93,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 36,
+            "nationalRank": 37,
             "positionRank": 7,
             "stateRank": 6,
             "rankingState": "AZ",
@@ -15022,7 +15033,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-jenkins-46147866/",
@@ -15032,7 +15043,7 @@
             "rating": 90,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 76,
+            "nationalRank": 77,
             "positionRank": 13,
             "stateRank": 14,
             "rankingState": "FL",
@@ -15045,7 +15056,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/godson-okokoh-46152897/",
@@ -15055,7 +15066,7 @@
             "rating": 90,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 105,
+            "nationalRank": 106,
             "positionRank": 21,
             "stateRank": 11,
             "rankingState": "AZ",
@@ -15068,7 +15079,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jamaal-ali-46170098/",
@@ -15091,7 +15102,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lewis-uvwo-46165178/",
@@ -15114,7 +15125,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -15137,7 +15148,30 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
+          },
+          {
+            "profileUrl": "https://247sports.com/Player/xavier-young-46152862/",
+            "imageUrl": "https://s3media.247sports.com/Uploads/Assets/361/4/14004361.jpeg?width=70&fit=crop",
+            "schoolName": "Faith Family Academy of Oak Cliff",
+            "hometown": "Dallas, TX",
+            "rating": 97,
+            "ratingSystem": "247sports",
+            "stars": 4,
+            "nationalRank": 19,
+            "positionRank": 4,
+            "stateRank": 2,
+            "rankingState": "TX",
+            "rankingGroup": "HighSchool",
+            "id": "b1deb8753dce18731f512ae3",
+            "name": "Xavier Young",
+            "classYear": 2027,
+            "position": "C",
+            "status": "offered",
+            "schoolId": "kansas",
+            "sport": "basketball",
+            "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/yohane-kabongo-46163291/",
@@ -15147,8 +15181,8 @@
             "rating": 90,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 97,
-            "positionRank": 11,
+            "nationalRank": 98,
+            "positionRank": 12,
             "stateRank": 21,
             "rankingState": "FL",
             "rankingGroup": "HighSchool",
@@ -15160,7 +15194,7 @@
             "schoolId": "kansas",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           }
         ]
       }
@@ -15169,8 +15203,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -15652,48 +15686,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://kuathletics.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 41
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.si.com/college/kansas/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.rockchalktalk.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -15702,8 +15736,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2305/schedule",
         "season": "2026-27",
         "reason": null,
@@ -16084,8 +16118,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2305/roster",
         "season": "2026-27",
         "reason": null,
@@ -16211,8 +16245,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -16220,8 +16254,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -16229,8 +16263,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -16256,7 +16290,7 @@
             "schoolId": "kansas",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/madi-mignery-46158984/",
@@ -16279,7 +16313,7 @@
             "schoolId": "kansas",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/mya-wilson-46164087/",
@@ -16302,7 +16336,7 @@
             "schoolId": "kansas",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/destiny-manyawu-46159295/",
@@ -16325,7 +16359,7 @@
             "schoolId": "kansas",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/eve-long-46152786/",
@@ -16348,7 +16382,7 @@
             "schoolId": "kansas",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/kansas/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           }
         ]
       }
@@ -16357,8 +16391,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -16741,40 +16775,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://kuathletics.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.si.com/college/kansas/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-            "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
             "sourceUrl": "https://www.rockchalktalk.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -16783,8 +16817,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/168/schedule",
         "season": "2025-26",
         "reason": null,
@@ -17525,7 +17559,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/168/roster",
         "season": null,
@@ -17534,8 +17568,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://kuathletics.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -17543,8 +17577,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
-        "lastSuccessAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1783&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -17570,13 +17604,13 @@
             "schoolId": "kansas",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1783&grad=2027",
-            "updatedAt": "2026-11-02T05:59:38.767Z"
+            "updatedAt": "2026-11-02T15:48:55.477Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-02T05:59:38.767Z",
+        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
