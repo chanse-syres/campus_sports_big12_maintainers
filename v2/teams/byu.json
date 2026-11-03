@@ -6,18 +6,62 @@
     "name": "BYU",
     "athleticsUrl": "https://byucougars.com"
   },
-  "generatedAt": "2026-11-02T15:48:55.477Z",
+  "generatedAt": "2026-11-03T00:57:10.986Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
         "lastSuccessAt": "2026-11-01T13:21:58.398Z",
         "sourceUrl": "https://byucougars.com/sports/football/news",
         "season": null,
         "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "f22e3d6ff2b0ceeabbc3a041",
+            "title": "Big 12 Football Power Rankings After Week 9",
+            "url": "https://www.heartlandcollegesports.com/2026/11/02/big-12-football-power-rankings-after-week-9/",
+            "publishedAt": "2026-11-02T20:05:20.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/big-12-football-power-rankings-150x150.jpg",
+            "imageAlt": "Big 12 Football Power Rankings",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "96b283da24a258e77eac31a1",
+            "title": "BYU Reveals Uniform Combination for Top 10 Showdown Against Utah",
+            "url": "https://www.si.com/college/byu/football/byu-reveals-uniform-combination-for-top-10-showdown-against-utah",
+            "publishedAt": "2026-11-02T19:06:06.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2138,h_1202,x_0,y_147/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/cougs_daily/01k7x9y4tabqadxm56h6.jpg",
+            "imageAlt": "BYU quarterback Bear Bachmeier against Utah | BYU Photo",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/byu/feed"
+          },
+          {
+            "id": "31e1b05aa8d788751447505c",
+            "title": "BYU Football Game Week 2026 — at Utah",
+            "url": "https://byucougars.com/news/2026/11/02/byu-football-game-week-2026-at-utah",
+            "publishedAt": "2026-11-02T19:02:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://byucougars.com/imgproxy/xEzHWUg_m7jC3S8Z9o4i4l_tSezriQ639XLupr7MkvQ/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2J5dWNvdWdhcnMtcHJvZC8yMDI2LzExLzAyL21jSXhQc2pPdm9Ca042Nmo4RTl2Mk9tQkFEVUdIZWZjVlhpREdndFUuanBn.jpg",
+            "imageAlt": null,
+            "publisher": "BYU Athletics",
+            "discoverySourceUrl": "https://byucougars.com/sports/football/news"
+          },
+          {
+            "id": "4cb83ac0e857d58d4f5efe7b",
+            "title": "Dunn named Big 12 Special Teams Player of the Week",
+            "url": "https://byucougars.com/news/2026/11/02/dunn-named-big-12-special-teams-player-of-the-week",
+            "publishedAt": "2026-11-02T17:59:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://byucougars.com/imgproxy/bulyjsI2oYZhY4FVCN3eaLhIXYMCGhsdBdmhLxnGh40/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2J5dWNvdWdhcnMtcHJvZC8yMDI2LzExLzAyL09LQWs0NHFUSktzenRwa1Q2azhyQnRYNjkwSUlvRFhQam5UY3JWWmouanBn.jpg",
+            "imageAlt": null,
+            "publisher": "BYU Athletics",
+            "discoverySourceUrl": "https://byucougars.com/sports/football/news"
+          },
           {
             "id": "b1e9647bf2d0e3007ad0a1fd",
             "title": "ESPN FPI Predicts BYU vs. Utah Top 10 Showdown, Updates BYU Win Total",
@@ -4752,15 +4796,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://byucougars.com/sports/football/news",
             "reason": null,
-            "recordCount": 51
+            "recordCount": 53
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
             "lastSuccessAt": "2026-11-01T13:21:58.398Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "source-format-changed",
@@ -4768,40 +4812,40 @@
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 26
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 84
+            "recordCount": 85
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/byu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 201
+            "recordCount": 202
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.vanquishthefoe.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 39
@@ -4810,8 +4854,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/252/schedule",
         "season": "2026",
         "reason": null,
@@ -4964,8 +5008,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/252/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -6045,8 +6089,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6054,8 +6098,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
         "season": "2027",
         "reason": null,
@@ -6081,7 +6125,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/blake-wong-46142252/",
@@ -6104,7 +6148,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremiah-williams-46149609/",
@@ -6127,7 +6171,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ryan-wooten-46150316/",
@@ -6150,7 +6194,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kyle-nabrotzky-46157090/",
@@ -6173,7 +6217,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/kamoni-adams-46154519/",
@@ -6196,7 +6240,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/maaimoa-havili-46167045/",
@@ -6219,7 +6263,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demichael-burks-46163851/",
@@ -6242,7 +6286,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/peyton-higginson-46149856/",
@@ -6265,7 +6309,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ezra-sanelivi-46153455/",
@@ -6288,7 +6332,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lakepa-satuala-46164145/",
@@ -6311,7 +6355,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jag-ioane-46152618/",
@@ -6334,7 +6378,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jaxson-rex-46158844/",
@@ -6357,7 +6401,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/owen-leishman-46167882/",
@@ -6380,7 +6424,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/tytan-dejong-46147761/",
@@ -6403,7 +6447,7 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/james-thorley-46168478/",
@@ -6426,13 +6470,13 @@
             "schoolId": "byu",
             "sport": "football",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-football/commits/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
         "lastSuccessAt": "2026-11-01T22:00:21.142Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-football/offers/",
         "season": "2027",
@@ -8952,12 +8996,34 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/mens-basketball/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "c7c0330a2d01fe78954ed882",
+            "title": "BYU Basketball vs Ohio State: Season Opener Preview",
+            "url": "https://www.si.com/college/byu/basketball/byu-basketball-vs-ohio-state-season-opener-preview",
+            "publishedAt": "2026-11-02T17:47:18.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4333,h_2437,x_0,y_135/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/cougs_daily/01m6ek9dg7s6bqm6cvqr.jpg",
+            "imageAlt": "Mar 7, 2026; Provo, Utah, USA; BYU Cougars guard Robert Wright III (1) controls the ball while being defended by Texas Tech Red Raiders guard Jaylen Petty (11) at Marriott Center. Mandatory Credit: Aaron Baker-Imagn Images | IMAGN IMAGES via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/byu/feed"
+          },
+          {
+            "id": "11361daf78954b548fa698dc",
+            "title": "Wright III named to Jersey Mike’s Naismith Men’s College Player of the Year Watch List",
+            "url": "https://byucougars.com/news/2026/11/02/wright-iii-named-to-jersey-mikes-naismith-mens-college-player-of-the-year-watch-list",
+            "publishedAt": "2026-11-02T17:00:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://byucougars.com/imgproxy/ij3uHLOKWF4ovo4_mOnMBAR0k10RlbA7ShmX407EL_Q/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2J5dWNvdWdhcnMtcHJvZC8yMDI2LzExLzAyL3NUUlMxRDk1OEhYQ2JmNUVkNWJRS0dSbDh6UGx2ejNXZEVVVGhMS2cuanBn.jpg",
+            "imageAlt": "Robert Wright gets past his defender.",
+            "publisher": "BYU Athletics",
+            "discoverySourceUrl": "https://byucougars.com/sports/mens-basketball/news"
+          },
           {
             "id": "b4ce04b026425ea1efd37b58",
             "title": "How to watch no. 25 BYU Basketball vs. Ohio State",
@@ -9765,56 +9831,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://byucougars.com/sports/mens-basketball/news",
             "reason": null,
-            "recordCount": 34
+            "recordCount": 35
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/byu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 16
+            "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.vanquishthefoe.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
@@ -9823,8 +9889,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/252/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10193,8 +10259,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/252/roster",
         "season": "2026-27",
         "reason": null,
@@ -10232,7 +10298,7 @@
             "position": "F",
             "jersey": "3",
             "year": "Freshman",
-            "imageUrl": null,
+            "imageUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5210917.png",
             "url": "https://www.espn.com/mens-college-basketball/player/_/id/5210917/bruce-branch-iii"
           },
           {
@@ -10338,8 +10404,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10359,8 +10425,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/commits/",
         "season": "2027",
         "reason": null,
@@ -10368,8 +10434,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
         "season": "2027",
         "reason": null,
@@ -10395,7 +10461,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cayden-daughtry-46142503/",
@@ -10418,7 +10484,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/adan-diggs-46150995/",
@@ -10441,7 +10507,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jalen-davis-46148123/",
@@ -10464,7 +10530,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/demarcus-henry-46153135/",
@@ -10487,7 +10553,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/aj-williams-46157913/",
@@ -10510,7 +10576,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/moussa-kamissoko-46151696/",
@@ -10520,7 +10586,7 @@
             "rating": 97,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 19,
+            "nationalRank": 20,
             "positionRank": 5,
             "stateRank": 2,
             "rankingState": "OH",
@@ -10533,7 +10599,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/malachi-jordan-46146933/",
@@ -10543,7 +10609,7 @@
             "rating": 97,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 23,
+            "nationalRank": 24,
             "positionRank": 7,
             "stateRank": 7,
             "rankingState": "FL",
@@ -10556,7 +10622,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cj-rosser-46151476/",
@@ -10579,7 +10645,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/ahmed-nur-46158298/",
@@ -10589,7 +10655,7 @@
             "rating": 93,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 32,
+            "nationalRank": 33,
             "positionRank": 6,
             "stateRank": 5,
             "rankingState": "AZ",
@@ -10602,7 +10668,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/jeremy-jenkins-46147866/",
@@ -10612,7 +10678,7 @@
             "rating": 90,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 76,
+            "nationalRank": 77,
             "positionRank": 13,
             "stateRank": 14,
             "rankingState": "FL",
@@ -10625,7 +10691,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/lewis-uvwo-46165178/",
@@ -10648,7 +10714,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/paul-osaruyi-46143728/",
@@ -10671,7 +10737,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://247sports.com/Player/cherif-millogo-46159949/",
@@ -10681,8 +10747,8 @@
             "rating": 92,
             "ratingSystem": "247sports",
             "stars": 4,
-            "nationalRank": 44,
-            "positionRank": 6,
+            "nationalRank": 45,
+            "positionRank": 7,
             "stateRank": 2,
             "rankingState": "CA",
             "rankingGroup": "HighSchool",
@@ -10694,7 +10760,7 @@
             "schoolId": "byu",
             "sport": "basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           }
         ]
       }
@@ -10703,12 +10769,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "ad0a5affc6f9f465775df094",
+            "title": "BYU opens 2026-27 campaign against Idaho State",
+            "url": "https://byucougars.com/news/2026/11/02/byu-opens-2026-27-campaign-against-idaho-state",
+            "publishedAt": "2026-11-02T16:00:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://byucougars.com/imgproxy/h_SpF7hnmlf7O447pJNB_kjnwslmV1xkeuiRM43j2Eo/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2J5dWNvdWdhcnMtcHJvZC8yMDI2LzExLzAyL0UyVWpTck56dFRxZUd1cXp0MUxleWVybWl6dTRFcXFqS1RmdmxrSFUuanBn.jpg",
+            "imageAlt": "Kailey Woolston throws a pass during a BYU women's basketball game against Western Colorado.",
+            "publisher": "BYU Athletics",
+            "discoverySourceUrl": "https://byucougars.com/sports/womens-basketball/news"
+          },
           {
             "id": "7fff34ae1089f61e5490b2cc",
             "title": "Gibb tabbed to Naismith Trophy Player of the Year Watch List",
@@ -10999,48 +11076,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://byucougars.com/sports/womens-basketball/news",
             "reason": null,
-            "recordCount": 25
+            "recordCount": 26
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/byu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.vanquishthefoe.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -11049,8 +11126,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/252/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11443,8 +11520,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/252/roster",
         "season": "2026-27",
         "reason": null,
@@ -11500,7 +11577,7 @@
             "position": "G",
             "jersey": "1",
             "year": "Freshman",
-            "imageUrl": null,
+            "imageUrl": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/5455684.png",
             "url": "https://www.espn.com/womens-college-basketball/player/_/id/5455684/prasayus-notoa"
           },
           {
@@ -11509,7 +11586,7 @@
             "position": "G",
             "jersey": "12",
             "year": "Freshman",
-            "imageUrl": null,
+            "imageUrl": "https://a.espncdn.com/i/headshots/womens-college-basketball/players/full/5455686.png",
             "url": "https://www.espn.com/womens-college-basketball/player/_/id/5455686/stella-sakalas"
           },
           {
@@ -11561,8 +11638,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11570,8 +11647,8 @@
       },
       "recruitingBoard": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-womens-basketball/commits/",
         "season": "2027",
         "reason": "provider-has-no-commitment-records",
@@ -11579,8 +11656,8 @@
       },
       "recruitingOffers": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/byu/season/2027-womens-basketball/offers/",
         "season": "2027",
         "reason": "provider-reported-records-coverage-incomplete",
@@ -11606,7 +11683,7 @@
             "schoolId": "byu",
             "sport": "womens-basketball",
             "sourceUrl": "https://247sports.com/college/byu/season/2027-womens-basketball/offers/",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           }
         ]
       }
@@ -11615,8 +11692,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -11823,40 +11900,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://byucougars.com/sports/baseball/news",
             "reason": null,
             "recordCount": 18
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.si.com/college/byu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-            "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+            "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+            "lastSuccessAt": "2026-11-03T00:57:10.986Z",
             "sourceUrl": "https://www.vanquishthefoe.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -11865,8 +11942,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/127/schedule",
         "season": "2025-26",
         "reason": null,
@@ -12547,7 +12624,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/127/roster",
         "season": null,
@@ -12556,8 +12633,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://byucougars.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12565,8 +12642,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
-        "lastSuccessAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
+        "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -12592,7 +12669,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042292",
@@ -12615,7 +12692,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=857651",
@@ -12638,7 +12715,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=768294",
@@ -12661,7 +12738,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1357617",
@@ -12684,7 +12761,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042304",
@@ -12707,7 +12784,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1052723",
@@ -12730,7 +12807,7 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042301",
@@ -12753,13 +12830,13 @@
             "schoolId": "byu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1575&grad=2027",
-            "updatedAt": "2026-11-02T15:48:55.477Z"
+            "updatedAt": "2026-11-03T00:57:10.986Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-02T15:48:55.477Z",
+        "lastAttemptAt": "2026-11-03T00:57:10.986Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
