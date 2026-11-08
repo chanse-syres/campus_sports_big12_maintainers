@@ -6,18 +6,51 @@
     "name": "Texas Tech",
     "athleticsUrl": "https://texastech.com"
   },
-  "generatedAt": "2026-11-08T05:58:38.900Z",
+  "generatedAt": "2026-11-08T13:22:27.643Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "7b90dbd4efc5ca5413324498",
+            "title": "5 Biggest Big 12 Football Takeaways From Week 10",
+            "url": "https://www.heartlandcollegesports.com/2026/11/08/big-12-football-week-10-takeaways-2026/",
+            "publishedAt": "2026-11-08T12:55:48.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2025/09/USATSI_26970634-150x150.jpg",
+            "imageAlt": "Aug 30, 2025; Pasadena, California, USA; Utah Utes quarterback Devon Dampier (4) throws against the against the UCLA Bruins during the first half at the Rose Bowl. Mandatory Credit: Gary A. Vasquez-Imagn Images",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "593d34718aa8fb3c556962a7",
+            "title": "West Virginia Mountaineers vs. Texas Tech Red Raiders: Full Highlights",
+            "url": "https://www.espn.com/video/clip/_/id/50417779/full-highlights",
+            "publishedAt": "2026-11-08T06:35:03.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/2fd59fbc-9788-4fad-9913-294ca0c558b7/2fd59fbc-9788-4fad-9913-294ca0c558b7.jpg",
+            "imageAlt": "West Virginia Mountaineers vs. Texas Tech Red Raiders: Full Highlights",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100"
+          },
+          {
+            "id": "8245c1d3c35c6cdefe87fee3",
+            "title": "Castellanos throws five TDs in 53-48 win over WVU",
+            "url": "https://texastech.com/news/2026/11/8/football-castellanos-throws-five-touchdowns-tech-defeats-wvu-53-48",
+            "publishedAt": "2026-11-08T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://texastech.com/images/2026/11/8/FBvsWVU_261107-258.jpg",
+            "imageAlt": null,
+            "publisher": "Texas Tech Athletics",
+            "discoverySourceUrl": "https://texastech.com/sports/football/archives"
+          },
           {
             "id": "c3d1e37e77f92417a34b8ed3",
             "title": "Texas Tech vs. West Virginia: Prediction, Pick and Preview",
@@ -36,6 +69,17 @@
             "publishedAt": "2026-11-07T00:00:00.000Z",
             "publishedAtPrecision": "day",
             "imageUrl": "https://texastech.com/images/2026/11/7/EB_UnivsWVU_261102-20.jpg",
+            "imageAlt": null,
+            "publisher": "Texas Tech Athletics",
+            "discoverySourceUrl": "https://texastech.com/sports/football/archives"
+          },
+          {
+            "id": "42bd5f23ee67d5c729a5c730",
+            "title": "Postgame Notes: Texas Tech vs. West Virginia",
+            "url": "https://texastech.com/news/2026/11/7/football-postgame-notes-texas-tech-vs-west-virginia",
+            "publishedAt": "2026-11-07T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": null,
             "imageAlt": null,
             "publisher": "Texas Tech Athletics",
             "discoverySourceUrl": "https://texastech.com/sports/football/archives"
@@ -2992,48 +3036,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://texastech.com/sports/football/archives",
             "reason": null,
-            "recordCount": 102
+            "recordCount": 104
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 18
+            "recordCount": 19
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 15
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 76
+            "recordCount": 77
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 57
@@ -3042,8 +3086,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/schedule",
         "season": "2026",
         "reason": null,
@@ -3148,13 +3192,13 @@
             "id": "401856856",
             "date": "2026-11-08T02:30:00.000Z",
             "name": "West Virginia Mountaineers at Texas Tech Red Raiders",
-            "status": "In Progress",
+            "status": "Final",
             "venue": "Galaxy Stadium",
             "homeAway": "home",
             "opponent": "West Virginia Mountaineers",
-            "teamScore": null,
-            "opponentScore": null,
-            "url": "https://www.espn.com/college-football/game?gameId=401856856"
+            "teamScore": 53,
+            "opponentScore": 48,
+            "url": "https://www.espn.com/college-football/game/_/gameId/401856856/west-virginia-texas-tech"
           },
           {
             "id": "401856863",
@@ -3196,8 +3240,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -4196,8 +4240,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4205,7 +4249,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/commits/",
         "season": "2027",
@@ -4652,7 +4696,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-football/offers/",
         "season": "2027",
@@ -4664,8 +4708,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -5785,48 +5829,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 54
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 37
@@ -5835,8 +5879,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2641/schedule",
         "season": "2026-27",
         "reason": null,
@@ -6193,8 +6237,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2641/roster",
         "season": "2026-27",
         "reason": null,
@@ -6329,8 +6373,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6338,7 +6382,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/commits/",
         "season": "2027",
@@ -6371,7 +6415,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-basketball/offers/",
         "season": "2027",
@@ -6844,8 +6888,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -7349,40 +7393,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 42
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -7391,8 +7435,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2641/schedule",
         "season": "2026-27",
         "reason": null,
@@ -7749,8 +7793,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2641/roster",
         "season": "2026-27",
         "reason": null,
@@ -7894,8 +7938,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -7970,7 +8014,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -7979,7 +8023,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": "2026-11-04T19:44:30.718Z",
         "sourceUrl": "https://247sports.com/college/texas-tech/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -8107,8 +8151,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -8524,32 +8568,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://texastech.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-            "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
             "sourceUrl": "https://www.si.com/college/texas-tech/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -8558,8 +8602,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/201/schedule",
         "season": "2025-26",
         "reason": null,
@@ -9240,7 +9284,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/201/roster",
         "season": null,
@@ -9249,8 +9293,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://texastech.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9258,8 +9302,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
-        "lastSuccessAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -9285,7 +9329,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1023018",
@@ -9308,7 +9352,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=953967",
@@ -9331,7 +9375,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1096228",
@@ -9354,7 +9398,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=809075",
@@ -9377,7 +9421,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1250250",
@@ -9400,7 +9444,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=826916",
@@ -9423,7 +9467,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=834170",
@@ -9446,7 +9490,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=773457",
@@ -9469,7 +9513,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=897566",
@@ -9492,7 +9536,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=759583",
@@ -9515,7 +9559,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1261245",
@@ -9538,7 +9582,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1032912",
@@ -9561,7 +9605,7 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=831298",
@@ -9584,13 +9628,13 @@
             "schoolId": "texas-tech",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1745&grad=2027",
-            "updatedAt": "2026-11-08T05:58:38.900Z"
+            "updatedAt": "2026-11-08T13:22:27.643Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T05:58:38.900Z",
+        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
