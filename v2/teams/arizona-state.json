@@ -6,18 +6,29 @@
     "name": "Arizona State",
     "athleticsUrl": "https://thesundevils.com"
   },
-  "generatedAt": "2026-11-08T13:22:27.643Z",
+  "generatedAt": "2026-11-08T22:03:03.634Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/football/news",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "8b77bca94590bdc88e377c1a",
+            "title": "Big 12 Football Week 10: The Good, Bad and Ugly",
+            "url": "https://www.heartlandcollegesports.com/2026/11/08/big-12-football-week-10-good-bad-ugly-2026/",
+            "publishedAt": "2026-11-08T19:45:16.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/Good-Bad-Ugly-2026-Logo-150x150.jpg",
+            "imageAlt": "Good Bad Ugly 2026 Logo",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
           {
             "id": "61eb89970eee58b92b0ef013",
             "title": "Deion Sanders Responds to Question About Job Security After Arizona State Loss",
@@ -2112,48 +2123,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://thesundevils.com/sports/football/news",
             "reason": null,
             "recordCount": 50
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 46
+            "recordCount": 47
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 87
@@ -2162,8 +2173,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/schedule",
         "season": "2026",
         "reason": null,
@@ -2278,7 +2289,7 @@
           },
           {
             "id": "401856857",
-            "date": "2026-11-14T05:00:00.000Z",
+            "date": "2026-11-14T20:30:00.000Z",
             "name": "Arizona State Sun Devils at UCF Knights",
             "status": "Scheduled",
             "venue": "Acrisure Bounce House",
@@ -2316,8 +2327,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3289,8 +3300,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3298,7 +3309,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/commits/",
         "season": "2027",
@@ -3561,7 +3572,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-04T19:44:30.718Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-football/offers/",
         "season": "2027",
@@ -10888,8 +10899,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
         "season": null,
         "reason": null,
@@ -11613,48 +11624,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 32
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 29
@@ -11663,8 +11674,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/9/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12057,8 +12068,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/9/roster",
         "season": "2026-27",
         "reason": null,
@@ -12193,8 +12204,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12202,7 +12213,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/commits/",
         "season": "2027",
@@ -12281,7 +12292,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-basketball/offers/",
         "season": "2027",
@@ -13536,8 +13547,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
@@ -13887,40 +13898,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
             "reason": null,
             "recordCount": 24
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 6
@@ -13929,8 +13940,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/9/schedule",
         "season": "2026-27",
         "reason": null,
@@ -14323,8 +14334,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/9/roster",
         "season": "2026-27",
         "reason": null,
@@ -14450,8 +14461,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14459,7 +14470,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -14468,7 +14479,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/arizona-state/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -14964,8 +14975,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -15293,32 +15304,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://thesundevils.com/sports/baseball/news",
             "reason": null,
             "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/arizonastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 11
@@ -15327,8 +15338,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/59/schedule",
         "season": "2025-26",
         "reason": null,
@@ -16057,7 +16068,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/59/roster",
         "season": null,
@@ -16066,8 +16077,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://thesundevils.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -16075,8 +16086,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -16102,7 +16113,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=771661",
@@ -16125,7 +16136,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=868435",
@@ -16148,7 +16159,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=918790",
@@ -16171,7 +16182,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=769287",
@@ -16194,7 +16205,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1183094",
@@ -16217,7 +16228,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1245651",
@@ -16240,7 +16251,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=998172",
@@ -16263,7 +16274,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1332143",
@@ -16286,7 +16297,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1284652",
@@ -16309,7 +16320,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=560918",
@@ -16332,7 +16343,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=948862",
@@ -16355,7 +16366,7 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=864935",
@@ -16378,13 +16389,13 @@
             "schoolId": "arizona-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1564&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,

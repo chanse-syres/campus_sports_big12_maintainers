@@ -6,18 +6,40 @@
     "name": "Kansas State",
     "athleticsUrl": "https://www.kstatesports.com"
   },
-  "generatedAt": "2026-11-08T13:22:27.643Z",
+  "generatedAt": "2026-11-08T22:03:03.634Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "b4fa7feb5c9af58c7c981c5c",
+            "title": "Big 12 Football Week 10: The Good, Bad and Ugly",
+            "url": "https://www.heartlandcollegesports.com/2026/11/08/big-12-football-week-10-good-bad-ugly-2026/",
+            "publishedAt": "2026-11-08T19:45:16.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/09/Good-Bad-Ugly-2026-Logo-150x150.jpg",
+            "imageAlt": "Good Bad Ugly 2026 Logo",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "c6bc3227f283d905535ebe13",
+            "title": "TCU Game Set for Afternoon Kick",
+            "url": "https://www.kstatesports.com/news/2026/11/8/football-tcu-game-set-for-afternoon-kick",
+            "publishedAt": "2026-11-08T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://www.kstatesports.com/images/2026/11/8/20260926_CM_FB_UC_0487.JPG",
+            "imageAlt": null,
+            "publisher": "Kansas State Athletics",
+            "discoverySourceUrl": "https://www.kstatesports.com/sports/football/archives"
+          },
           {
             "id": "f7128e906c4c60dc121ce269",
             "title": "Oklahoma State's Drew Mestemaker scores 6 total TDs in blowout win over Kansas State",
@@ -2871,56 +2893,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
             "reason": null,
-            "recordCount": 98
+            "recordCount": 99
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 47
+            "recordCount": 48
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 62
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 47
@@ -2929,8 +2951,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/schedule",
         "season": "2026",
         "reason": null,
@@ -3045,7 +3067,7 @@
           },
           {
             "id": "401856862",
-            "date": "2026-11-14T05:00:00.000Z",
+            "date": "2026-11-14T19:00:00.000Z",
             "name": "Kansas State Wildcats at TCU Horned Frogs",
             "status": "Scheduled",
             "venue": "Amon G. Carter Stadium",
@@ -3083,8 +3105,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -4101,8 +4123,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4110,7 +4132,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/commits/",
         "season": "2027",
@@ -4741,7 +4763,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-football/offers/",
         "season": "2027",
@@ -4753,8 +4775,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -5577,56 +5599,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 56
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -5635,8 +5657,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2306/schedule",
         "season": "2026-27",
         "reason": null,
@@ -6005,8 +6027,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2306/roster",
         "season": "2026-27",
         "reason": null,
@@ -6141,8 +6163,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6173,7 +6195,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/commits/",
         "season": "2027",
@@ -6182,7 +6204,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-basketball/offers/",
         "season": "2027",
@@ -6632,12 +6654,34 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "0616285f2a804415ae0c0e13",
+            "title": "UT Rio Grande Valley Vaqueros vs. Kansas State Wildcats: Game Highlights",
+            "url": "https://www.espn.com/video/clip/_/id/50423234/game-highlights",
+            "publishedAt": "2026-11-08T19:55:52.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/7f31b4d7-cc91-471a-84ca-c8e9383d1ba1/7f31b4d7-cc91-471a-84ca-c8e9383d1ba1.jpg",
+            "imageAlt": "UT Rio Grande Valley Vaqueros vs. Kansas State Wildcats: Game Highlights",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100"
+          },
+          {
+            "id": "a2873900a5ed9b7a2167c8ca",
+            "title": "K-State Rolls to Third Straight Win",
+            "url": "https://www.kstatesports.com/news/2026/11/8/womens-basketball-k-state-rolls-to-third-straight-win",
+            "publishedAt": "2026-11-08T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://www.kstatesports.com/images/2026/11/8/TSW_6140_web.jpg",
+            "imageAlt": null,
+            "publisher": "Kansas State Athletics",
+            "discoverySourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives"
+          },
           {
             "id": "c7d79256d6f1898d40d8df1a",
             "title": "Southern Indiana Screaming Eagles vs. Kansas State Wildcats: Game Highlights",
@@ -7181,48 +7225,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
             "reason": null,
-            "recordCount": 46
+            "recordCount": 47
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 2
+            "recordCount": 3
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -7231,8 +7275,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2306/schedule",
         "season": "2026-27",
         "reason": null,
@@ -7265,12 +7309,12 @@
             "id": "401906981",
             "date": "2026-11-08T18:00:00.000Z",
             "name": "UT Rio Grande Valley Vaqueros at Kansas State Wildcats",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Bramlage Coliseum",
             "homeAway": "home",
             "opponent": "UT Rio Grande Valley Vaqueros",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 68,
+            "opponentScore": 39,
             "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401906981/ut-rio-grande-kansas-st"
           },
           {
@@ -7625,8 +7669,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2306/roster",
         "season": "2026-27",
         "reason": null,
@@ -7743,8 +7787,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -7797,7 +7841,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -7830,7 +7874,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/kansas-state/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -7958,8 +8002,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -8342,40 +8386,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.si.com/college/kstate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-            "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+            "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+            "lastSuccessAt": "2026-11-08T22:03:03.634Z",
             "sourceUrl": "https://www.bringonthecats.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -8384,8 +8428,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/264/schedule",
         "season": "2025-26",
         "reason": null,
@@ -9078,7 +9122,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/264/roster",
         "season": null,
@@ -9087,8 +9131,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.kstatesports.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -9119,8 +9163,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
-        "lastSuccessAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
+        "lastSuccessAt": "2026-11-08T22:03:03.634Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -9146,7 +9190,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1214657",
@@ -9169,7 +9213,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1601747",
@@ -9192,7 +9236,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1437147",
@@ -9215,7 +9259,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1740677",
@@ -9238,7 +9282,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1707195",
@@ -9261,7 +9305,7 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1305291",
@@ -9284,13 +9328,13 @@
             "schoolId": "kansas-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1645&grad=2027",
-            "updatedAt": "2026-11-08T13:22:27.643Z"
+            "updatedAt": "2026-11-08T22:03:03.634Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-08T13:22:27.643Z",
+        "lastAttemptAt": "2026-11-08T22:03:03.634Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
