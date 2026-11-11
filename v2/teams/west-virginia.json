@@ -6,18 +6,29 @@
     "name": "West Virginia",
     "athleticsUrl": "https://wvusports.com"
   },
-  "generatedAt": "2026-11-11T06:14:55.429Z",
+  "generatedAt": "2026-11-11T14:26:40.645Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://wvusports.com/sports/football/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "95d5d2b405dd4fad2caf26b8",
+            "title": "What Lance Leipold Said About Mike Hawkins Jr. and WVU's Potent Offense",
+            "url": "https://www.si.com/college/westvirginia/football/what-lance-leipold-said-about-mike-hawkins-jr-and-wvu-s-potent-offense",
+            "publishedAt": "2026-11-11T13:43:59.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3973,h_2234,x_0,y_197/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/mountaineers_now/01m75cmvj5amak6rk4ze.jpg",
+            "imageAlt": "Oct 24, 2026; Lawrence, Kansas, USA; Kansas Jayhawks head coach Lance Leipold reacts after a touchdown during the second half against the Baylor Bears at David Booth Kansas Memorial Stadium. Mandatory Credit: Jay Biggerstaff-Imagn Images | IMAGN IMAGES via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/westvirginia/feed"
+          },
           {
             "id": "290d0a4bb763bdfd500f3d9b",
             "title": "Roster Retention Progress at WVU, Plus the Latest on Mike Hawkins Jr. and Cam Cook",
@@ -6380,56 +6391,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://wvusports.com/sports/football/archives",
             "reason": null,
             "recordCount": 88
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "source-format-changed",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 53
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/westvirginia/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 384
+            "recordCount": 385
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.smokingmusket.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 45
@@ -6438,8 +6449,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/277/schedule",
         "season": "2026",
         "reason": null,
@@ -6592,8 +6603,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/277/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -7718,8 +7729,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -7727,7 +7738,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-football/commits/",
         "season": "2027",
@@ -8289,7 +8300,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-03T00:57:10.986Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-football/offers/",
         "season": "2027",
@@ -19019,13 +19030,24 @@
     "basketball": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://wvusports.com/sports/mens-basketball/archives",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "35912ed4f4ac7678d364e644",
+            "title": "WVU Climbs in New ESPN Bracketology Projection Following 2-0 Start",
+            "url": "https://www.si.com/college/westvirginia/basketball/wvu-climbs-in-new-espn-bracketology-projection-following-2-0-start",
+            "publishedAt": "2026-11-11T12:42:18.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2560,h_1440,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mountaineers_now/01m6sv2rt62g1mk04gm8.jpg",
+            "imageAlt": "West Virginia University guard Miles Sadler | Christopher Hall - West Virginia on SI",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/westvirginia/feed"
+          },
           {
             "id": "5307f183f536a30ff79138d1",
             "title": "Miles Sadler Named Freshman Big 12 Basketball Freshman of the Week",
@@ -20449,56 +20471,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://wvusports.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 58
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "source-format-changed",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/westvirginia/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 65
+            "recordCount": 66
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.smokingmusket.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -20507,8 +20529,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/277/schedule",
         "season": "2026-27",
         "reason": null,
@@ -20877,8 +20899,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/277/roster",
         "season": "2026-27",
         "reason": null,
@@ -21022,8 +21044,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -21120,7 +21142,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-basketball/commits/",
         "season": "2027",
@@ -21129,7 +21151,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-basketball/offers/",
         "season": "2027",
@@ -22269,8 +22291,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -22950,48 +22972,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://wvusports.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 56
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/westvirginia/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.smokingmusket.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -23000,8 +23022,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/277/schedule",
         "season": "2026-27",
         "reason": null,
@@ -23370,8 +23392,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/277/roster",
         "season": "2026-27",
         "reason": null,
@@ -23488,8 +23510,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -23597,7 +23619,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -23606,7 +23628,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/west-virginia/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -23757,8 +23779,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -24196,40 +24218,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://wvusports.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 32
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/westvirginia/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.smokingmusket.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -24238,8 +24260,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/136/schedule",
         "season": "2025-26",
         "reason": null,
@@ -24944,7 +24966,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/136/roster",
         "season": null,
@@ -24953,8 +24975,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://wvusports.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -24974,8 +24996,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -25001,7 +25023,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=785632",
@@ -25024,7 +25046,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=692489",
@@ -25047,7 +25069,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1437354",
@@ -25070,7 +25092,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=890019",
@@ -25093,7 +25115,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=693239",
@@ -25116,7 +25138,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1037889",
@@ -25139,7 +25161,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1368168",
@@ -25162,7 +25184,7 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1280316",
@@ -25185,13 +25207,13 @@
             "schoolId": "west-virginia",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1850&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,

@@ -6,17 +6,17 @@
     "name": "UCF",
     "athleticsUrl": "https://ucfknights.com"
   },
-  "generatedAt": "2026-11-11T06:14:55.429Z",
+  "generatedAt": "2026-11-11T14:26:40.645Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://ucfknights.com/sports/football/news",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
             "id": "efa63326dd4b894e1ed5ea97",
@@ -52,9 +52,9 @@
             "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
           },
           {
-            "id": "bad9b50b7f495c093c88a00e",
+            "id": "580edca160b66c7f14e641f5",
             "title": "Football Wins Final-Second Thriller at Kansas, 33-32",
-            "url": "https://ucfknights.com/news/2026/11/08/football-wins-final-second-thriller-at-kansas-33-32",
+            "url": "https://ucfknights.com/news/2026/11/07/football-wins-final-second-thriller-at-kansas-33-32",
             "publishedAt": "2026-11-08T04:09:16.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/ZnTVqDXxDvYH9-UcYPLnKB5BTAYilJfAO5C10ukUgJM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wOC9DakRHRHgydFh1MWo3c0U0d1BERGZSTWRrQnU0YmZEWmNIbUkwTzMzLmpwZw.jpg",
@@ -2222,48 +2222,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://ucfknights.com/sports/football/news",
             "reason": null,
             "recordCount": 47
           },
           {
-            "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "source-format-changed",
             "recordCount": 7
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 43
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 100
@@ -2272,8 +2272,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/schedule",
         "season": "2026",
         "reason": null,
@@ -2426,8 +2426,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3417,8 +3417,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3426,7 +3426,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/commits/",
         "season": "2027",
@@ -3735,7 +3735,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-04T06:19:06.837Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-football/offers/",
         "season": "2027",
@@ -10233,17 +10233,17 @@
     "basketball": {
       "sponsored": true,
       "news": {
-        "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "status": "stale",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
         "season": null,
-        "reason": null,
+        "reason": "one-or-more-news-sources-degraded",
         "records": [
           {
-            "id": "cb812fa0f0729b3d48b70bcf",
+            "id": "9667a1594e0739d5191084a5",
             "title": "Men’s Hoops Outlasts South Alabama with Strong Three-Point Shooting, 76-69",
-            "url": "https://ucfknights.com/news/2026/11/11/mens-hoops-outlasts-south-alabama-with-strong-three-point-shooting-76-69",
+            "url": "https://ucfknights.com/news/2026/11/10/mens-hoops-outlasts-south-alabama-with-strong-three-point-shooting-76-69",
             "publishedAt": "2026-11-11T03:39:32.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/cB9rqQoclpJdJKIxYLAMg2aYeMr1ETPDFfTUkIxOvJU/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8xMS95QjB5WndWbVpTNzROZHVWc054czMzbVdHdmc4SE5MMTNtcHpyeXk5LmpwZw.jpg",
@@ -10285,9 +10285,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/mens-basketball/news"
           },
           {
-            "id": "77dc45e03ae2fd2d5eafc844",
+            "id": "a01d11a2ef98a0795e281907",
             "title": "Men’s Hoops Rallies Past Yale for 87-75 victory",
-            "url": "https://ucfknights.com/news/2026/11/07/mens-hoops-rallies-past-yale-for-87-75-victory",
+            "url": "https://ucfknights.com/news/2026/11/06/mens-hoops-rallies-past-yale-for-87-75-victory",
             "publishedAt": "2026-11-07T03:36:55.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/CqnFGh0FNJk2lXVsL-N1NyRTjlZe_e-DjuaeAmwTZRo/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wNy9NZThLamZTT2U1MjFpMTQ2YUdHWEYzbk9LY1EyVTI3dmRIMkw0aG9ULmpwZw.jpg",
@@ -10340,9 +10340,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/mens-basketball/news"
           },
           {
-            "id": "249a50b4d5b1a08837d3e242",
+            "id": "7c08e67b9916871768e298e2",
             "title": "Men's Hoops Outlast FGCU in Overtime Season Opener Win",
-            "url": "https://ucfknights.com/news/2026/11/03/mens-hoops-outlast-fgcu-in-overtime-season-opener-win",
+            "url": "https://ucfknights.com/news/2026/11/02/mens-hoops-outlast-fgcu-in-overtime-season-opener-win",
             "publishedAt": "2026-11-03T04:13:57.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/6YejMPgKR6FLeAhl4RWzjvEEhu9cXQlumyFMXmVCcuE/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wMy9tcTdweWlPM09hRHpmMnVZYVhKQ3llN1YyREJhbFZZUzZEa3JaZzVxLmpwZw.jpg",
@@ -10384,9 +10384,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/mens-basketball/news"
           },
           {
-            "id": "a01ffbcad7055f9fd6ec8d40",
+            "id": "f8b4d6851c214311d7802fad",
             "title": "Men's Hoops Falls to No. 23 Kentucky in Overtime Exhibition",
-            "url": "https://ucfknights.com/news/2026/10/29/mens-hoops-falls-to-no-23-kentucky-in-overtime-exhibition",
+            "url": "https://ucfknights.com/news/2026/10/28/mens-hoops-falls-to-no-23-kentucky-in-overtime-exhibition",
             "publishedAt": "2026-10-29T01:31:47.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/dZdedgDyyGj5FD-N_lNGrlecXrLwz5eW_YE8qhyaZB0/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMC8yOS9HaEhDREZWUTFYa2t5TGlJNE1sZGFXTTVRR3lydlBzb3JWRnJvYVNJLmpwZw.jpg",
@@ -10428,9 +10428,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/mens-basketball/news"
           },
           {
-            "id": "7d5c8425cf4c110827dd764d",
+            "id": "fcd3ea323e62ae5211792c41",
             "title": "Men's Hoops Falls to LSU in Preseason Exhibition",
-            "url": "https://ucfknights.com/news/2026/10/15/mens-hoops-falls-to-lsu-in-preseason-exhibition",
+            "url": "https://ucfknights.com/news/2026/10/14/mens-hoops-falls-to-lsu-in-preseason-exhibition",
             "publishedAt": "2026-10-15T02:54:31.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/XU-NS4g1JMNB8zlV2PRbnSEEj7g93G1yIp1RcA1GUj8/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMC8xNS8weGdYbW1oWW1SR3A3OE55VjkxQnJ3bnZyR3U0TzJwdkliclBidHU5LmpwZw.jpg",
@@ -10728,48 +10728,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 35
           },
           {
-            "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "status": "stale",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
-            "reason": "publisher-feed-filtered-school-and-sport",
+            "reason": "source-format-changed",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 9
@@ -10778,8 +10778,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2116/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11160,8 +11160,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2116/roster",
         "season": "2026-27",
         "reason": null,
@@ -11314,8 +11314,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11357,7 +11357,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/commits/",
         "season": "2027",
@@ -11413,7 +11413,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-basketball/offers/",
         "season": "2027",
@@ -12116,8 +12116,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
         "season": null,
         "reason": null,
@@ -12134,9 +12134,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/womens-basketball/news"
           },
           {
-            "id": "93fbb2ae6fe275d117f4d01a",
+            "id": "4c93eacbc2d555161eccba00",
             "title": "UCF Defeats South Alabama, 85-59, for Second Home Victory of Lazo Era",
-            "url": "https://ucfknights.com/news/2026/11/10/ucf-defeats-south-alabama-85-59-for-second-home-victory-of-lazo-era",
+            "url": "https://ucfknights.com/news/2026/11/09/ucf-defeats-south-alabama-85-59-for-second-home-victory-of-lazo-era",
             "publishedAt": "2026-11-10T02:15:03.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/Y5MmcO1Suwo6ZBe5_PqfPep78sy-ZjnbkwsGCevT7Cc/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8xMC9QWHVuUmtTQXpXOHRONGlCWjZlNmRFczdGbkNQRExoT2c4aWJ1T2I5LmpwZw.jpg",
@@ -12167,9 +12167,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/womens-basketball/news"
           },
           {
-            "id": "16684cf590096d97af4030ae",
+            "id": "c89d7e6d45fd0cbb8f79f946",
             "title": "Women's Basketball Falls on the Road to Florida",
-            "url": "https://ucfknights.com/news/2026/11/06/womens-basketball-falls-on-the-road-to-florida",
+            "url": "https://ucfknights.com/news/2026/11/05/womens-basketball-falls-on-the-road-to-florida",
             "publishedAt": "2026-11-06T00:14:59.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/CO5z3HwYjhU-1OoSVPSRxiBchpOVRsZhC_YbTckSa3E/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wNi9LY1UxZDlaV251QlV0RklzMWhVVGsydTMxSHE4MEhUZmJaMUx3OFAyLnBuZw.png",
@@ -12200,9 +12200,9 @@
             "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100"
           },
           {
-            "id": "eb8f15523e0e52f34a400545",
+            "id": "009748ba1d3c3e2726fdfa0f",
             "title": "Women's Basketball to Face First Road Test at Florida",
-            "url": "https://ucfknights.com/news/2026/11/05/womens-basketball-to-face-first-road-test-at-florida",
+            "url": "https://ucfknights.com/news/2026/11/04/womens-basketball-to-face-first-road-test-at-florida",
             "publishedAt": "2026-11-05T00:40:59.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/yyFLlKX261scoBQ6Z8h94b9inXeJd_xPGzxhtWtrlcg/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wNS8xTEVnSlBNNVBhTGFMeDFORnZMOEp6elV0RFNLOTUyQjR5VG15YmxBLnBuZw.png",
@@ -12222,9 +12222,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/womens-basketball/news"
           },
           {
-            "id": "205ca4b625ca96f192479a13",
+            "id": "ecc0cb39a3c04e80478a7b5d",
             "title": "Knights Open Lazo Era with Commanding 85-56 Victory Over Florida A&M",
-            "url": "https://ucfknights.com/news/2026/11/04/knights-open-lazo-era-with-commanding-85-56-victory-over-florida-aandm",
+            "url": "https://ucfknights.com/news/2026/11/03/knights-open-lazo-era-with-commanding-85-56-victory-over-florida-aandm",
             "publishedAt": "2026-11-04T02:40:54.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/KiVVoIznq1YRXchB-UydfvLBqaQgUTam1mNFbvR8VdE/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8xMS8wNC9iZ3pZeUNHVnN2VWQxRU84Zm5rRWRYd1Ryd0NvWWQ0VjRoYmczZmpKLnBuZw.png",
@@ -12456,40 +12456,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
             "reason": null,
             "recordCount": 25
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -12498,8 +12498,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2116/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12892,8 +12892,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2116/roster",
         "season": "2026-27",
         "reason": null,
@@ -13019,8 +13019,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13117,7 +13117,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -13126,7 +13126,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/central-florida/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -13576,8 +13576,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -13638,9 +13638,9 @@
             "discoverySourceUrl": "https://www.si.com/college/ucf/feed"
           },
           {
-            "id": "387273ae32a0b9626d8e3a4a",
+            "id": "d10ed6c40eac293fc15bc53f",
             "title": "Two More Knights Drafted, as Three Total Players Get Selected in 2026 MLB Draft",
-            "url": "https://ucfknights.com/news/2026/07/13/two-more-knights-drafted-as-three-total-players-get-selected-in-2026-mlb-draft",
+            "url": "https://ucfknights.com/news/2026/07/12/two-more-knights-drafted-as-three-total-players-get-selected-in-2026-mlb-draft",
             "publishedAt": "2026-07-13T01:17:05.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/gkf6CzHQf2Yt6QCHvQApav7Mi479R4MEzm82FclRpfY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8wNy8xMy9FUldjU21kaFFtbTh5VVlONlBVUVNtQU9zUDU4WWdNdEhqSzhuYVdTLnBuZw.png",
@@ -13726,9 +13726,9 @@
             "discoverySourceUrl": "https://ucfknights.com/sports/baseball/news"
           },
           {
-            "id": "d428239649a639414e7baefc",
+            "id": "0bdfc5ea6543ca2df203c9ba",
             "title": "Baseball’s Auburn Regional Run Comes to a Close with Sunday Setback to No. 4 Auburn",
-            "url": "https://ucfknights.com/news/2026/06/01/baseballs-auburn-regional-run-comes-to-a-close-with-sunday-setback-to-no-4-auburn",
+            "url": "https://ucfknights.com/news/2026/05/31/baseballs-auburn-regional-run-comes-to-a-close-with-sunday-setback-to-no-4-auburn",
             "publishedAt": "2026-06-01T03:00:00.000Z",
             "publishedAtPrecision": "instant",
             "imageUrl": "https://ucfknights.com/imgproxy/Ih-qsgIVrXvtSVwQWZ8EaVADzirgjDn8z7m7qonuSJM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3VjZmtuaWdodHMtY29tLXByb2QvMjAyNi8wNi8wMS9GU2YyMnlSMUlsZGg2cnluTGRDZE9hVDN4NEI2U1VZRHluVDB2U1RILnBuZw.png",
@@ -13795,32 +13795,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://ucfknights.com/sports/baseball/news",
             "reason": null,
             "recordCount": 18
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://www.si.com/college/ucf/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -13829,8 +13829,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/160/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14523,7 +14523,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/160/roster",
         "season": null,
@@ -14532,8 +14532,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://ucfknights.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14553,8 +14553,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
+        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14580,7 +14580,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=836321",
@@ -14603,7 +14603,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=643796",
@@ -14626,7 +14626,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=993649",
@@ -14649,7 +14649,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=902117",
@@ -14672,7 +14672,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=897957",
@@ -14695,7 +14695,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=913669",
@@ -14718,7 +14718,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=785493",
@@ -14741,7 +14741,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1002500",
@@ -14764,7 +14764,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1101250",
@@ -14787,7 +14787,7 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1221747",
@@ -14810,13 +14810,13 @@
             "schoolId": "ucf",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1768&grad=2027",
-            "updatedAt": "2026-11-11T06:14:55.429Z"
+            "updatedAt": "2026-11-11T14:26:40.645Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastAttemptAt": "2026-11-11T14:26:40.645Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
