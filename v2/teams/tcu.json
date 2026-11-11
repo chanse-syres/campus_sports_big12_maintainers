@@ -6,17 +6,17 @@
     "name": "TCU",
     "athleticsUrl": "https://gofrogs.com"
   },
-  "generatedAt": "2026-11-10T19:42:32.278Z",
+  "generatedAt": "2026-11-11T06:14:55.429Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-09T06:24:05.898Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
-        "reason": "one-or-more-news-sources-degraded",
+        "reason": null,
         "records": [
           {
             "id": "d56f3dd4e904256d849cdd8f",
@@ -39,6 +39,17 @@
             "imageAlt": "Nov 7, 2026; Salt Lake City, Utah, USA; Utah Utes quarterback Devon Dampier (4) carries the ball against Brigham Young Cougars linebacker Miles Hall (21) during the third quarter at Rice-Eccles Stadium. Mandatory Credit: Rob Gray-Imagn Images | IMAGN IMAGES via Reuters Connect",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/tcu/feed"
+          },
+          {
+            "id": "1c7aff6727a3f89f540dea89",
+            "title": "(VIDEO) Sonny Dykes and Players Weekly Press Conference (vs. Kansas State)",
+            "url": "https://gofrogs.com/news/2026/11/10/football-video-sonny-dykes-and-players-weekly-press-conference-vs-kansas-state",
+            "publishedAt": "2026-11-10T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://gofrogs.com/images/2026/11/10/261024_GAME7_SECONDHALF_Dykes_Sonny_PW-07576.jpg",
+            "imageAlt": null,
+            "publisher": "TCU Athletics",
+            "discoverySourceUrl": "https://gofrogs.com/sports/football/archives"
           },
           {
             "id": "0bd2456737df45e79fd64a2a",
@@ -3960,56 +3971,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://gofrogs.com/sports/football/archives",
             "reason": null,
-            "recordCount": 84
+            "recordCount": 85
           },
           {
-            "status": "stale",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-09T06:24:05.898Z",
+            "status": "ok",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
-            "reason": "source-format-changed",
+            "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 9
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 49
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 191
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 24
@@ -4018,8 +4029,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/schedule",
         "season": "2026",
         "reason": null,
@@ -4172,8 +4183,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -5208,8 +5219,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -5217,7 +5228,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
         "season": "2027",
@@ -5664,7 +5675,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-05T06:44:10.406Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/offers/",
         "season": "2027",
@@ -9334,12 +9345,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "b17897cd609fdfca2cd65d81",
+            "title": "UL Monroe Warhawks vs. TCU Horned Frogs: Game Highlights",
+            "url": "https://www.espn.com/video/clip/_/id/50450317/game-highlights",
+            "publishedAt": "2026-11-11T05:00:23.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1111/e769a6da-af02-4a2e-8051-09bccd39b3d4/e769a6da-af02-4a2e-8051-09bccd39b3d4.jpg",
+            "imageAlt": "UL Monroe Warhawks vs. TCU Horned Frogs: Game Highlights",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100"
+          },
           {
             "id": "4d93d91e3e2c08ca1b0bcfa4",
             "title": "TCU vs UL Monroe Basketball How to Watch and What to Know",
@@ -9971,56 +9993,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 44
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 1
+            "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
@@ -10029,8 +10051,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10063,12 +10085,12 @@
             "id": "401917979",
             "date": "2026-11-11T02:00:00.000Z",
             "name": "UL Monroe Warhawks at TCU Horned Frogs",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Schollmaier Arena",
             "homeAway": "home",
             "opponent": "UL Monroe Warhawks",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 100,
+            "opponentScore": 92,
             "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401917979/ul-monroe-tcu"
           },
           {
@@ -10399,8 +10421,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -10544,8 +10566,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10620,7 +10642,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/commits/",
         "season": "2027",
@@ -10653,7 +10675,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
         "season": "2027",
@@ -11701,12 +11723,34 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "54cc1b839cb5cdd09166845f",
+            "title": "Iona Gaels vs. TCU Horned Frogs: Game Highlights",
+            "url": "https://www.espn.com/video/clip/_/id/50447329/game-highlights",
+            "publishedAt": "2026-11-10T23:57:35.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1110/dde007d2-bc15-432c-8783-76dcb4dffc48/dde007d2-bc15-432c-8783-76dcb4dffc48.jpg",
+            "imageAlt": "Iona Gaels vs. TCU Horned Frogs: Game Highlights",
+            "publisher": "ESPN",
+            "discoverySourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100"
+          },
+          {
+            "id": "c5745e7629f447e1e3349d8e",
+            "title": "No. 15 TCU Wears Down Iona for 48th Straight Home Win",
+            "url": "https://gofrogs.com/news/2026/11/10/womens-basketball-no-15-tcu-wears-down-iona-for-48th-straight-home-win",
+            "publishedAt": "2026-11-10T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://gofrogs.com/images/2026/11/10/JW.png",
+            "imageAlt": null,
+            "publisher": "TCU Athletics",
+            "discoverySourceUrl": "https://gofrogs.com/sports/womens-basketball/archives"
+          },
           {
             "id": "1256c167c86eabcaf3f9a79b",
             "title": "Women’s Basketball: No. 15 TCU routs Tarleton State, earns 47th consecutive home victory",
@@ -12360,48 +12404,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
             "reason": null,
-            "recordCount": 47
+            "recordCount": 48
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 1
+            "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
@@ -12410,8 +12454,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12456,12 +12500,12 @@
             "id": "401915666",
             "date": "2026-11-10T22:00:00.000Z",
             "name": "Iona Gaels at TCU Horned Frogs",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Schollmaier Arena",
             "homeAway": "home",
             "opponent": "Iona Gaels",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 78,
+            "opponentScore": 53,
             "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401915666/iona-tcu"
           },
           {
@@ -12804,8 +12848,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -12922,8 +12966,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12976,7 +13020,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -12985,7 +13029,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": "2026-11-04T19:44:30.718Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -13274,8 +13318,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -13658,40 +13702,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-            "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+            "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13700,8 +13744,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/schedule",
         "season": "2025-26",
         "reason": null,
@@ -13711,7 +13755,7 @@
             "date": "2026-02-13T21:35:00.000Z",
             "name": "TCU Horned Frogs at Vanderbilt Commodores",
             "status": "Final",
-            "venue": "Globe Life Field",
+            "venue": null,
             "homeAway": "neutral",
             "opponent": "Vanderbilt Commodores",
             "teamScore": 5,
@@ -13723,7 +13767,7 @@
             "date": "2026-02-15T01:00:00.000Z",
             "name": "Arkansas Razorbacks at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Globe Life Field",
+            "venue": null,
             "homeAway": "neutral",
             "opponent": "Arkansas Razorbacks",
             "teamScore": 5,
@@ -13735,7 +13779,7 @@
             "date": "2026-02-16T01:30:00.000Z",
             "name": "TCU Horned Frogs at Oklahoma Sooners",
             "status": "Final",
-            "venue": "Globe Life Field",
+            "venue": null,
             "homeAway": "neutral",
             "opponent": "Oklahoma Sooners",
             "teamScore": 2,
@@ -13747,7 +13791,7 @@
             "date": "2026-02-18T01:00:00.000Z",
             "name": "TCU Horned Frogs at UT Arlington Mavericks",
             "status": "Final",
-            "venue": "Globe Life Field",
+            "venue": null,
             "homeAway": "neutral",
             "opponent": "UT Arlington Mavericks",
             "teamScore": 8,
@@ -13759,7 +13803,7 @@
             "date": "2026-02-21T01:00:00.000Z",
             "name": "TCU Horned Frogs at UCLA Bruins",
             "status": "Final",
-            "venue": "Jackie Robinson Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "UCLA Bruins",
             "teamScore": 2,
@@ -13771,7 +13815,7 @@
             "date": "2026-02-21T22:00:00.000Z",
             "name": "TCU Horned Frogs at UCLA Bruins",
             "status": "Final",
-            "venue": "Jackie Robinson Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "UCLA Bruins",
             "teamScore": 1,
@@ -13783,7 +13827,7 @@
             "date": "2026-02-22T21:00:00.000Z",
             "name": "TCU Horned Frogs at UCLA Bruins",
             "status": "Final",
-            "venue": "Jackie Robinson Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "UCLA Bruins",
             "teamScore": 5,
@@ -13795,7 +13839,7 @@
             "date": "2026-02-23T21:00:00.000Z",
             "name": "TCU Horned Frogs at Loyola Marymount Lions",
             "status": "Final",
-            "venue": "Page Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Loyola Marymount Lions",
             "teamScore": 17,
@@ -13807,7 +13851,7 @@
             "date": "2026-02-28T00:00:00.000Z",
             "name": "New Haven Chargers at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "New Haven Chargers",
             "teamScore": 14,
@@ -13819,7 +13863,7 @@
             "date": "2026-02-28T20:00:00.000Z",
             "name": "New Haven Chargers at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "New Haven Chargers",
             "teamScore": 12,
@@ -13831,7 +13875,7 @@
             "date": "2026-03-01T19:00:00.000Z",
             "name": "New Haven Chargers at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "New Haven Chargers",
             "teamScore": 20,
@@ -13843,7 +13887,7 @@
             "date": "2026-03-04T00:00:00.000Z",
             "name": "Abilene Christian Wildcats at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Abilene Christian Wildcats",
             "teamScore": 7,
@@ -13855,7 +13899,7 @@
             "date": "2026-03-07T00:00:00.000Z",
             "name": "Tulane Green Wave at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Tulane Green Wave",
             "teamScore": 10,
@@ -13867,7 +13911,7 @@
             "date": "2026-03-08T17:00:00.000Z",
             "name": "Tulane Green Wave at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Tulane Green Wave",
             "teamScore": 4,
@@ -13879,7 +13923,7 @@
             "date": "2026-03-08T21:05:00.000Z",
             "name": "Tulane Green Wave at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Tulane Green Wave",
             "teamScore": 4,
@@ -13891,7 +13935,7 @@
             "date": "2026-03-10T23:00:00.000Z",
             "name": "Kansas Jayhawks at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Kansas Jayhawks",
             "teamScore": 9,
@@ -13903,7 +13947,7 @@
             "date": "2026-03-14T01:30:00.000Z",
             "name": "TCU Horned Frogs at Arizona State Sun Devils",
             "status": "Final",
-            "venue": "Phoenix Municipal Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Arizona State Sun Devils",
             "teamScore": 5,
@@ -13915,7 +13959,7 @@
             "date": "2026-03-15T01:35:00.000Z",
             "name": "TCU Horned Frogs at Arizona State Sun Devils",
             "status": "Final",
-            "venue": "Phoenix Municipal Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Arizona State Sun Devils",
             "teamScore": 8,
@@ -13927,7 +13971,7 @@
             "date": "2026-03-15T20:05:00.000Z",
             "name": "TCU Horned Frogs at Arizona State Sun Devils",
             "status": "Final",
-            "venue": "Phoenix Municipal Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Arizona State Sun Devils",
             "teamScore": 0,
@@ -13939,7 +13983,7 @@
             "date": "2026-03-17T19:00:00.000Z",
             "name": "New Mexico State Aggies at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "New Mexico State Aggies",
             "teamScore": 16,
@@ -13951,7 +13995,7 @@
             "date": "2026-03-20T23:00:00.000Z",
             "name": "UCF Knights at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "UCF Knights",
             "teamScore": 7,
@@ -13963,7 +14007,7 @@
             "date": "2026-03-21T22:00:00.000Z",
             "name": "UCF Knights at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "UCF Knights",
             "teamScore": 6,
@@ -13975,7 +14019,7 @@
             "date": "2026-03-22T18:00:00.000Z",
             "name": "UCF Knights at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "UCF Knights",
             "teamScore": 1,
@@ -13987,7 +14031,7 @@
             "date": "2026-03-24T23:30:00.000Z",
             "name": "TCU Horned Frogs at Dallas Baptist Patriots",
             "status": "Final",
-            "venue": "Horner Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Dallas Baptist Patriots",
             "teamScore": 11,
@@ -13999,7 +14043,7 @@
             "date": "2026-03-27T23:00:00.000Z",
             "name": "Texas Tech Red Raiders at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Texas Tech Red Raiders",
             "teamScore": 18,
@@ -14011,7 +14055,7 @@
             "date": "2026-03-28T20:45:00.000Z",
             "name": "Texas Tech Red Raiders at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Texas Tech Red Raiders",
             "teamScore": 10,
@@ -14023,7 +14067,7 @@
             "date": "2026-03-29T18:00:00.000Z",
             "name": "Texas Tech Red Raiders at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Texas Tech Red Raiders",
             "teamScore": 5,
@@ -14035,7 +14079,7 @@
             "date": "2026-03-31T23:00:00.000Z",
             "name": "Lamar Cardinals at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Lamar Cardinals",
             "teamScore": 8,
@@ -14047,7 +14091,7 @@
             "date": "2026-04-03T23:00:00.000Z",
             "name": "TCU Horned Frogs at Kansas State Wildcats",
             "status": "Final",
-            "venue": "Tointon Family Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Kansas State Wildcats",
             "teamScore": 12,
@@ -14059,7 +14103,7 @@
             "date": "2026-04-04T21:00:00.000Z",
             "name": "TCU Horned Frogs at Kansas State Wildcats",
             "status": "Final",
-            "venue": "Tointon Family Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Kansas State Wildcats",
             "teamScore": 9,
@@ -14071,7 +14115,7 @@
             "date": "2026-04-05T18:00:00.000Z",
             "name": "TCU Horned Frogs at Kansas State Wildcats",
             "status": "Final",
-            "venue": "Tointon Family Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Kansas State Wildcats",
             "teamScore": 4,
@@ -14083,7 +14127,7 @@
             "date": "2026-04-07T23:05:00.000Z",
             "name": "TCU Horned Frogs at Abilene Christian Wildcats",
             "status": "Final",
-            "venue": "Crutcher Scott Field",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Abilene Christian Wildcats",
             "teamScore": 1,
@@ -14095,7 +14139,7 @@
             "date": "2026-04-10T23:00:00.000Z",
             "name": "Arizona Wildcats at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Arizona Wildcats",
             "teamScore": 3,
@@ -14107,7 +14151,7 @@
             "date": "2026-04-11T20:00:00.000Z",
             "name": "Arizona Wildcats at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Arizona Wildcats",
             "teamScore": 5,
@@ -14119,7 +14163,7 @@
             "date": "2026-04-11T23:45:00.000Z",
             "name": "Arizona Wildcats at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Arizona Wildcats",
             "teamScore": 2,
@@ -14131,7 +14175,7 @@
             "date": "2026-04-14T23:00:00.000Z",
             "name": "Tarleton State Texans at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Tarleton State Texans",
             "teamScore": 12,
@@ -14143,7 +14187,7 @@
             "date": "2026-04-17T23:30:00.000Z",
             "name": "TCU Horned Frogs at Baylor Bears",
             "status": "Final",
-            "venue": "Magnolia Field at Baylor Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Baylor Bears",
             "teamScore": 4,
@@ -14155,7 +14199,7 @@
             "date": "2026-04-19T18:00:00.000Z",
             "name": "TCU Horned Frogs at Baylor Bears",
             "status": "Final",
-            "venue": "Magnolia Field at Baylor Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Baylor Bears",
             "teamScore": 5,
@@ -14167,7 +14211,7 @@
             "date": "2026-04-19T22:00:00.000Z",
             "name": "TCU Horned Frogs at Baylor Bears",
             "status": "Final",
-            "venue": "Magnolia Field at Baylor Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Baylor Bears",
             "teamScore": 10,
@@ -14179,7 +14223,7 @@
             "date": "2026-04-21T23:00:00.000Z",
             "name": "Dallas Baptist Patriots at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Dallas Baptist Patriots",
             "teamScore": 6,
@@ -14191,7 +14235,7 @@
             "date": "2026-04-24T23:00:00.000Z",
             "name": "Houston Cougars at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Houston Cougars",
             "teamScore": 8,
@@ -14203,7 +14247,7 @@
             "date": "2026-04-25T19:00:00.000Z",
             "name": "Houston Cougars at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Houston Cougars",
             "teamScore": 4,
@@ -14215,7 +14259,7 @@
             "date": "2026-04-26T18:00:00.000Z",
             "name": "Houston Cougars at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Houston Cougars",
             "teamScore": 14,
@@ -14227,7 +14271,7 @@
             "date": "2026-04-29T23:00:00.000Z",
             "name": "UT Arlington Mavericks at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "UT Arlington Mavericks",
             "teamScore": 12,
@@ -14239,7 +14283,7 @@
             "date": "2026-05-01T23:00:00.000Z",
             "name": "TCU Horned Frogs at Oklahoma State Cowboys",
             "status": "Final",
-            "venue": "O'Brate Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Oklahoma State Cowboys",
             "teamScore": 6,
@@ -14251,7 +14295,7 @@
             "date": "2026-05-02T23:00:00.000Z",
             "name": "TCU Horned Frogs at Oklahoma State Cowboys",
             "status": "Final",
-            "venue": "O'Brate Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Oklahoma State Cowboys",
             "teamScore": 2,
@@ -14263,7 +14307,7 @@
             "date": "2026-05-03T18:00:00.000Z",
             "name": "TCU Horned Frogs at Oklahoma State Cowboys",
             "status": "Final",
-            "venue": "O'Brate Stadium",
+            "venue": null,
             "homeAway": "away",
             "opponent": "Oklahoma State Cowboys",
             "teamScore": 10,
@@ -14275,7 +14319,7 @@
             "date": "2026-05-08T23:00:00.000Z",
             "name": "Utah Utes at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Utah Utes",
             "teamScore": 3,
@@ -14287,7 +14331,7 @@
             "date": "2026-05-09T19:00:00.000Z",
             "name": "Utah Utes at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Utah Utes",
             "teamScore": 3,
@@ -14299,7 +14343,7 @@
             "date": "2026-05-10T18:00:00.000Z",
             "name": "Utah Utes at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Charlie and Marie Lupton Baseball Stadium at Williams-Reilly Field",
+            "venue": null,
             "homeAway": "home",
             "opponent": "Utah Utes",
             "teamScore": 4,
@@ -14311,7 +14355,7 @@
             "date": "2026-05-14T22:30:00.000Z",
             "name": "TCU Horned Frogs at West Virginia Mountaineers",
             "status": "Final",
-            "venue": "Wagener Field at Monongalia County Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "West Virginia Mountaineers",
             "teamScore": 0,
@@ -14323,7 +14367,7 @@
             "date": "2026-05-15T22:30:00.000Z",
             "name": "TCU Horned Frogs at West Virginia Mountaineers",
             "status": "Final",
-            "venue": "Wagener Field at Monongalia County Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "West Virginia Mountaineers",
             "teamScore": 4,
@@ -14335,7 +14379,7 @@
             "date": "2026-05-16T16:00:00.000Z",
             "name": "TCU Horned Frogs at West Virginia Mountaineers",
             "status": "Final",
-            "venue": "Wagener Field at Monongalia County Ballpark",
+            "venue": null,
             "homeAway": "away",
             "opponent": "West Virginia Mountaineers",
             "teamScore": 4,
@@ -14347,7 +14391,7 @@
             "date": "2026-05-21T03:00:00.000Z",
             "name": "Kansas State Wildcats at TCU Horned Frogs",
             "status": "Final",
-            "venue": "Surprise Stadium",
+            "venue": null,
             "homeAway": "neutral",
             "opponent": "Kansas State Wildcats",
             "teamScore": 4,
@@ -14358,7 +14402,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/roster",
         "season": null,
@@ -14367,8 +14411,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14376,8 +14420,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
-        "lastSuccessAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
+        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14403,7 +14447,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1067676",
@@ -14426,7 +14470,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1224073",
@@ -14449,7 +14493,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1626611",
@@ -14472,7 +14516,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=876031",
@@ -14495,7 +14539,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1013374",
@@ -14518,7 +14562,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=808753",
@@ -14541,7 +14585,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=883212",
@@ -14564,7 +14608,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1157172",
@@ -14587,7 +14631,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=936984",
@@ -14610,7 +14654,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042172",
@@ -14633,7 +14677,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=722422",
@@ -14656,7 +14700,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1022358",
@@ -14679,7 +14723,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=777231",
@@ -14702,7 +14746,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1199096",
@@ -14725,7 +14769,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1285705",
@@ -14748,13 +14792,13 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-10T19:42:32.278Z"
+            "updatedAt": "2026-11-11T06:14:55.429Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-10T19:42:32.278Z",
+        "lastAttemptAt": "2026-11-11T06:14:55.429Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
