@@ -6,13 +6,13 @@
     "name": "Cincinnati",
     "athleticsUrl": "https://gobearcats.com"
   },
-  "generatedAt": "2026-11-12T00:41:39.607Z",
+  "generatedAt": "2026-11-12T15:12:39.047Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gobearcats.com/sports/football/news",
         "season": null,
@@ -2156,15 +2156,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://gobearcats.com/sports/football/news",
             "reason": null,
             "recordCount": 57
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "source-format-changed",
@@ -2172,32 +2172,32 @@
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 52
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 80
@@ -2206,8 +2206,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/schedule",
         "season": "2026",
         "reason": null,
@@ -2360,8 +2360,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -3378,8 +3378,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/football/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -3387,7 +3387,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/commits/",
         "season": "2027",
@@ -3880,7 +3880,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T06:44:10.406Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-football/offers/",
         "season": "2027",
@@ -10355,12 +10355,12 @@
     "basketball": {
       "sponsored": true,
       "news": {
-        "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
         "season": null,
-        "reason": "one-or-more-news-sources-degraded",
+        "reason": null,
         "records": [
           {
             "id": "73dd6b0a5ddfc92348096135",
@@ -11466,48 +11466,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
             "reason": null,
             "recordCount": 40
           },
           {
-            "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "status": "ok",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
-            "reason": "source-format-changed",
+            "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 53
@@ -11516,8 +11516,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2132/schedule",
         "season": "2026-27",
         "reason": null,
@@ -11910,8 +11910,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2132/roster",
         "season": "2026-27",
         "reason": null,
@@ -12064,8 +12064,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/mens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12073,7 +12073,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/commits/",
         "season": "2027",
@@ -12129,7 +12129,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-basketball/offers/",
         "season": "2027",
@@ -13085,12 +13085,23 @@
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
         "season": null,
         "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "a80e51c5a76723c63a36e1a5",
+            "title": "Second Quarter Proves Costly in Loss to Saint Joseph's",
+            "url": "https://gobearcats.com/news/2026/11/11/second-quarter-proves-costly-in-loss-to-saint-josephs",
+            "publishedAt": "2026-11-12T02:40:47.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://gobearcats.com/imgproxy/l_YWqBbQTLtEmjnETnuLhLycpuzyurKG6BcOTtXhB2o/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvYmVhcmNhdHMtY29tLXByb2QvMjAyNi8xMS8xMi8yd05mTElXeEF3MlFiSW41NzZXUmhwZkxHR2ZtWVE5RnFCaktVMktXLmpwZw.jpg",
+            "imageAlt": null,
+            "publisher": "Cincinnati Athletics",
+            "discoverySourceUrl": "https://gobearcats.com/sports/womens-basketball/news"
+          },
           {
             "id": "b476604eef1c26de12e493a5",
             "title": "Bearcats Wrap Up Homestand Wednesday vs. Saint Joseph's",
@@ -13414,15 +13425,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
             "reason": null,
-            "recordCount": 26
+            "recordCount": 27
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
             "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "source-format-changed",
@@ -13430,24 +13441,24 @@
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13456,8 +13467,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2132/schedule",
         "season": "2026-27",
         "reason": null,
@@ -13490,12 +13501,12 @@
             "id": "401916186",
             "date": "2026-11-11T23:30:00.000Z",
             "name": "Saint Joseph's Hawks at Cincinnati Bearcats",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Fifth Third Arena",
             "homeAway": "home",
             "opponent": "Saint Joseph's Hawks",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 56,
+            "opponentScore": 67,
             "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401916186/saint-josephs-cincinnati"
           },
           {
@@ -13838,8 +13849,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2132/roster",
         "season": "2026-27",
         "reason": null,
@@ -13983,8 +13994,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/womens-basketball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14026,7 +14037,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -14035,7 +14046,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/cincinnati/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -14071,8 +14082,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/baseball/news",
         "season": null,
         "reason": null,
@@ -14356,32 +14367,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://gobearcats.com/sports/baseball/news",
             "reason": null,
             "recordCount": 25
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/cincinnati/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -14390,8 +14401,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/161/schedule",
         "season": "2025-26",
         "reason": null,
@@ -15132,7 +15143,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/161/roster",
         "season": null,
@@ -15141,8 +15152,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://gobearcats.com/sports/baseball/news",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -15162,8 +15173,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -15189,7 +15200,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1334754",
@@ -15212,7 +15223,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1456751",
@@ -15235,7 +15246,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=714605",
@@ -15258,7 +15269,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=962986",
@@ -15281,7 +15292,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1648634",
@@ -15304,7 +15315,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1623615",
@@ -15327,7 +15338,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=891429",
@@ -15350,7 +15361,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1425413",
@@ -15373,7 +15384,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1212009",
@@ -15396,7 +15407,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=868445",
@@ -15419,7 +15430,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1104351",
@@ -15442,7 +15453,7 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1140510",
@@ -15465,13 +15476,13 @@
             "schoolId": "cincinnati",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1769&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,

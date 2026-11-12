@@ -6,13 +6,13 @@
     "name": "Houston",
     "athleticsUrl": "https://uhcougars.com"
   },
-  "generatedAt": "2026-11-12T00:41:39.607Z",
+  "generatedAt": "2026-11-12T15:12:39.047Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://uhcougars.com/sports/football/archives",
         "season": null,
@@ -5192,15 +5192,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://uhcougars.com/sports/football/archives",
             "reason": null,
             "recordCount": 108
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "source-format-changed",
@@ -5208,40 +5208,40 @@
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 6
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 62
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 243
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 43
@@ -5250,8 +5250,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/schedule",
         "season": "2026",
         "reason": null,
@@ -5404,8 +5404,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -6449,8 +6449,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6458,7 +6458,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-football/commits/",
         "season": "2027",
@@ -6836,7 +6836,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-football/offers/",
         "season": "2027",
@@ -11287,12 +11287,12 @@
     "basketball": {
       "sponsored": true,
       "news": {
-        "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
         "season": null,
-        "reason": "one-or-more-news-sources-degraded",
+        "reason": null,
         "records": [
           {
             "id": "f62bf279499fedfe865d5a21",
@@ -11304,6 +11304,17 @@
             "imageAlt": "Nov 2, 2026; Houston, Texas, USA; Houston Cougars guard Dedan Thomas Jr. (9) lays the ball up against La Salle Explorers forward Vice Zanki (11) in the first half at Fertitta Center. Mandatory Credit: Thomas Shea-Imagn Images | IMAGN IMAGES via Reuters Connect",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/houston/feed"
+          },
+          {
+            "id": "33009d239c7f6358539a2c8a",
+            "title": "#8/8 Men's Basketball Dominates Jacksonville State",
+            "url": "https://uhcougars.com/news/2026/11/11/-8-8-mens-basketball-vs-jacksonville-state",
+            "publishedAt": "2026-11-11T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://uhcougars.com/images/2026/11/11/mbk_vs_jaxst_recap_cover.jpg",
+            "imageAlt": null,
+            "publisher": "Houston Athletics",
+            "discoverySourceUrl": "https://uhcougars.com/sports/mens-basketball/archives"
           },
           {
             "id": "6512639ba1fcaca6f2beb450",
@@ -12244,56 +12255,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
             "reason": null,
-            "recordCount": 53
+            "recordCount": 54
           },
           {
-            "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "status": "ok",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
-            "reason": "source-format-changed",
+            "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 19
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 6
@@ -12302,8 +12313,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/248/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12336,12 +12347,12 @@
             "id": "401925702",
             "date": "2026-11-12T01:00:00.000Z",
             "name": "Jacksonville State Gamecocks at Houston Cougars",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Fertitta Center",
             "homeAway": "home",
             "opponent": "Jacksonville State Gamecocks",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 92,
+            "opponentScore": 46,
             "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925702/jax-state-houston"
           },
           {
@@ -12672,8 +12683,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/248/roster",
         "season": "2026-27",
         "reason": null,
@@ -12808,8 +12819,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12884,7 +12895,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/commits/",
         "season": "2027",
@@ -12986,7 +12997,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-basketball/offers/",
         "season": "2027",
@@ -13482,12 +13493,23 @@
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-11T14:26:40.645Z",
         "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "31677b92d04f9e1b4168ff61",
+            "title": "PREVIEW: Women’s Basketball Embarks on First Road Trip of the Season at Montana",
+            "url": "https://uhcougars.com/news/2026/11/12/womens-basketball-preview-womens-basketball-embarks-on-first-road-trip-of-the-season-at-montana",
+            "publishedAt": "2026-11-12T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://uhcougars.com/images/2026/11/12/Alyvia_McCorkle.jpg",
+            "imageAlt": null,
+            "publisher": "Houston Athletics",
+            "discoverySourceUrl": "https://uhcougars.com/sports/womens-basketball/archives"
+          },
           {
             "id": "f75a5797e8dd263e332a5037",
             "title": "Stephen F. Austin Ladyjacks vs. Houston Cougars: Game Highlights",
@@ -14097,15 +14119,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
             "reason": null,
-            "recordCount": 47
+            "recordCount": 48
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
             "lastSuccessAt": "2026-11-11T14:26:40.645Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "source-format-changed",
@@ -14113,32 +14135,32 @@
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -14147,8 +14169,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/248/schedule",
         "season": "2026-27",
         "reason": null,
@@ -14517,8 +14539,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/248/roster",
         "season": "2026-27",
         "reason": null,
@@ -14644,8 +14666,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14676,7 +14698,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -14685,7 +14707,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/houston/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -14951,8 +14973,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -15368,40 +15390,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 35
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://www.si.com/college/houston/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-            "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+            "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+            "lastSuccessAt": "2026-11-12T15:12:39.047Z",
             "sourceUrl": "https://thedailycougar.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
@@ -15410,8 +15432,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/124/schedule",
         "season": "2025-26",
         "reason": null,
@@ -16080,7 +16102,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/124/roster",
         "season": null,
@@ -16089,8 +16111,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://uhcougars.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -16098,8 +16120,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
-        "lastSuccessAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
+        "lastSuccessAt": "2026-11-12T15:12:39.047Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -16125,7 +16147,7 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1035998",
@@ -16148,7 +16170,7 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=708244",
@@ -16171,13 +16193,13 @@
             "schoolId": "houston",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1779&grad=2027",
-            "updatedAt": "2026-11-12T00:41:39.607Z"
+            "updatedAt": "2026-11-12T15:12:39.047Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T00:41:39.607Z",
+        "lastAttemptAt": "2026-11-12T15:12:39.047Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
