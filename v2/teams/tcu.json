@@ -6,18 +6,29 @@
     "name": "TCU",
     "athleticsUrl": "https://gofrogs.com"
   },
-  "generatedAt": "2026-11-12T23:38:01.481Z",
+  "generatedAt": "2026-11-13T06:42:53.210Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-11T06:14:55.429Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
         "reason": "one-or-more-news-sources-degraded",
         "records": [
+          {
+            "id": "529be6a9d26769077f52e748",
+            "title": "TCU’s Latest Collapse Might Be Its Most Painful Yet",
+            "url": "https://www.si.com/college/tcu/football/tcu-football-arizona-collapse-sonny-dykes-painful-loss-2026",
+            "publishedAt": "2026-11-13T02:15:00.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6704,h_3771,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/killer_frogs/01m7716996j8cyqp4mg0.jpg",
+            "imageAlt": "Oct 17, 2026; Waco, Texas, USA; TCU Horned Frogs head coach Sonny Dykes during a timeout against the Baylor Bears during the second half at McLane Stadium. Mandatory Credit: Chris Jones-Imagn Images | IMAGN IMAGES via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/tcu/feed"
+          },
           {
             "id": "8a837d3edeb6e886945470c8",
             "title": "Lance Leipold Joins Deion Sanders on Big 12 Hot Seat Watch in Week 11",
@@ -4026,15 +4037,15 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://gofrogs.com/sports/football/archives",
             "reason": null,
             "recordCount": 86
           },
           {
             "status": "stale",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
             "lastSuccessAt": "2026-11-11T06:14:55.429Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "source-format-changed",
@@ -4042,40 +4053,40 @@
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 51
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 192
+            "recordCount": 193
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 25
@@ -4084,8 +4095,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/schedule",
         "season": "2026",
         "reason": null,
@@ -4238,8 +4249,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -5274,8 +5285,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -5283,7 +5294,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/commits/",
         "season": "2027",
@@ -5730,7 +5741,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-05T06:44:10.406Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-football/offers/",
         "season": "2027",
@@ -9400,12 +9411,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "4bf7810ad223efb1f4ebfce6",
+            "title": "TCU Basketball Nears a Surprising Addition in Robbie Avila",
+            "url": "https://www.si.com/college/tcu/basketball/tcu-basketball-robbie-avila-transfer-eligibility-fit-2026",
+            "publishedAt": "2026-11-13T01:30:55.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1599,h_899,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/killer_frogs/01m78rd85wa399q1g9em.png",
+            "imageAlt": "Robbie Avila Anchored Indiana State to a 32–7 record, an MVC regular-season title, and an NIT Championship Game appearance in 2023–24. Transferred to Saint Louis and guided the Billikens to a trip to the Second Round of the 2026 NCAA Tournament. | AP Photo/Jeffrey T. Barnes",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/tcu/feed"
+          },
           {
             "id": "8b983199b104bdd201acdd60",
             "title": "Sources: Former Saint Louis star Robbie Avila finalizing deal to play for TCU",
@@ -9449,6 +9471,17 @@
             "imageAlt": null,
             "publisher": "CBS Sports",
             "discoverySourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/"
+          },
+          {
+            "id": "0ff44f43462a24699180b7e3",
+            "title": "Frogs Add A-10 Player of the Year Avila",
+            "url": "https://gofrogs.com/news/2026/11/12/mens-basketball-frogs-add-a-10-player-of-the-year-avila",
+            "publishedAt": "2026-11-12T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://gofrogs.com/images/2026/11/12/_JRS9001.jpg",
+            "imageAlt": null,
+            "publisher": "TCU Athletics",
+            "discoverySourceUrl": "https://gofrogs.com/sports/mens-basketball/archives"
           },
           {
             "id": "8f4135e44bd9eb76a3f60773",
@@ -10125,56 +10158,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
             "reason": null,
-            "recordCount": 46
+            "recordCount": 47
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 7
+            "recordCount": 8
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 5
@@ -10183,8 +10216,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10553,8 +10586,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -10698,8 +10731,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -10774,7 +10807,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/commits/",
         "season": "2027",
@@ -10807,7 +10840,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-basketball/offers/",
         "season": "2027",
@@ -11854,13 +11887,24 @@
     "womens-basketball": {
       "sponsored": true,
       "news": {
-        "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-11T14:26:40.645Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
-        "reason": "one-or-more-news-sources-degraded",
+        "reason": null,
         "records": [
+          {
+            "id": "e1a4874a8ad11593c751058b",
+            "title": "Horned Frogs Dish Out 31 Assists in Rout of Southeastern Louisiana",
+            "url": "https://gofrogs.com/news/2026/11/12/womens-basketball-horned-frogs-dish-out-31-assists-in-rout-of-southeastern-louisiana",
+            "publishedAt": "2026-11-12T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://gofrogs.com/images/2026/11/12/261112_WBB_vsSLU_InGame-22.jpg",
+            "imageAlt": null,
+            "publisher": "TCU Athletics",
+            "discoverySourceUrl": "https://gofrogs.com/sports/womens-basketball/archives"
+          },
           {
             "id": "364c0eda2881a37726a01701",
             "title": "Women’s Basketball: Jadyn Wooten scores season-high 19 points, leads No. 15 TCU over Iona",
@@ -12558,48 +12602,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
             "reason": null,
-            "recordCount": 49
+            "recordCount": 50
           },
           {
-            "status": "stale",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-11T14:26:40.645Z",
+            "status": "ok",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
-            "reason": "source-format-changed",
+            "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 7
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -12608,8 +12652,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12666,12 +12710,12 @@
             "id": "401917941",
             "date": "2026-11-13T00:30:00.000Z",
             "name": "SE Louisiana Lady Lions at TCU Horned Frogs",
-            "status": "Scheduled",
+            "status": "Final",
             "venue": "Schollmaier Arena",
             "homeAway": "home",
             "opponent": "SE Louisiana Lady Lions",
-            "teamScore": null,
-            "opponentScore": null,
+            "teamScore": 106,
+            "opponentScore": 47,
             "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401917941/se-louisiana-tcu"
           },
           {
@@ -13002,8 +13046,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/2628/roster",
         "season": "2026-27",
         "reason": null,
@@ -13120,8 +13164,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -13174,7 +13218,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -13183,7 +13227,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": "2026-11-04T19:44:30.718Z",
         "sourceUrl": "https://247sports.com/college/tcu/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -13472,8 +13516,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -13867,40 +13911,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 34
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.si.com/college/tcu/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-            "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
             "sourceUrl": "https://www.frogsowar.com/rss/current.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13909,8 +13953,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14567,7 +14611,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/198/roster",
         "season": null,
@@ -14576,8 +14620,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://gofrogs.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14597,8 +14641,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
-        "lastSuccessAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14624,7 +14668,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1067676",
@@ -14647,7 +14691,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1224073",
@@ -14670,7 +14714,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1626611",
@@ -14693,7 +14737,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=876031",
@@ -14716,7 +14760,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1013374",
@@ -14739,7 +14783,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=808753",
@@ -14762,7 +14806,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=883212",
@@ -14785,7 +14829,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1157172",
@@ -14808,7 +14852,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=936984",
@@ -14831,7 +14875,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1042172",
@@ -14854,7 +14898,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=722422",
@@ -14877,7 +14921,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1022358",
@@ -14900,7 +14944,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=777231",
@@ -14923,7 +14967,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1199096",
@@ -14946,7 +14990,7 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1285705",
@@ -14969,13 +15013,13 @@
             "schoolId": "tcu",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1742&grad=2027",
-            "updatedAt": "2026-11-12T23:38:01.481Z"
+            "updatedAt": "2026-11-13T06:42:53.210Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-12T23:38:01.481Z",
+        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
