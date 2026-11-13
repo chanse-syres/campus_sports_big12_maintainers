@@ -6,18 +6,40 @@
     "name": "Colorado",
     "athleticsUrl": "https://cubuffs.com"
   },
-  "generatedAt": "2026-11-13T06:42:53.210Z",
+  "generatedAt": "2026-11-13T19:40:09.425Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
-        "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+        "status": "ok",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/football/archives",
         "season": null,
-        "reason": "one-or-more-news-sources-degraded",
+        "reason": null,
         "records": [
+          {
+            "id": "c4ddca863092d34f20bfd184",
+            "title": "Ranking Every Big 12 Program’s Playoff Future in the 24-Team CFP Era",
+            "url": "https://www.heartlandcollegesports.com/2026/11/13/big-12-playoff-power-rankings-24-team-college-football-playoff/",
+            "publishedAt": "2026-11-13T19:39:08.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2025/02/FB-Field-Question-Mark-150x150.png",
+            "imageAlt": "Big 12 football logo behind elevated question mark.",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
+          {
+            "id": "04cf82fcecb6739eb5ce3e56",
+            "title": "Colorado Buffaloes vs. Houston Cougars: Final Prediction",
+            "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-houston-cougars-final-prediction",
+            "publishedAt": "2026-11-13T13:59:41.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1439,h_809,x_1037,y_11/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/buffs_beat/01m79e5hr2dfpnam6cdn.jpg",
+            "imageAlt": "Oct 31, 2026; Boulder, Colorado, USA; Colorado Buffaloes head coach Deion Sanders on the sideline during the first half against the Kansas State Wildcats at Folsom Field. | IMAGN IMAGES via Reuters Connect",
+            "publisher": "Sports Illustrated",
+            "discoverySourceUrl": "https://www.si.com/college/colorado/feed"
+          },
           {
             "id": "ec9ffa2ec443a305eee020ed",
             "title": "This Colorado Tight End Needs a Bigger Role to Avoid Future Transfer Concerns",
@@ -28,6 +50,17 @@
             "imageAlt": "Sep 12, 2026; Boulder, Colorado, USA; Colorado Buffaloes head coach Deion Sanders before the game against Weber State at Folsom Field. Mandatory Credit: Ron Chenoy-Imagn Images | IMAGN IMAGES via Reuters Connect",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/colorado/feed"
+          },
+          {
+            "id": "198f4484aec49f8d717b2ae7",
+            "title": "Flashback: Revisiting Colorado’s 2001 Season",
+            "url": "https://cubuffs.com/news/2026/11/13/football-flashback-revisiting-colorados-2001-season",
+            "publishedAt": "2026-11-13T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://cubuffs.com/images/2011/9/5/MMRMJAUAZKLYWIK.20110905205849.jpg",
+            "imageAlt": null,
+            "publisher": "Colorado Athletics",
+            "discoverySourceUrl": "https://cubuffs.com/sports/football/archives"
           },
           {
             "id": "8d1f718a00d70b8a094a3c01",
@@ -6160,58 +6193,58 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://cubuffs.com/sports/football/archives",
             "reason": null,
-            "recordCount": 81
+            "recordCount": 82
           },
           {
-            "status": "stale",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-11T06:14:55.429Z",
+            "status": "ok",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
-            "reason": "source-format-changed",
+            "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 10
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 55
+            "recordCount": 56
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 393
+            "recordCount": 394
           }
         ]
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/schedule",
         "season": "2026",
         "reason": null,
@@ -6364,8 +6397,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -7328,8 +7361,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -7337,7 +7370,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/commits/",
         "season": "2027",
@@ -7807,7 +7840,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-football/offers/",
         "season": "2027",
@@ -15042,8 +15075,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -15734,48 +15767,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 50
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 11
@@ -15784,8 +15817,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/38/schedule",
         "season": "2026-27",
         "reason": null,
@@ -16166,8 +16199,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/38/roster",
         "season": "2026-27",
         "reason": null,
@@ -16320,8 +16353,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -16374,7 +16407,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-basketball/commits/",
         "season": "2027",
@@ -16407,7 +16440,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-basketball/offers/",
         "season": "2027",
@@ -16489,12 +16522,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "520b703bec0c66f7e085b525",
+            "title": "CU Athletics Announces Elevate Colorado",
+            "url": "https://cubuffs.com/news/2026/11/13/general-cu-athletics-announces-elevate-colorado",
+            "publishedAt": "2026-11-13T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://cubuffs.com/images/2026/11/13/Elevate_Colorado_1920x1080_2.jpg",
+            "imageAlt": null,
+            "publisher": "Colorado Athletics",
+            "discoverySourceUrl": "https://cubuffs.com/sports/womens-basketball/archives"
+          },
           {
             "id": "8e8a4ba66bfd05281b564809",
             "title": "Buffs Return Home to Host Youngstown State on Saturday",
@@ -17093,40 +17137,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
             "reason": null,
-            "recordCount": 51
+            "recordCount": 52
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-            "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+            "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+            "lastSuccessAt": "2026-11-13T19:40:09.425Z",
             "sourceUrl": "https://www.si.com/college/colorado/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -17135,8 +17179,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/38/schedule",
         "season": "2026-27",
         "reason": null,
@@ -17505,8 +17549,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/38/roster",
         "season": "2026-27",
         "reason": null,
@@ -17641,8 +17685,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
-        "lastSuccessAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
+        "lastSuccessAt": "2026-11-13T19:40:09.425Z",
         "sourceUrl": "https://cubuffs.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -17706,7 +17750,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -17715,7 +17759,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/colorado/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -17797,7 +17841,7 @@
       "sponsored": false,
       "news": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -17807,7 +17851,7 @@
       },
       "schedule": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -17816,7 +17860,7 @@
       },
       "roster": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -17825,7 +17869,7 @@
       },
       "recruitingAnnouncements": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -17834,7 +17878,7 @@
       },
       "recruitingBoard": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
@@ -17843,7 +17887,7 @@
       },
       "recruitingOffers": {
         "status": "unsupported",
-        "lastAttemptAt": "2026-11-13T06:42:53.210Z",
+        "lastAttemptAt": "2026-11-13T19:40:09.425Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
