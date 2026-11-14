@@ -6,14 +6,14 @@
     "name": "Oklahoma State",
     "athleticsUrl": "https://okstate.com"
   },
-  "generatedAt": "2026-11-14T17:59:31.751Z",
+  "generatedAt": "2026-11-14T22:22:35.650Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/football/archives",
         "season": null,
         "reason": null,
@@ -149,6 +149,17 @@
             "imageAlt": "Oklahoma State Cowboys linebacker Tate Romney tackles a ball carrier during a game. | IMAGN IMAGES via Reuters Connect",
             "publisher": "Sports Illustrated",
             "discoverySourceUrl": "https://www.si.com/college/oklahomastate/feed"
+          },
+          {
+            "id": "d14efec744eb506c592b7b13",
+            "title": "Inside the Numbers – Oklahoma State vs Texas Tech",
+            "url": "https://okstate.com/news/2026/11/12/cowboy-football-inside-the-numbers-oklahoma-state-vs-texas-tech",
+            "publishedAt": "2026-11-12T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://okstate.com/images/2026/11/14/30302357.jpg",
+            "imageAlt": null,
+            "publisher": "Oklahoma State Athletics",
+            "discoverySourceUrl": "https://okstate.com/sports/football/archives"
           },
           {
             "id": "7838f04dfd9425ef01893b82",
@@ -5478,48 +5489,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://okstate.com/sports/football/archives",
             "reason": null,
-            "recordCount": 116
+            "recordCount": 117
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 62
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 299
@@ -5528,8 +5539,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/schedule",
         "season": "2026",
         "reason": null,
@@ -5682,8 +5693,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -6736,8 +6747,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -6745,7 +6756,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/commits/",
         "season": "2027",
@@ -6754,7 +6765,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T06:44:10.406Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-football/offers/",
         "season": "2027",
@@ -13092,8 +13103,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
@@ -14213,48 +14224,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
             "reason": null,
             "recordCount": 49
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 50
@@ -14263,8 +14274,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/197/schedule",
         "season": "2026-27",
         "reason": null,
@@ -14657,8 +14668,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/197/roster",
         "season": "2026-27",
         "reason": null,
@@ -14802,8 +14813,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14845,7 +14856,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/commits/",
         "season": "2027",
@@ -14878,7 +14889,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-basketball/offers/",
         "season": "2027",
@@ -15880,8 +15891,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -16605,40 +16616,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 60
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -16647,8 +16658,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/197/schedule",
         "season": "2026-27",
         "reason": null,
@@ -17041,8 +17052,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/197/roster",
         "season": "2026-27",
         "reason": null,
@@ -17159,8 +17170,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -17202,7 +17213,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -17211,7 +17222,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/oklahoma-state/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -17316,8 +17327,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -17711,32 +17722,32 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://okstate.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 31
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-            "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
             "sourceUrl": "https://www.si.com/college/oklahomastate/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 4
@@ -17745,8 +17756,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/110/schedule",
         "season": "2025-26",
         "reason": null,
@@ -18487,7 +18498,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/110/roster",
         "season": null,
@@ -18496,8 +18507,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://okstate.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -18505,8 +18516,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
-        "lastSuccessAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -18532,7 +18543,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=764581",
@@ -18555,7 +18566,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=915583",
@@ -18578,7 +18589,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=900440",
@@ -18601,7 +18612,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=846804",
@@ -18624,7 +18635,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1112711",
@@ -18647,7 +18658,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=855576",
@@ -18670,7 +18681,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1638786",
@@ -18693,7 +18704,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=881782",
@@ -18716,7 +18727,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=829686",
@@ -18739,7 +18750,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=820495",
@@ -18762,7 +18773,7 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1053668",
@@ -18785,13 +18796,13 @@
             "schoolId": "oklahoma-state",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1694&grad=2027",
-            "updatedAt": "2026-11-14T17:59:31.751Z"
+            "updatedAt": "2026-11-14T22:22:35.650Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-14T17:59:31.751Z",
+        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
