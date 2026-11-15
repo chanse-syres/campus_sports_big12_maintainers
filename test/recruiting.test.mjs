@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 import { collectRecruiting, parseRecruiting, recruitingSourceUrl } from '../src/adapters/recruiting.mjs';
+import { refreshDataset } from '../src/dataset.mjs';
 
 const school = { slug: 'arizona', name: 'Arizona' };
 const url = recruitingSourceUrl(school, 'football', 2027);
@@ -93,6 +94,35 @@ function sectionPage(rows = rowHtml(46100002, 'TE')) {
 function collect(get, kind = 'offers') {
   return collectRecruiting({ school, sport: 'football', year: 2027, observedAt, get, kind });
 }
+
+// Minimal synthetic representation of the HTTP 200 interstitial, not a source listing.
+const clientChallenge = '<html><head><title>Client Challenge</title></head><body><noscript>JavaScript is disabled in your browser.</noscript></body></html>';
+
+test('HTTP 200 client challenge preserves the last verified commitment snapshot and reports an access failure', async () => {
+  const at = '2026-11-15T18:50:04.109Z';
+  const prior = await refreshDataset({
+    at: observedAt, sourceUrl: url, collect: () => collect(async () => document, 'commits'),
+  });
+  assert.equal(prior.status, 'ok');
+  assert.equal(prior.records.length, 1);
+  const blocked = await refreshDataset({
+    at, sourceUrl: url, prior,
+    collect: () => collectRecruiting({ school, sport: 'football', year: 2027, observedAt: at,
+      get: async () => clientChallenge, kind: 'commits' }),
+  });
+  assert.deepEqual(blocked, { ...prior, status: 'stale', lastAttemptAt: at, reason: 'source-access-challenge' });
+});
+
+test('HTTP 200 client challenge on an offer continuation does not publish an incomplete list', async () => {
+  const withoutPrior = await refreshDataset({
+    at: observedAt, sourceUrl: offersUrl,
+    collect: () => collect(async target => target === offersUrl ? offerPage() : clientChallenge),
+  });
+  assert.equal(withoutPrior.status, 'unavailable');
+  assert.equal(withoutPrior.reason, 'source-access-challenge');
+  assert.equal(withoutPrior.lastSuccessAt, null);
+  assert.deepEqual(withoutPrior.records, []);
+});
 
 test('actual displayed ratings and rank groups are preserved without inventing missing fields', () => {
   const rating = `<div class="rating"><div class="ri-page__star-and-score">

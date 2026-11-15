@@ -1,5 +1,6 @@
 import { load } from 'cheerio';
 import { SCHOOL_SLUGS } from '../config.mjs';
+import { SourceError } from '../network.mjs';
 import { cleanText, safeUrl, stableId } from '../normalize.mjs';
 
 const MAX_RECORDS = 1000;
@@ -35,8 +36,13 @@ function exactSource(raw, expected) {
 
 function document(text) {
   if (typeof text !== 'string' || text.length > MAX_DOCUMENT) throw new Error('Invalid recruiting response size');
-  if (/Sorry, you have been blocked|Attention Required!|Just a moment\.\.\./i.test(text)) throw new Error('Recruiting source access challenge');
-  return load(text);
+  if (/Sorry, you have been blocked|Attention Required!|Just a moment\.\.\./i.test(text)) throw new SourceError('source-access-challenge');
+  const $ = load(text);
+  // The provider can return an interstitial with HTTP 200 instead of a recruiting document.
+  if ($('head > title').text().trim() === 'Client Challenge' && !$('link[rel="canonical"], ul.ri-page__list, #page-content').length) {
+    throw new SourceError('source-access-challenge');
+  }
+  return $;
 }
 
 function ratingMode($) {
