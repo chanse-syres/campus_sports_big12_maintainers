@@ -6,18 +6,29 @@
     "name": "Utah",
     "athleticsUrl": "https://utahutes.com"
   },
-  "generatedAt": "2026-11-14T22:22:35.650Z",
+  "generatedAt": "2026-11-15T06:28:43.657Z",
   "sports": {
     "football": {
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/football/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "aada827424c01fa4aebe2498",
+            "title": "Utah Running Back Wayshawn Parker Dealing With Heel Injury vs. Arizona",
+            "url": "https://www.heartlandcollegesports.com/2026/11/14/wayshawn-parker-injury-update-utah-arizona-2026/",
+            "publishedAt": "2026-11-15T04:57:07.000Z",
+            "publishedAtPrecision": "instant",
+            "imageUrl": "https://www.heartlandcollegesports.com/wp-content/uploads/2026/08/Utah-Utes-INC-150x150.png",
+            "imageAlt": "Utah Utes INC",
+            "publisher": "Heartland College Sports",
+            "discoverySourceUrl": "https://www.heartlandcollegesports.com/feed/"
+          },
           {
             "id": "2a5480443d533a1105ed98fb",
             "title": "Multiple Big 12 Football Games Get New Kickoff Times Following FAA Ground Stop",
@@ -3025,56 +3036,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://utahutes.com/sports/football/archives",
             "reason": null,
             "recordCount": 100
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 17
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.ncaa.com/news/football/fbs/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-football/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 14
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
-            "recordCount": 90
+            "recordCount": 91
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 38
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 13
@@ -3083,8 +3094,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/schedule",
         "season": "2026",
         "reason": null,
@@ -3201,13 +3212,13 @@
             "id": "401856864",
             "date": "2026-11-15T03:30:00.000Z",
             "name": "Utah Utes at Arizona Wildcats",
-            "status": "Scheduled",
+            "status": "In Progress",
             "venue": "Casino Del Sol Stadium",
             "homeAway": "away",
             "opponent": "Arizona Wildcats",
             "teamScore": null,
             "opponentScore": null,
-            "url": "https://www.espn.com/college-football/game/_/gameId/401856864/utah-arizona"
+            "url": "https://www.espn.com/college-football/game?gameId=401856864"
           },
           {
             "id": "401856872",
@@ -3237,8 +3248,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/roster?limit=300",
         "season": "2026",
         "reason": null,
@@ -4255,8 +4266,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/football/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -4264,7 +4275,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-football/commits/",
         "season": "2027",
@@ -4780,7 +4791,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-football/offers/",
         "season": "2027",
@@ -9761,12 +9772,23 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
         "season": null,
         "reason": null,
         "records": [
+          {
+            "id": "a73f5f356c1bcfcd504725f1",
+            "title": "Utah Men's Basketball Versus Washington Postponed to Dec. 5",
+            "url": "https://utahutes.com/news/2026/11/14/utah-mens-basketball-versus-washington-postponed-to-dec-5",
+            "publishedAt": "2026-11-14T00:00:00.000Z",
+            "publishedAtPrecision": "day",
+            "imageUrl": "https://utahutes.com/images/2026/11/14/Postponed_Web_v3.jpg",
+            "imageAlt": null,
+            "publisher": "Utah Athletics",
+            "discoverySourceUrl": "https://utahutes.com/sports/mens-basketball/archives"
+          },
           {
             "id": "4c0e210b0d7b389b26f49cd4",
             "title": "Utah Downs Weber State 85-64 Behind a Second-Half Surge",
@@ -10805,56 +10827,56 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
             "reason": null,
-            "recordCount": 54
+            "recordCount": 55
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-men/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.cbssports.com/rss/headlines/college-basketball/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 34
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 3
@@ -10863,8 +10885,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/254/schedule",
         "season": "2026-27",
         "reason": null,
@@ -10904,18 +10926,6 @@
             "teamScore": 85,
             "opponentScore": 64,
             "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921699/weber-st-utah"
-          },
-          {
-            "id": "401921760",
-            "date": "2026-11-15T19:00:00.000Z",
-            "name": "Washington Huskies at Utah Utes",
-            "status": "Scheduled",
-            "venue": "Jon M. Huntsman Center",
-            "homeAway": "home",
-            "opponent": "Washington Huskies",
-            "teamScore": null,
-            "opponentScore": null,
-            "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921760/washington-utah"
           },
           {
             "id": "401920720",
@@ -10964,6 +10974,18 @@
             "teamScore": null,
             "opponentScore": null,
             "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401918058/california-utah"
+          },
+          {
+            "id": "401921760",
+            "date": "2026-12-06T00:00:00.000Z",
+            "name": "Washington Huskies at Utah Utes",
+            "status": "Scheduled",
+            "venue": "Jon M. Huntsman Center",
+            "homeAway": "home",
+            "opponent": "Washington Huskies",
+            "teamScore": null,
+            "opponentScore": null,
+            "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921760/washington-utah"
           },
           {
             "id": "401920346",
@@ -11257,8 +11279,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/254/roster",
         "season": "2026-27",
         "reason": null,
@@ -11411,8 +11433,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/mens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -11476,7 +11498,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/commits/",
         "season": "2027",
@@ -11532,7 +11554,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-basketball/offers/",
         "season": "2027",
@@ -11798,8 +11820,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
         "season": null,
         "reason": null,
@@ -12380,48 +12402,48 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
             "reason": null,
             "recordCount": 46
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/news?limit=100",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.ncaa.com/news/basketball-women/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 1
           },
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 2
@@ -12430,8 +12452,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/254/schedule",
         "season": "2026-27",
         "reason": null,
@@ -12800,8 +12822,8 @@
       },
       "roster": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/254/roster",
         "season": "2026-27",
         "reason": null,
@@ -12927,8 +12949,8 @@
       },
       "recruitingAnnouncements": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/womens-basketball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -12959,7 +12981,7 @@
       },
       "recruitingBoard": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/commits/",
         "season": "2027",
@@ -12968,7 +12990,7 @@
       },
       "recruitingOffers": {
         "status": "stale",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": "2026-11-05T19:56:33.819Z",
         "sourceUrl": "https://247sports.com/college/utah/season/2027-womens-basketball/offers/",
         "season": "2027",
@@ -13027,8 +13049,8 @@
       "sponsored": true,
       "news": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/baseball/archives",
         "season": null,
         "reason": null,
@@ -13400,40 +13422,40 @@
         "sources": [
           {
             "status": "ok",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://utahutes.com/sports/baseball/archives",
             "reason": null,
             "recordCount": 33
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.ncaa.com/news/baseball/d1/rss.xml",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.heartlandcollegesports.com/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://www.si.com/college/utah/feed",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
           },
           {
             "status": "empty",
-            "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-            "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+            "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+            "lastSuccessAt": "2026-11-15T06:28:43.657Z",
             "sourceUrl": "https://dailyutahchronicle.com/category/sports/feed/",
             "reason": "publisher-feed-filtered-school-and-sport",
             "recordCount": 0
@@ -13442,8 +13464,8 @@
       },
       "schedule": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/128/schedule",
         "season": "2025-26",
         "reason": null,
@@ -14064,7 +14086,7 @@
       },
       "roster": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": null,
         "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball/teams/128/roster",
         "season": null,
@@ -14073,8 +14095,8 @@
       },
       "recruitingAnnouncements": {
         "status": "empty",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://utahutes.com/sports/baseball/archives",
         "season": null,
         "reason": "headline-classification-announcements-only",
@@ -14082,8 +14104,8 @@
       },
       "recruitingBoard": {
         "status": "ok",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
-        "lastSuccessAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
+        "lastSuccessAt": "2026-11-15T06:28:43.657Z",
         "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
         "season": "2027",
         "reason": "provider-reported-commitments-only-offers-not-covered",
@@ -14109,7 +14131,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-11-14T22:22:35.650Z"
+            "updatedAt": "2026-11-15T06:28:43.657Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1339099",
@@ -14132,7 +14154,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-11-14T22:22:35.650Z"
+            "updatedAt": "2026-11-15T06:28:43.657Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1128167",
@@ -14155,7 +14177,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-11-14T22:22:35.650Z"
+            "updatedAt": "2026-11-15T06:28:43.657Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=1476227",
@@ -14178,7 +14200,7 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-11-14T22:22:35.650Z"
+            "updatedAt": "2026-11-15T06:28:43.657Z"
           },
           {
             "profileUrl": "https://www.perfectgame.org/Players/PlayerProfile.aspx?ID=751087",
@@ -14201,13 +14223,13 @@
             "schoolId": "utah",
             "sport": "baseball",
             "sourceUrl": "https://www.perfectgame.org/College/CollegeCommitments.aspx?college=1835&grad=2027",
-            "updatedAt": "2026-11-14T22:22:35.650Z"
+            "updatedAt": "2026-11-15T06:28:43.657Z"
           }
         ]
       },
       "recruitingOffers": {
         "status": "unavailable",
-        "lastAttemptAt": "2026-11-14T22:22:35.650Z",
+        "lastAttemptAt": "2026-11-15T06:28:43.657Z",
         "lastSuccessAt": null,
         "sourceUrl": null,
         "season": null,
